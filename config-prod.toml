@@ -1,0 +1,18 @@
+languageCode = "en-ja"
+title = "群馬大学電子計算機研究会 IGGG"
+baseURL = "https://www.iggg.org/"
+theme = "dopetrope"
+
+[params.portfolio]
+    title = "My Portfolio"
+    foldername = "portfolio"
+    findoutmoretext = "Find out more"
+
+[params.blog]
+    title = "The Blog"
+    viewalltext = "View All"
+    foldername = "blog"
+
+[params.settings]
+    googleanalytics = "UA-113904582-2"
+    disqus = "hugo-dopetrope"
