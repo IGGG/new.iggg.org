@@ -3,6 +3,11 @@ title = "群馬大学電子計算機研究会 IGGG"
 baseURL = "http://localhost:1313/"
 theme = "dopetrope"
 
+[params]
+  AuthorName = "iggg.org"
+  GitHubUser = "IGGG"
+  Subtitle = "Information technology researching society of the Gunmer, by the Gunmer, for the Gunmer"
+
 [params.portfolio]
     title = "My Portfolio"
     foldername = "portfolio"
