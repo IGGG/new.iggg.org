@@ -34,8 +34,8 @@ theme = "dopetrope"
 
 [params.pages.wiki]
     title = "Wiki"
-    link  = "https://www.iggg.org/wiki"
-    useBaseURL = false
+    link  = "wiki"
+    useBaseURL = true
     order = 5
 
 [params.pages.rules]
