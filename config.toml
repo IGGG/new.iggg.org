@@ -56,6 +56,21 @@ theme = "dopetrope"
     useBaseURL = true
     order = 8
 
+[params.slider]
+    enable = true
+    slides = [
+      "2014/05/DSC03469.jpg",
+      "2014/05/DSC08554_.jpg",
+      "2014/05/DSC07319.jpg",
+      "2014/05/2014-03-19-11.24.19.jpg",
+      "2014/05/DSC08222.jpg",
+      "2014/06/DSC09428.jpg",
+      "2014/06/DSC09437.jpg",
+      "2014/06/2014-06-23-17.05.10.jpg",
+      "2014/06/2014-06-25-21.20.40.jpg",
+      "2014/06/2014-06-28-17.54.04.jpg",
+    ]
+
 [params.portfolio]
     title = "My Portfolio"
     foldername = "portfolio"
