@@ -8,6 +8,11 @@ theme = "dopetrope"
   GitHubUser = "IGGG"
   Subtitle = "Information technology researching society of the Gunmer, by the Gunmer, for the Gunmer"
 
+[params.pages.about]
+    title = "About"
+    link  = "about"
+    useBaseURL = true
+
 [params.portfolio]
     title = "My Portfolio"
     foldername = "portfolio"
