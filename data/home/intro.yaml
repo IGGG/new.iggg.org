@@ -1,19 +1,14 @@
+title: 'IGGG is 何？'
+
 sections:
-- icon: 'fa-cog'
-  title: 'Ipsum consequat'
-  description: 'Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.'
+- icon: 'fa-book'
+  title: '豊富な勉強会'
+  description: '様々なテーマで、自主企画の勉強会を実施。初心者を対象にしたプログラミング初歩を楽しく学ぶワークショップから、内外の幅広い参加者が集まるイベントまで、独自に企画しています。みんなでスキルアップ！'
 
-- icon: 'fa-flash'
-  title: 'Magna etiam dolor'
-  description: 'Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.'
+- icon: 'fa-volume-up'
+  title: '充実した活動'
+  description: 'アイディアを思い立ったら、すぐに相談できる仲間がIGGGにはいます。特に初期の役員のメンバーは全員がETロボコン経験者。最新技術のことから、今晩のおかずのレシピまで、熱く語り合うことが出来るでしょう。'
 
-- icon: 'fa-star'
-  title: 'Tempus adipiscing'
-  description: 'Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.'
-
-buttons:
-- link: '#'
-  text: 'Get Started'
-
-- link: '#'
-  text: 'Learn More'
+- icon: 'fa-users'
+  title: 'グンマーの、グンマーによる、グンマーのための'
+  description: 'IT研究会。さあ、あなたも今すぐIGGGへ参加しましょう。熱意さえあれば初心者でも大歓迎です。もちろん、プログラミング、電子回路、ロボコン、DTM、CGなどが大好きなギークも絶賛募集中。'
