@@ -8,6 +8,10 @@ theme = "dopetrope"
   GitHubUser = "IGGG"
   Subtitle = "Information technology researching society of the Gunmer, by the Gunmer, for the Gunmer"
 
+[params.account]
+  github  = "IGGG"
+  twitter = "IGGGorg"
+
 [params.pages.about]
     title = "About"
     link  = "about"
