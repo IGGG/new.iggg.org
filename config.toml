@@ -75,11 +75,6 @@ theme = "dopetrope"
       "2014/06/2014-06-28-17.54.04.jpg",
     ]
 
-[params.portfolio]
-    title = "My Portfolio"
-    foldername = "portfolio"
-    findoutmoretext = "Find out more"
-
 [params.blog]
     title = "The Blog"
     viewalltext = "View All"
