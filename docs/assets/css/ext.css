@@ -1,0 +1,98 @@
+/* =Featured Slider
+--------------------------------------------------------------*/
+.featured-slider,.featured-slider .slider-cycle {
+  position: relative;
+}
+.featured-slider .displayblock {
+  display: block;
+}
+.featured-slider .displaynone {
+  display: none;
+}
+
+.slide-image {
+  max-width: 60%;
+  max-height: 350px;
+  object-fit: cover;
+  margin-top: 1em;
+}
+
+.widget-header {
+  margin-bottom: 20px !important;
+}
+
+.event-card-image {
+  max-width: 20em;
+}
+
+.intro-icon {
+  margin-right: 0.5em;
+  border-radius: 3px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  padding: 0.3em 0.5em;
+}
+
+/* Controllers */
+#controllers {
+  text-align: center;
+  line-height: 0;
+  position: absolute;
+  width: 100%;
+  bottom: 15px;
+  z-index: 9999;
+}
+#controllers a {
+  width: 10px;
+  height: 10px;
+  margin: 0 4px;
+  overflow: hidden;
+  display: inline-block;
+  background-color: #fff;
+  border-radius: 2px;
+  color: #fff;
+}
+#controllers a:hover,#controllers a.active {
+  background-color: #1b7aca;
+  color: #1b7aca;
+}
+
+.subtitle {
+  font-size: 20px;
+  font-weight: normal;
+  color: #757575;
+  margin-top: 5px;
+  letter-spacing: 0;
+}
+
+.post-content > * {
+  padding-left: 0.3em;
+}
+
+.post-content > h2 {
+  line-height: 1.6;
+  border-left: 8px solid lightgray;
+  margin-bottom: 1em;
+}
+
+.post-content > h3 {
+  line-height: 1.0;
+  margin-bottom: 0.5em;
+}
+
+.post-content ul {
+  list-style-type: initial;
+  padding-left: 2em;
+}
+
+.post-content > ol {
+  list-style-type: decimal;
+  padding-left: 2em;
+}
+
+li ul {
+  margin-bottom: 0;
+}
+
+strong,b {
+  font-weight: bold;
+}
