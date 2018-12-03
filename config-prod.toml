@@ -1,6 +1,6 @@
 languageCode = "en-ja"
 title = "群馬大学電子計算機研究会 IGGG"
-baseURL = "https://www.iggg.org/"
+baseURL = "https://iggg.github.io/new.iggg.org/"
 theme = "dopetrope"
 
 [params]
@@ -8,15 +8,78 @@ theme = "dopetrope"
   GitHubUser = "IGGG"
   Subtitle = "Information technology researching society of the Gunmer, by the Gunmer, for the Gunmer"
 
+[params.account]
+  github  = "IGGG"
+  twitter = "IGGGorg"
+
+[params.pages.home]
+    title = "Home"
+    link  = "/"
+    internal = true
+    order = 0
+
 [params.pages.about]
     title = "About"
-    link  = "about"
-    useBaseURL = true
+    link  = "/about"
+    internal = true
+    order = 1
 
-[params.portfolio]
-    title = "My Portfolio"
-    foldername = "portfolio"
-    findoutmoretext = "Find out more"
+[params.pages.blogs]
+    title = "Blogs"
+    link  = "/blog"
+    internal = true
+    order = 2
+
+[params.pages.members]
+    title = "Members"
+    link  = "/members"
+    internal = true
+    order = 3
+
+[params.pages.events]
+    title = "Events"
+    link  = "/events"
+    internal = true
+    order = 4
+
+[params.pages.wiki]
+    title = "Wiki"
+    link  = "https://www.iggg.org/wiki/?FrontPage"
+    internal = false
+    order = 5
+
+[params.pages.rules]
+    title = "Rules"
+    link  = "/rules"
+    internal = true
+    order = 6
+
+[params.pages.link]
+    title = "Link"
+    link  = "/link"
+    internal = true
+    order = 7
+
+[params.pages.contact]
+    title = "Contact"
+    link  = "/contact"
+    internal = true
+    order = 8
+
+[params.slider]
+    enable = true
+    slides = [
+      "2014/05/DSC03469.jpg",
+      "2014/05/DSC08554_.jpg",
+      "2014/05/DSC07319.jpg",
+      "2014/05/2014-03-19-11.24.19.jpg",
+      "2014/05/DSC08222.jpg",
+      "2014/06/DSC09428.jpg",
+      "2014/06/DSC09437.jpg",
+      "2014/06/2014-06-23-17.05.10.jpg",
+      "2014/06/2014-06-25-21.20.40.jpg",
+      "2014/06/2014-06-28-17.54.04.jpg",
+    ]
 
 [params.blog]
     title = "The Blog"
