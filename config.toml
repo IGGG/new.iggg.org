@@ -24,9 +24,9 @@ theme = "dopetrope"
     internal = true
     order = 1
 
-[params.pages.news]
-    title = "News"
-    link  = "/news"
+[params.pages.blogs]
+    title = "Blogs"
+    link  = "/blog"
     internal = true
     order = 2
 
