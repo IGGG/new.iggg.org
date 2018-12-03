@@ -12,52 +12,58 @@ theme = "dopetrope"
   github  = "IGGG"
   twitter = "IGGGorg"
 
+[params.pages.home]
+    title = "Home"
+    link  = "/"
+    internal = true
+    order = 0
+
 [params.pages.about]
     title = "About"
-    link  = "about"
-    useBaseURL = true
+    link  = "/about"
+    internal = true
     order = 1
 
 [params.pages.news]
     title = "News"
-    link  = "news"
-    useBaseURL = true
+    link  = "/news"
+    internal = true
     order = 2
 
 [params.pages.members]
     title = "Members"
-    link  = "members"
-    useBaseURL = true
+    link  = "/members"
+    internal = true
     order = 3
 
 [params.pages.events]
     title = "Events"
-    link  = "events"
-    useBaseURL = true
+    link  = "/events"
+    internal = true
     order = 4
 
 [params.pages.wiki]
     title = "Wiki"
-    link  = "wiki"
-    useBaseURL = true
+    link  = "/wiki"
+    internal = true
     order = 5
 
 [params.pages.rules]
     title = "Rules"
-    link  = "rules"
-    useBaseURL = true
+    link  = "/rules"
+    internal = true
     order = 6
 
 [params.pages.link]
     title = "Link"
-    link  = "link"
-    useBaseURL = true
+    link  = "/link"
+    internal = true
     order = 7
 
 [params.pages.contact]
     title = "Contact"
-    link  = "contact"
-    useBaseURL = true
+    link  = "/contact"
+    internal = true
     order = 8
 
 [params.slider]

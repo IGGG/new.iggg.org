@@ -1,4 +1,8 @@
-# Contact
+---
+title: Contact
+aliases:
+- /contact
+---
 
 お問い合わせは、下記のいずれかの連絡先へお願いいたします。
 

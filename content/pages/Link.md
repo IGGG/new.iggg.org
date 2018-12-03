@@ -1,4 +1,8 @@
-# Link
+---
+title: Link
+aliases:
+- /link
+---
 
 [ITCFes in グンマー王国](http://itc-gunma.blogspot.jp/ "ITCFes in グンマー王国")
 　IGGGの前身。IGGGこと群馬大学電子計算機研究会のルーツがここにある。

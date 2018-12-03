@@ -1,4 +1,8 @@
-# About
+---
+title: About
+aliases:
+- /about
+---
 
 ## IGGGとは…？
 

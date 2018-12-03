@@ -1,4 +1,8 @@
-# Rules
+---
+title: Rules
+aliases:
+- /rules
+---
 
 # 群馬大学電子計算機研究会IGGG 　会則
 

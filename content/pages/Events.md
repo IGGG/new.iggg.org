@@ -1,4 +1,8 @@
-# Events
+---
+title: Events
+aliases:
+- /events
+---
 
 # 実施予定のイベント
 

@@ -1,6 +1,8 @@
-# Members
-
-[getmemberlist]
+---
+title: Members
+aliases:
+- /members
+---
 
 ### コアメンバー 2017
 
