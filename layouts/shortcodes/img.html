@@ -1,0 +1,12 @@
+{{ $src := .Get "src" }}
+{{ $scale := float (default "1" (.Get "scale" )) }}
+{{ $title := .Get "title" }}
+{{ $config := imageConfig (printf "/static/%s" $src) }}
+<figure style="margin: 1em">
+  <img src="{{ .Site.BaseURL | absLangURL }}{{$src}}"
+       style="max-width: {{mul $config.Width $scale}}px"
+       width="100%"
+       alt="{{$title}}"
+       title="{{$title}}">
+  <figcaption>{{$title}}</figcaption>
+</figure>

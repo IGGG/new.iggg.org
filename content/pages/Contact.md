@@ -14,7 +14,7 @@ IGGGのTwitterアカウント [@IGGGorg](https://twitter.com/IGGGorg "IGGGorg") 
 
 ## メール
 
-[![mailto](//www.iggg.org/wp-content/uploads/2014/05/mailto2.png)](//www.iggg.org/wp-content/uploads/2014/05/mailto2.png)
+{{< img src="/images/2014/05/mailto2.png" >}}
 
 内容によっては回答に数日かかる場合もございますので、ご了承下さい。
 

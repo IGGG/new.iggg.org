@@ -12,7 +12,7 @@ Coming soon...
 
 ### IGGG Meetup 2017 Spring
 
-[![](https://www.iggg.org/wp-content/uploads/2017/04/d9e8bba334cc482d19c25f0e6c2a9bc6-214x300.png)](https://www.iggg.org/wp-content/uploads/2017/04/d9e8bba334cc482d19c25f0e6c2a9bc6.png)
+{{< img src="/images/2017/04/d9e8bba334cc482d19c25f0e6c2a9bc6.png" scale="0.2" >}}
 
 **2017年5月6日 開催**（[こちら](https://www.iggg.org/news/meetup2017spring-planed/)の記事に申込み方法を記載しました）
 
@@ -28,7 +28,7 @@ Coming soon...
 
 ### IGGG Meetup 2016 Summer
 
-[![](//www.iggg.org/wp-content/uploads/2016/08/Meetup2016_summer-208x300.png)](//www.iggg.org/wp-content/uploads/2016/08/Meetup2016_summer.png)
+{{< img src="/images/2016/08/Meetup2016_summer.png" scale="0.5" >}}
 
 
 **2016年9月25日 開催**（[こちら](//www.iggg.org/news/meetup2016winter-planned/)の記事に申込み方法を記載しました）
@@ -45,7 +45,7 @@ Coming soon...
 
 ### IGGG Meetup 2016 Spring
 
-[![IGGG Meetup 2016 Winter ポスター](//www.iggg.org/wp-content/uploads/2014/05/5131f6674f7f346f53ae8fe1004adedb-208x300.png)](//www.iggg.org/wp-content/uploads/2014/05/5131f6674f7f346f53ae8fe1004adedb.png)
+{{< img src="/images/2014/05/5131f6674f7f346f53ae8fe1004adedb.png" scale="0.5" title="IGGG Meetup 2016 Winter ポスター" >}}
 
 **2016年5月5日 開催**（[こちら](//www.iggg.org/news/meetup2016spring-planned/)の記事に申込み方法を記載しました）
 
@@ -60,7 +60,7 @@ Coming soon...
 
 ### IGGG Meetup 2016 Winter
 
-[![IGGG Meetup 2016 Winter ポスター](//www.iggg.org/wp-content/uploads/2014/05/IGGG_Meetup_20160124-214x300.png)](//www.iggg.org/wp-content/uploads/2014/05/IGGG_Meetup_20160124.png)
+{{< img src="/images/2014/05/IGGG_Meetup_20160124.png" scale="0.5" title="IGGG Meetup 2016 Winter ポスター" >}}
 
 
 **2016年1月24日 開催**（[こちら](//www.iggg.org/news/meetup2016winter-planned/)の記事に申込み方法を記載しました）
@@ -77,7 +77,7 @@ Coming soon...
 
 ### IGGG Meetup 2015 Summer
 
-[![IGGG Meetup 2015 Summer ポスター](//www.iggg.org/wp-content/uploads/2015/08/IGGGMeetup2015SummerPoster-212x300.jpg)](//www.iggg.org/wp-content/uploads/2015/08/IGGGMeetup2015SummerPoster.jpg)
+{{< img src="/images/2015/08/IGGGMeetup2015SummerPoster.jpg" scale="0.3" title="IGGG Meetup 2015 Summer ポスター" >}}
 
 **2015年9月23日 開催**（[こちら](//www.iggg.org/news/meetup2015summer-planned/ "IGGG Meetup 2015 Winterの開催が決定！")の記事に申込み方法を記載しました）
 
@@ -92,7 +92,7 @@ Coming soon...
 
 ### IGGG Meetup 2015 Spring
 
-[![IGGG Meetup 2015 Winter ポスター](//www.iggg.org/wp-content/uploads/2015/04/IGGGMeetup2015SpringPoster-214x300.jpg)](//www.iggg.org/wp-content/uploads/2015/04/IGGGMeetup2015SpringPoster.jpg)
+{{< img src="/images/2015/04/IGGGMeetup2015SpringPoster.jpg" scale="0.13" title="IGGG Meetup 2015 Winter ポスター" >}}
 
 **2015年5月3日 開催**（[こちら](//www.iggg.org/news/meetup2015spring-planned/ "IGGG Meetup 2015 Winterの開催が決定！")の記事に申込み方法を記載しました）
 
@@ -108,7 +108,7 @@ IGGG Meetupは様々な機会を提供します。
 
 ### IGGG Meetup 2015 Winter
 
-[![IGGG Meetup 2015 Winter ポスター](//www.iggg.org/wp-content/uploads/2014/12/IGGGMeetup2015WinterPoster_vivid-214x300.png)](//www.iggg.org/wp-content/uploads/2014/12/IGGGMeetup2015WinterPoster_vivid.png)
+{{< img src="/images/2014/12/IGGGMeetup2015WinterPoster_vivid.png" scale="0.13" title="IGGG Meetup 2015 Winter ポスター" >}}
 
 **2015年1月24日 開催**（[こちら](//www.iggg.org/news/meetup2015winter-planned/ "IGGG Meetup 2015 Winterの開催が決定！")の記事に申込み方法を記載しました）
 
@@ -121,7 +121,7 @@ IGGG Meetupは初めて…というあなたも、この新年、新たな知識
 
 ### IGGG Meetup 2014 Summer
 
-[![IGGG Meetup 2014 Summer](//www.iggg.org/wp-content/uploads/2014/08/IGGGMeetup2014SummerPoster_web-212x300.png)](//www.iggg.org/wp-content/uploads/2014/08/IGGGMeetup2014SummerPoster_web.png)
+{{< img src="/images/2014/08/IGGGMeetup2014SummerPoster_web.png" scale="0.3" title="IGGG Meetup 2014 Summer" >}}
 
 **2014年9月23日 開催**（[こちら](//www.iggg.org/news/meetup2014summer-planned/ "IGGG Meetup 2014 Summer (旧ITC) の開催が決定！")に記事も書きました）
 
@@ -136,7 +136,7 @@ IGGG Meetupは初めて…というあなたも、この新年、新たな知識
 
 ### ITCFes 2014 春の陣
 
-[![ITCinグンマー2014春の陣 ポスター](//www.iggg.org/wp-content/uploads/2014/05/itc2014spring_poster-216x300.png)](//www.iggg.org/wp-content/uploads/2014/05/itc2014spring_poster.png)
+{{< img src="/images/2014/05/itc2014spring_poster.png" scale="0.2" title="ITCinグンマー2014春の陣 ポスター" >}}
 
 全グンマーが泣いた！ITC怒涛の第3回目。
 今回もたくさんの方のご参加ありがとうございました。
@@ -151,7 +151,7 @@ IGGG Meetupは初めて…というあなたも、この新年、新たな知識
 
 ### ITCFes 2013 冬の陣
 
-[![ITCinグンマー2013 冬の陣ポスター](//www.iggg.org/wp-content/uploads/2014/05/ITC2013winter_poster_-207x300.png)](//www.iggg.org/wp-content/uploads/2014/05/ITC2013winter_poster_.png)
+{{< img src="/images/2014/05/ITC2013winter_poster_.png" scale="0.3" title="ITCinグンマー2013 冬の陣ポスター" >}}
 
 まとめました→[ITCFes2013 in グンマー王国 冬の陣](https://sites.google.com/a/gunma-u.ac.jp/itc_gu/matome/2nd "ITCFes2013 in グンマー王国 冬の陣")
 
@@ -162,7 +162,7 @@ IGGG Meetupは初めて…というあなたも、この新年、新たな知識
 
 ### ITCFes 2013 夏の陣
 
-[![ITCinグンマー2013夏の陣 ポスター](//www.iggg.org/wp-content/uploads/2014/05/623f4fe54891556863b97f31f3195d7a-207x300.png)](//www.iggg.org/wp-content/uploads/2014/05/623f4fe54891556863b97f31f3195d7a.png)
+{{< img src="/images/2014/05/623f4fe54891556863b97f31f3195d7a.png" scale="0.13" title="ITCinグンマー2013夏の陣 ポスター" >}}
 
 
 まとめページを作成しました。
