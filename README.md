@@ -11,5 +11,5 @@ $ hugo server
 
 # docs に生成
 $ rm -rd docs/* # file の削除がある場合
-$ hugo --config config-prod.toml
+$ hugo --minify --config config-prod.toml
 ```
