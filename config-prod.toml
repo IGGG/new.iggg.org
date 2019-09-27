@@ -25,9 +25,9 @@ publishdir = "docs"
     internal = true
     order = 1
 
-[params.pages.blogs]
-    title = "Blogs"
-    link  = "/blog"
+[params.pages.news]
+    title = "News"
+    link  = "/news"
     internal = true
     order = 2
 
@@ -82,10 +82,10 @@ publishdir = "docs"
       "2014/06/2014-06-28-17.54.04.jpg",
     ]
 
-[params.blog]
-    title = "The Blog"
+[params.news]
+    title = "The News"
     viewalltext = "View All"
-    foldername = "blog"
+    foldername = "news"
 
 [params.settings]
     googleanalytics = "UA-113904582-2"
