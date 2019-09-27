@@ -19,7 +19,7 @@ jobs:
     - name: Build
       run: hugo --gc --cleanDestinationDir --minify --config config-prod.toml
     - name: deploy
-      use: docker://buildpack-deps:18.04-scm
+      uses: docker://buildpack-deps:18.04-scm
       env:
         DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
         GIT_NAME: Bot
