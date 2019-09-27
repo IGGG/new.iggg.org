@@ -1,9 +1,6 @@
 name: GitHub Pages CD
 
-on:
-  push:
-    paths:
-    - '*'
+on: push
 
 jobs:
   build:
@@ -19,14 +16,14 @@ jobs:
         hugo-version: '0.58.3'
     - name: Build
       run: hugo --gc --cleanDestinationDir --minify --config config-prod.toml
-    # - name: deploy
-    #   uses: docker://buildpack-deps:18.04-scm
-    #   env:
-    #     DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
-    #     GIT_NAME: Bot
-    #     GIT_EMAIL: example@example.com
-    #   run: bash .github/scripts/deploy.bash
-    #   on:
-    #     push:
-    #       branches:
-    #       - master
+    - name: deploy
+      uses: docker://buildpack-deps:18.04-scm
+      env:
+        DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+        GIT_NAME: Bot
+        GIT_EMAIL: example@example.com
+      run: bash .github/scripts/deploy.bash
+      on:
+        push:
+          branches:
+          - master
