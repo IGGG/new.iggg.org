@@ -1,0 +1,31 @@
+name: GitHub Pages CD
+
+on:
+  push:
+    paths:
+    - '*'
+    - '!/docs/*'
+
+jobs:
+  build:
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        fetch-depth: 1
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2.2.1
+      with:
+        hugo-version: '0.58.3'
+    - name: Build
+      run: hugo --gc --cleanDestinationDir --minify --config config-prod.toml
+    - name: deploy
+      use: docker://buildpack-deps:18.04-scm
+      env:
+        DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+        GIT_NAME: Bot
+        GIT_EMAIL: example@example.com
+      run: bash .github/scripts/deploy.bash
+      on:
+        push:
+          branches:
+          - master
