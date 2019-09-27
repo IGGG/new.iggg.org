@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>群馬大学電子計算機研究会 IGGG</title><link>https://iggg.github.io/new.iggg.org/</link><description>Recent content on 群馬大学電子計算機研究会 IGGG</description><generator>Hugo -- gohugo.io</generator><language>en-ja</language><lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://iggg.github.io/new.iggg.org/index.xml" rel="self" type="application/rss+xml"/><item><title>(今更ですが)git challenge ♯7に参加しました！</title><link>https://iggg.github.io/new.iggg.org/news/2018/02-10/</link><pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2018/02-10/</guid><description>(今更ですが)git challenge ♯7に参加しました！ git challenge ♯7は、gitを用いて、様々な課題を制限時間内に解決していく大会です。
 参加した方はお疲れ様でした。
-より詳細を知りたい方は こちら．</description></item><item><title>IGGG Briefing #2018-Janにご参加ありがとうございました！</title><link>https://iggg.github.io/new.iggg.org/news/2018/01-09/</link><pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2018/01-09/</guid><description>https://twitter.com/IGGGorg/status/950684547544358912
+より詳細を知りたい方は こちら．</description></item><item><title>IGGG Briefing #2018-Janにご参加ありがとうございました！</title><link>https://iggg.github.io/new.iggg.org/news/2018/01-09/</link><pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2018/01-09/</guid><description>#IGGG &amp;#13;briefing 2018-Jan 終了しました&amp;#13;お疲れ様でした！
+&amp;mdash; IGGG(群馬大学電子計算機研究会) (@IGGGorg) 2018年1月9日
 本日，IGGG Briefing #2018-Janを無事開催することが出来ました．
 今回のIGGG Briefingにご参加いただいた皆様，誠にありがとうございました．
 今回参加してくださった皆様は勿論のこと，今回参加出来なかった皆様も 次回以降のIGGG Briefingへの参加や発表をよろしくお願い致します．
@@ -37,7 +38,9 @@ LINE Messaging APIでロボットを動かす(atpons) The concepts related to sy
 過去の部誌の記事は以下でご覧になることが出来ます．
 C92に参加します! C91に参加します! C90に参加します! ローグライクゲーム　「Leadable Code (β版)」￥100 当部活のOBの Sakuragi, bacon, GIF, さらに有志のメンバ1人が作成したローグライクゲームです． 現在は, 急須という4人のチームで開発を進めており, 開発の途中ではありますが, 今回のコミケでは, β版という形で頒布します.
 なお，今回のコミケのまとめサイトは以下で閲覧できます．
-まとめサイト 当日のお越しを心からお待ちしております！ よろしくお願い致します！</description></item><item><title>アドベントカレンダーをやってました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/12-27-1/</link><pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/12-27-1/</guid><description>https://twitter.com/IGGGorg/status/936597354223886337
+まとめサイト 当日のお越しを心からお待ちしております！ よろしくお願い致します！</description></item><item><title>アドベントカレンダーをやってました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/12-27-1/</link><pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/12-27-1/</guid><description>今更ですが、今年も IGGG アドベントカレンダーやってます！
+(たった7人で25枠埋めて)https://t.co/LjgsESUEyr
+&amp;mdash; IGGG(群馬大学電子計算機研究会) (@IGGGorg) 2017年12月1日
 というわけで，今年もアドベントカレンダーをやっていました． Advent Calendarは12月1日からクリスマス(12月25日)までのカウントダウンをしながら，1日1人適当な記事を投稿していくという企画です．
 記事を執筆した部員の皆様はお疲れ様でした． そして，ありがとうございました．
 まとめサイトは以下で見れます．
@@ -98,7 +101,10 @@ C91に参加します! C90に参加します! また，今回のコミケのま�
 ちょこっとPythonは今後も開催していく予定なので，宜しくお願い致します．
 詳細は以下のまとめサイトをご覧ください． ちょこっとPythonまとめサイト</description></item><item><title>Ruby でつくる静的＆動的 Web サイト 勉強会(第一回)を行いました</title><link>https://iggg.github.io/new.iggg.org/news/2017/07-09/</link><pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/07-09/</guid><description>2017年7月2日(日) の午前中に「Ruby でつくる静的＆動的 Web サイト 勉強会(第一回)」という勉強会を行いました． この勉強会は「Rubyという言語と様々な便利ツールを用いて，静的サイトと動的サイトを作ってみる」というコンセプトで開催されました．
 今回の勉強会には七名の部員の方が参加しました． 参加者の部員の皆様は朝早くから参加ありがとうございました． また，主催者の方はお忙しい中の準備，本当にお疲れ様でした．そして，ありがとうございました． 今後とも勉強会は随時開いていく予定ですので，その際は宜しくお願い致します．
-まとめサイトは以下のリンクからご覧になれます． まとめサイト</description></item><item><title>IGGG Briefing #2017-Julyにご参加ありがとうございました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/07-03/</link><pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/07-03/</guid><description>[embed]https://twitter.com/IGGGorg/status/881831037134790656[/embed]
+まとめサイトは以下のリンクからご覧になれます． まとめサイト</description></item><item><title>IGGG Briefing #2017-Julyにご参加ありがとうございました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/07-03/</link><pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/07-03/</guid><description>#IGGG Briefing
+Briefing無事終わりました！ お忙しい中参加していただいた方、ありがとうございました！
+次回以降も気軽に参加・発表しましょう！
+&amp;mdash; IGGG(群馬大学電子計算機研究会) (@IGGGorg) 2017年7月3日
 本日，IGGG Briefing #2017-Julyを無事開催することが出来ました．
 今回のIGGG Briefingにご参加いただいた皆様，誠にありがとうございました． IGGG Briefing #2017-Julyには10人程度の方にお越しいただきました．
 今回参加してくださった皆様は勿論のこと，今回参加出来なかった皆様も 次回以降のIGGG Briefingへの参加や発表をよろしくお願い致します．
@@ -107,10 +113,14 @@ IGGG Briefing #2017-Julyのまとめサイトがありますので、よろし�
 Meetupに向けた活動の進捗 自主活動のまとめ 最近読んだ本の紹介 大学の課題 こんなことやりたい!意見求む!! etc&amp;hellip; このようなテーマについて、LT形式で発表し、皆で議論したり、意見交換したりします。
 IGGG Briefingは、IGGG以外の方もご自由に参加いただけます。 途中の入退室なども自由ですし、発表を聴くだけでも大丈夫です！ また、初めての方も大歓迎なので、興味がある方は是非参加をお願いします！
 参加登録は こちら からどうぞ！</description></item><item><title>C92の当落発表がありました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/06-18/</link><pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/06-18/</guid><description>先日，C92(コミックマーケット92)の当落発表がありました．
-https://twitter.com/IGGGorg/status/873097832101691392
+◎貴サークル「群馬大学電子計算機研究会」は、金曜日　東地区“す”ブロック－35a に配置されました。
+部誌を頒布予定です!
+よろしくお願いいたします。
+&amp;mdash; IGGG(群馬大学電子計算機研究会) (@IGGGorg) 2017年6月9日
 無事当選しました．今回も部誌を頒布する予定です． 宜しくお願い致します！
 C92(コミックマーケット92)のまとめサイトが以下にありますので，よろしければご覧ください． コミックマーケット92 まとめ</description></item><item><title>広報用のtwitterアカウントを作成しました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/06-18-1/</link><pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/06-18-1/</guid><description>先日，IGGGの広報用のtwitterアカウントを作成しました． 当団体の各部員の個別の活動を報告するためのアカウントです．
-https://twitter.com/IGGGorg_PR/status/869575730060869632
+主に各部員の個別の活動を報告します！
+&amp;mdash; IGGG 広報用アカウント (@IGGGorg_PR) 2017年5月30日
 宜しければフォローをお願い致します． なお，従来のIGGGのアカウント(@IGGGorg)では基本的には(複数人が参加するような)イベントの告知・活動報告などを行っていきます．
 ※関連リンク Slack から特定のアカウントでツイートする Bot を作った</description></item><item><title>今年度のコアメンバー(運営)が決まりました</title><link>https://iggg.github.io/new.iggg.org/news/2017/05-20/</link><pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/05-20/</guid><description>今年度のIGGGのコアメンバー(運営)が決まりました！ 以下のメンバーで運営していきます．
 代表　Gon 副代表　t.y 会計　arthur63 広報　kobo 庶務　nori 庶務　ryo_t
