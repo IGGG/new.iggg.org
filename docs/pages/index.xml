@@ -1,97 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on 群馬大学電子計算機研究会 IGGG</title>
-    <link>https://iggg.github.io/new.iggg.org/pages/</link>
-    <description>Recent content in Pages on 群馬大学電子計算機研究会 IGGG</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-ja</language>
-    
-	<atom:link href="https://iggg.github.io/new.iggg.org/pages/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About</title>
-      <link>https://iggg.github.io/new.iggg.org/pages/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/pages/about/</guid>
-      <description> IGGGとは…？ 群馬大学電子計算機研究会、通称IGGGは、群馬大学のサークル。 IT関連のテクノロジーについて語り合い、さらに計算機等を活用した創造的活動を行う場所のひとつです。 今までこの大学には「プログラミング部」のような団体がほとんど存在せず、技術的な興味が一致する仲間やGEEKと出会ったり、チーム開発を行ったりという環境に出会えるケースはおそらくごく稀でした。 そのような状況の中で、twitterやFLC（大学のプロジェクトのひとつ）で知り合って意気投合した5人（Gang of Five）によって昨年夏から実施した勉強会「ITCFes in グンマー」が元となり、「プログラミングや電子工作の楽しさを共有し、さらに、1 人では達成できない革新に技術的観点から挑戦したい」という想いから本会の設立にたどり着きました。
-特徴  豊富な勉強会 様々なテーマで定期的に自主企画の勉強会を実施。 初心者を対象にしたプログラミングを楽しく学ぶワークショップから、内外の幅広い参加者が集まるイベントまで、メンバーが独自に企画運営。 2013年度よりスタートし、過去6回の開催実績があります。 充実した活動 IGGGが最も大切にしているのが、個々の創造性(creativity)です。 アイディアを思い立ったらすぐに相談でき、共に活動できる仲間が、IGGGにはきっと居ます。 さらに、役員を構成するメンバーは全員がET ロボコン経験者。ITやエレクトロニクスの最新技術から、こんなアイディアを形にしたいという想いまで、熱く語り合うことが出来るでしょう。 群大生の、群大生による、群大生のための IT研究会。 本学の学生ならば誰でも入会でき、熱意さえあれば初心者から上級者まで、入会時点での技術レベルは問いません。 もちろん、プログラミング、電子工作、ロボコン、DTM、CGなどが大好きなギークやニンジャも絶賛募集中。  目標  IT、エレクトロニクス等の分野における技術・知識の向上を目指す。 学年や個々の専門とする分野にかかわらず交流の輪を広げ、コミュニケーション能力の向上を目指す。 産業界や他大学、高校生、OB の人たちも巻き込んで活動に取り組み、更なるスキルアップを目指す。 学習したノウハウや製作した作品を多くの人と共有することで、イノベーションの促進を目指す。  　…この目標を達成するために、以下の活動に取り組みます。もちろん新規プロジェクトの立ち上げも可能。
-活動  各種勉強会、ワークショップ、ハッカソンの企画・運営 外部の現役エンジニアも参加する勉強会を自主企画、自由なテーマでライトニングトーク。 発表を行うことでプレゼン力が向上し、かつ他人から幅広い知識を得られ、大きくステップアップできます。 電子計算機を最大限に活用したあらゆる成果物の創造 プログラミング、ネットワークや鯖構築、電子工作、回路設計、イラスト、3DCG、DTM、WEBサイト作成、ゲーム製作、#gentooinstallbattleなど、何に挑むかは発想次第。 チーム開発やPBLにも積極的に取り組み、プロジェクト管理のノウハウ獲得を目指します。 また、プログラミングコンテスト等、IT技術を活用する大会への出場も計画中。 WEBサイト（www.iggg.org）やイベントを通した技術情報等の発信 CMSとWIKIを自在に活用し、常に最新の情報を発信・共有します。 また、様々な専門性を持つ会員たちが執筆した記事を集めて1冊の本にまとめ、年2回東京ビッグサイトにて行われるイベント等で頒布することで、技術情報のアウトプットやコミュニティの拡大に努めています。  拠点  群馬大学桐生キャンパス 総合研究棟10階 1007号室 IGGGの看板が目印です。お気軽にお越しください！  </description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://iggg.github.io/new.iggg.org/pages/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/pages/contact/</guid>
-      <description>お問い合わせは、下記のいずれかの連絡先へお願いいたします。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on 群馬大学電子計算機研究会 IGGG</title><link>https://iggg.github.io/new.iggg.org/pages/</link><description>Recent content in Pages on 群馬大学電子計算機研究会 IGGG</description><generator>Hugo -- gohugo.io</generator><language>en-ja</language><atom:link href="https://iggg.github.io/new.iggg.org/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://iggg.github.io/new.iggg.org/pages/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/pages/about/</guid><description> IGGGとは…？ 群馬大学電子計算機研究会、通称IGGGは、群馬大学のサークル。 IT関連のテクノロジーについて語り合い、さらに計算機等を活用した創造的活動を行う場所のひとつです。 今までこの大学には「プログラミング部」のような団体がほとんど存在せず、技術的な興味が一致する仲間やGEEKと出会ったり、チーム開発を行ったりという環境に出会えるケースはおそらくごく稀でした。 そのような状況の中で、twitterやFLC（大学のプロジェクトのひとつ）で知り合って意気投合した5人（Gang of Five）によって昨年夏から実施した勉強会「ITCFes in グンマー」が元となり、「プログラミングや電子工作の楽しさを共有し、さらに、1 人では達成できない革新に技術的観点から挑戦したい」という想いから本会の設立にたどり着きました。
+特徴 豊富な勉強会 様々なテーマで定期的に自主企画の勉強会を実施。 初心者を対象にしたプログラミングを楽しく学ぶワークショップから、内外の幅広い参加者が集まるイベントまで、メンバーが独自に企画運営。 2013年度よりスタートし、過去6回の開催実績があります。 充実した活動 IGGGが最も大切にしているのが、個々の創造性(creativity)です。 アイディアを思い立ったらすぐに相談でき、共に活動できる仲間が、IGGGにはきっと居ます。 さらに、役員を構成するメンバーは全員がET ロボコン経験者。ITやエレクトロニクスの最新技術から、こんなアイディアを形にしたいという想いまで、熱く語り合うことが出来るでしょう。 群大生の、群大生による、群大生のための IT研究会。 本学の学生ならば誰でも入会でき、熱意さえあれば初心者から上級者まで、入会時点での技術レベルは問いません。 もちろん、プログラミング、電子工作、ロボコン、DTM、CGなどが大好きなギークやニンジャも絶賛募集中。 目標 IT、エレクトロニクス等の分野における技術・知識の向上を目指す。 学年や個々の専門とする分野にかかわらず交流の輪を広げ、コミュニケーション能力の向上を目指す。 産業界や他大学、高校生、OB の人たちも巻き込んで活動に取り組み、更なるスキルアップを目指す。 学習したノウハウや製作した作品を多くの人と共有することで、イノベーションの促進を目指す。 　…この目標を達成するために、以下の活動に取り組みます。もちろん新規プロジェクトの立ち上げも可能。
+活動 各種勉強会、ワークショップ、ハッカソンの企画・運営 外部の現役エンジニアも参加する勉強会を自主企画、自由なテーマでライトニングトーク。 発表を行うことでプレゼン力が向上し、かつ他人から幅広い知識を得られ、大きくステップアップできます。 電子計算機を最大限に活用したあらゆる成果物の創造 プログラミング、ネットワークや鯖構築、電子工作、回路設計、イラスト、3DCG、DTM、WEBサイト作成、ゲーム製作、#gentooinstallbattleなど、何に挑むかは発想次第。 チーム開発やPBLにも積極的に取り組み、プロジェクト管理のノウハウ獲得を目指します。 また、プログラミングコンテスト等、IT技術を活用する大会への出場も計画中。 WEBサイト（www.iggg.org）やイベントを通した技術情報等の発信 CMSとWIKIを自在に活用し、常に最新の情報を発信・共有します。 また、様々な専門性を持つ会員たちが執筆した記事を集めて1冊の本にまとめ、年2回東京ビッグサイトにて行われるイベント等で頒布することで、技術情報のアウトプットやコミュニティの拡大に努めています。 拠点 群馬大学桐生キャンパス 総合研究棟10階 1007号室 IGGGの看板が目印です。お気軽にお越しください！</description></item><item><title>Contact</title><link>https://iggg.github.io/new.iggg.org/pages/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/pages/contact/</guid><description>お問い合わせは、下記のいずれかの連絡先へお願いいたします。
 Twitter グンマー
-&amp;mdash; IGGG(群馬大学電子計算機研究会)@C94 1日目 西よ19a (@IGGGorg) May 19, 2014 
+&amp;mdash; IGGG(群馬大学電子計算機研究会)@C94 1日目 西よ19a (@IGGGorg) May 19, 2014
 IGGGのTwitterアカウント @IGGGorg へ、リプライもしくはDMでご連絡ください。
-メール   内容によっては回答に数日かかる場合もございますので、ご了承下さい。
-IGGGへ直接  〒376-8515 群馬県桐生市天神町1-5-1 群馬大学桐生キャンパス 総合研究棟10階1007 IGGG本部  見学や入会したい場合はTwitter等でご連絡いただくか、 IGGG本部までお気軽にお越しください。</description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>https://iggg.github.io/new.iggg.org/pages/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/pages/events/</guid>
-      <description>実施予定のイベント Coming soon&amp;hellip;
-過去のイベント IGGG Meetup 2017 Spring   2017年5月6日 開催（こちらの記事に申込み方法を記載しました）
+メール 内容によっては回答に数日かかる場合もございますので、ご了承下さい。
+IGGGへ直接 〒376-8515 群馬県桐生市天神町1-5-1 群馬大学桐生キャンパス 総合研究棟10階1007 IGGG本部 見学や入会したい場合はTwitter等でご連絡いただくか、 IGGG本部までお気軽にお越しください。</description></item><item><title>Events</title><link>https://iggg.github.io/new.iggg.org/pages/events/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/pages/events/</guid><description>実施予定のイベント Coming soon&amp;hellip;
+過去のイベント IGGG Meetup 2017 Spring 2017年5月6日 開催（こちらの記事に申込み方法を記載しました）
 2013年の夏より続く、11回目のIGGG Meetupを開催しました！ 新体制になり、新たなメンバーも加わってから初めてのIGGG Meetupで、多くの方々に参加していただきました！
 学内からは新たに部員となった2年生、学外からは社会人、そしてOBの方々にも参加していただき、有意義な交流の時間が流れていたように感じます。
 重ねて、今回参加していただいた皆様ありがとうございました！ 次回も開催を予定していますので、今後もよろしくお願い申し上げます。
 まとめサイトはこちら
-IGGG Meetup 2016 Summer   2016年9月25日 開催（こちらの記事に申込み方法を記載しました）
+IGGG Meetup 2016 Summer 2016年9月25日 開催（こちらの記事に申込み方法を記載しました）
 2013年の夏より続く、10回目のIGGG Meetupを開催しました。 今回のIGGG Meetupはあまり人が集まりませんでしたが、その代わりに少ない人数だったので密にコミュニケーションを取ることができました！
 今回、参加していただいた皆さん、ありがとうございました。 だんだんと熱さ失われつつある Meetup ですが、今後もよろしくお願いします。
 ぜひ次回もご参加ください。
 まとめサイトはコチラ
-IGGG Meetup 2016 Spring IGGG Meetup 2016 Winter ポスター  2016年5月5日 開催（こちらの記事に申込み方法を記載しました）
+IGGG Meetup 2016 Spring IGGG Meetup 2016 Winter ポスター 2016年5月5日 開催（こちらの記事に申込み方法を記載しました）
 2013年の夏より続く、9回目のIGGG Meetupを開催しました。 今回のIGGG Meetupは今までで外部の方の参加が最多でした。 学内からも荒牧キャンパスの1年生の参加があり、人のつながりが大きくなったことを感じることができました。
 今回、参加していただいた皆さん、ありがとうございました。 ぜひ次回もご参加ください。
 まとめサイトはコチラ
-IGGG Meetup 2016 Winter IGGG Meetup 2016 Winter ポスター  2016年1月24日 開催（こちらの記事に申込み方法を記載しました）</description>
-    </item>
-    
-    <item>
-      <title>Link</title>
-      <link>https://iggg.github.io/new.iggg.org/pages/link/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/pages/link/</guid>
-      <description> ITCFes in グンマー王国 IGGGの前身。IGGGこと群馬大学電子計算機研究会のルーツがここにある。 群馬大学理工学部 IGGGは群馬大学理工学部所属のサークルです。  </description>
-    </item>
-    
-    <item>
-      <title>Members</title>
-      <link>https://iggg.github.io/new.iggg.org/pages/members/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/pages/members/</guid>
-      <description>IGGG会員一覧 IGGGに所属する個性豊かなメンバー達をご紹介。  2018年度 入会  etyou 馬場園北斗 beryl motitai Ken ふなっしー yamas Fia  2017年度 入会  kaeruotoko? shallow sanders inomaty miracle shimonu kani2425 bs102?  2016年度 入会  atpons Ziyuu gilfeather? szm? ippo? noisan28? oyatsu? tamanegi yukkoyuki?  2015年度 入会  Gon kobo arthur63 sugiki? ryo_t やきとり nori t.y nyalisp Akkih sparkingscientist kazunoko  2014年度 入会  Buu 擬音 ひげ すぱさん swd 風土 蒼色 消火器 UTSUTSUKU Sakuragi ism67ch くりうず レポート用紙 ライライ タイラー トム どせい michele_lap SOK supamo GIF bacon sarasoju ひーぶー QRcodeman  コアメンバー 2017  代表: Gon 副代表: t.</description>
-    </item>
-    
-    <item>
-      <title>Rules</title>
-      <link>https://iggg.github.io/new.iggg.org/pages/rules/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/pages/rules/</guid>
-      <description>群馬大学電子計算機研究会IGGG 会則 第1条 本会の名称は、日本語表記において「群馬大学電子計算機研究会」、英語表記において「Information technology researching society of the Gunmer, by the Gunmer, for the Gunmer（略称: IGGG）」と定める。また、一般的に略称を用いて「アイ・トリプル・ジー」と呼称するものとする。
+IGGG Meetup 2016 Winter IGGG Meetup 2016 Winter ポスター 2016年1月24日 開催（こちらの記事に申込み方法を記載しました）</description></item><item><title>Link</title><link>https://iggg.github.io/new.iggg.org/pages/link/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/pages/link/</guid><description> ITCFes in グンマー王国 IGGGの前身。IGGGこと群馬大学電子計算機研究会のルーツがここにある。 群馬大学理工学部 IGGGは群馬大学理工学部所属のサークルです。</description></item><item><title>Members</title><link>https://iggg.github.io/new.iggg.org/pages/members/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/pages/members/</guid><description>IGGG会員一覧 IGGGに所属する個性豊かなメンバー達をご紹介。 2018年度 入会 etyou 馬場園北斗 beryl motitai Ken ふなっしー yamas Fia 2017年度 入会 kaeruotoko? shallow sanders inomaty miracle shimonu kani2425 bs102? 2016年度 入会 atpons Ziyuu gilfeather? szm? ippo? noisan28? oyatsu? tamanegi yukkoyuki? 2015年度 入会 Gon kobo arthur63 sugiki? ryo_t やきとり nori t.y nyalisp Akkih sparkingscientist kazunoko 2014年度 入会 Buu 擬音 ひげ すぱさん swd 風土 蒼色 消火器 UTSUTSUKU Sakuragi ism67ch くりうず レポート用紙 ライライ タイラー トム どせい michele_lap SOK supamo GIF bacon sarasoju ひーぶー QRcodeman コアメンバー 2017 代表: Gon 副代表: t.</description></item><item><title>Rules</title><link>https://iggg.github.io/new.iggg.org/pages/rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/pages/rules/</guid><description>群馬大学電子計算機研究会IGGG 会則 第1条 本会の名称は、日本語表記において「群馬大学電子計算機研究会」、英語表記において「Information technology researching society of the Gunmer, by the Gunmer, for the Gunmer（略称: IGGG）」と定める。また、一般的に略称を用いて「アイ・トリプル・ジー」と呼称するものとする。
 第2条 本会は、以下の目的をもって活動するものとする。
- IT、エレクトロニクス等の分野における技術・知識の向上を目指す。 学年や個々の専門とする分野にかかわらず交流の輪を広げ、コミュニケーション能力の向上を目指す。 産業界や他大学、高校生、OB の人たちも巻き込んで活動に取り組み、更なるスキルアップを目指す。 学習したノウハウや製作した作品を多くの人と共有することで、イノベーションの促進を目指す。  第3条 本会の入会資格は、計算機等を活用した創造的活動に対して熱意を持つ学生であることを条件とする。
+IT、エレクトロニクス等の分野における技術・知識の向上を目指す。 学年や個々の専門とする分野にかかわらず交流の輪を広げ、コミュニケーション能力の向上を目指す。 産業界や他大学、高校生、OB の人たちも巻き込んで活動に取り組み、更なるスキルアップを目指す。 学習したノウハウや製作した作品を多くの人と共有することで、イノベーションの促進を目指す。 第3条 本会の入会資格は、計算機等を活用した創造的活動に対して熱意を持つ学生であることを条件とする。
 第4条 本会の構成員は本会則及び次に挙げる事項を厳守するものとする。
- 学業と本会の活動を両立させる。 いかなる政治活動および宗教活動も行わない。 テキストエディタやオペレーティング・システムに関する信教の自由を保証する。 お互いの意見を尊重し、他人の誹謗・中傷はしない。 社会のモラル及び諸規則を遵守し、公序良俗に反する行動には一切関与しない。  第5条 本会は次の役員を置き、運営する。役職の兼任も認める。
- 会長　本会を統括し代表する（１名） 副会長　会長を補佐し、会長不在の場合は代行する（１～２名） 会計　本会の会計を行う（１～２名） 広報　本会の広報活動を行う（１～２名） 渉外　外部との交渉等を行う（１～２名）  第6条 本会における意思決定機関として、次の通り会議を行うことができる。
- 会議は、役員の過半数の出席がなければ開くことができない。 会議は、会長が議長となり、副会長は議長を補佐する。 記録は、会長が書記を指名することとするが、副会長が兼ねることができる。 議事は、出席者の過半数をもって決し、可否同数のときは議長の決するところとする。 本会則の変更については、役員の3分の2以上の賛成を要するものとする。  第7条 本会の会費については次の通り定める。
- 本会の入会金は0円とする。 年会費（月会費）は0円とする。 活動の中で必要経費が生じた場合会計がその旨と明細を全構成員に伝え、全会一致の上で徴収をする。  第8条 本会の事務所は、桐生キャンパス総合研究棟 情報工学科ゼミ室G とする。活動拠点は原則として事務所と同室とするが、研究室、図書館、屋上、布団の中、自宅、喫茶店等、活動に適切な場所も自由に選択することができる。情報工学科のゼミ室を2016年3月16日正午までの期限付きで借用するが、本会顧問または情報工学科長の指示に従い変更する場合がある。また、ゼミ室の利用規約を遵守するものとし、鍵のコピー、宿泊、アルコールの使用、隣接した部屋へ迷惑のかかる行為等は厳禁とする。</description>
-    </item>
-    
-  </channel>
-</rss>
+学業と本会の活動を両立させる。 いかなる政治活動および宗教活動も行わない。 テキストエディタやオペレーティング・システムに関する信教の自由を保証する。 お互いの意見を尊重し、他人の誹謗・中傷はしない。 社会のモラル及び諸規則を遵守し、公序良俗に反する行動には一切関与しない。 第5条 本会は次の役員を置き、運営する。役職の兼任も認める。
+会長　本会を統括し代表する（１名） 副会長　会長を補佐し、会長不在の場合は代行する（１～２名） 会計　本会の会計を行う（１～２名） 広報　本会の広報活動を行う（１～２名） 渉外　外部との交渉等を行う（１～２名） 第6条 本会における意思決定機関として、次の通り会議を行うことができる。
+会議は、役員の過半数の出席がなければ開くことができない。 会議は、会長が議長となり、副会長は議長を補佐する。 記録は、会長が書記を指名することとするが、副会長が兼ねることができる。 議事は、出席者の過半数をもって決し、可否同数のときは議長の決するところとする。 本会則の変更については、役員の3分の2以上の賛成を要するものとする。 第7条 本会の会費については次の通り定める。
+本会の入会金は0円とする。 年会費（月会費）は0円とする。 活動の中で必要経費が生じた場合会計がその旨と明細を全構成員に伝え、全会一致の上で徴収をする。 第8条 本会の事務所は、桐生キャンパス総合研究棟 情報工学科ゼミ室G とする。活動拠点は原則として事務所と同室とするが、研究室、図書館、屋上、布団の中、自宅、喫茶店等、活動に適切な場所も自由に選択することができる。情報工学科のゼミ室を2016年3月16日正午までの期限付きで借用するが、本会顧問または情報工学科長の指示に従い変更する場合がある。また、ゼミ室の利用規約を遵守するものとし、鍵のコピー、宿泊、アルコールの使用、隣接した部屋へ迷惑のかかる行為等は厳禁とする。</description></item></channel></rss>

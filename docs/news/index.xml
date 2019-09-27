@@ -1,401 +1,130 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>News on 群馬大学電子計算機研究会 IGGG</title>
-    <link>https://iggg.github.io/new.iggg.org/news/</link>
-    <description>Recent content in News on 群馬大学電子計算機研究会 IGGG</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-ja</language>
-    <lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://iggg.github.io/new.iggg.org/news/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>(今更ですが)git challenge ♯7に参加しました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2018/02-10/</link>
-      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2018/02-10/</guid>
-      <description>(今更ですが)git challenge ♯7に参加しました！ git challenge ♯7は、gitを用いて、様々な課題を制限時間内に解決していく大会です。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News on 群馬大学電子計算機研究会 IGGG</title><link>https://iggg.github.io/new.iggg.org/news/</link><description>Recent content in News on 群馬大学電子計算機研究会 IGGG</description><generator>Hugo -- gohugo.io</generator><language>en-ja</language><lastBuildDate>Sat, 10 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://iggg.github.io/new.iggg.org/news/index.xml" rel="self" type="application/rss+xml"/><item><title>(今更ですが)git challenge ♯7に参加しました！</title><link>https://iggg.github.io/new.iggg.org/news/2018/02-10/</link><pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2018/02-10/</guid><description>(今更ですが)git challenge ♯7に参加しました！ git challenge ♯7は、gitを用いて、様々な課題を制限時間内に解決していく大会です。
 参加した方はお疲れ様でした。
-より詳細を知りたい方は こちら．</description>
-    </item>
-    
-    <item>
-      <title>IGGG Briefing #2018-Janにご参加ありがとうございました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2018/01-09/</link>
-      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2018/01-09/</guid>
-      <description>https://twitter.com/IGGGorg/status/950684547544358912
+より詳細を知りたい方は こちら．</description></item><item><title>IGGG Briefing #2018-Janにご参加ありがとうございました！</title><link>https://iggg.github.io/new.iggg.org/news/2018/01-09/</link><pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2018/01-09/</guid><description>https://twitter.com/IGGGorg/status/950684547544358912
 本日，IGGG Briefing #2018-Janを無事開催することが出来ました．
 今回のIGGG Briefingにご参加いただいた皆様，誠にありがとうございました．
 今回参加してくださった皆様は勿論のこと，今回参加出来なかった皆様も 次回以降のIGGG Briefingへの参加や発表をよろしくお願い致します．
-IGGG Briefing #2018-Janのまとめサイトがありますので、よろしければご覧ください． IGGG Briefing #2018-Jan まとめサイト</description>
-    </item>
-    
-    <item>
-      <title>新しい部員を募集しています！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2018/01-09-1/</link>
-      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2018/01-09-1/</guid>
-      <description>IGGG勧誘スライド2017 from IGGGorg
+IGGG Briefing #2018-Janのまとめサイトがありますので、よろしければご覧ください． IGGG Briefing #2018-Jan まとめサイト</description></item><item><title>新しい部員を募集しています！</title><link>https://iggg.github.io/new.iggg.org/news/2018/01-09-1/</link><pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2018/01-09-1/</guid><description>IGGG勧誘スライド2017 from IGGGorg
 IGGG(群馬大学電子計算機研究会)では，常時新しいメンバーを募集しております！ こちらのスライドは、今年度の4月に電子情報理工学科の情報科学コースの新2年生を対象として， LT(ライトニングトーク)を行った際に使用したスライドをweb版に修正したものです． 勿論ですが，電子情報理工学科の方でなくても全く問題はございません！
-皆様のご加入を心からお待ちしております！</description>
-    </item>
-    
-    <item>
-      <title>C93に参加してきました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2018/01-06/</link>
-      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2018/01-06/</guid>
-      <description>昨年末のコミックマーケット93(C93)への参加報告になります。
+皆様のご加入を心からお待ちしております！</description></item><item><title>C93に参加してきました！</title><link>https://iggg.github.io/new.iggg.org/news/2018/01-06/</link><pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2018/01-06/</guid><description>昨年末のコミックマーケット93(C93)への参加報告になります。
 C93では1日目に、新刊「Lollipop vol.7」と既刊「Lollipop vol.6」、「Lollipop vol.5」、「Lollipop vol.4」の頒布をしました。加えて前回に引き続きいくつかのサークル様に、ごあいさつに伺いました。以下に、簡単ではありますが紹介いたします。
 ・千葉大学電子計算機研究会　様
-  C89からごあいさつに伺っております。 C93でも作品を交換させていただきました。 装丁もしっかりしている作品集を交換させていただきました。 C94以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
+C89からごあいさつに伺っております。 C93でも作品を交換させていただきました。 装丁もしっかりしている作品集を交換させていただきました。 C94以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
 ・筑波大学AmusementCreators　様
-  C90からごあいさつに伺っております。 C93でも作品を交換させていただきました。 C、C#、Pythonなど複数の言語に関する記事の他、Unityに関する記事もあり 様々な興味深い記事を読むことができました。 C94以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
+C90からごあいさつに伺っております。 C93でも作品を交換させていただきました。 C、C#、Pythonなど複数の言語に関する記事の他、Unityに関する記事もあり 様々な興味深い記事を読むことができました。 C94以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
 ・とよぎぃそふと　様
-  C91からごあいさつに伺っております。 C93でも作品を交換させていただきました。 ベイズ最適化や、FMラジオの送信機など 実際に試してみたくなるような記事が多く興味深いものでした。 C94以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
+C91からごあいさつに伺っております。 C93でも作品を交換させていただきました。 ベイズ最適化や、FMラジオの送信機など 実際に試してみたくなるような記事が多く興味深いものでした。 C94以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
 ・秋田大学プログラミングサークルTNP　様
-  前回C92からごあいさつに伺っております。 作品の完成度が高く、ゲーム制作をしているメンバーが複数人いるので、 もし、頒布物としてゲームを作成する機会があればぜひ参考にしたいです。 C94以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
+前回C92からごあいさつに伺っております。 作品の完成度が高く、ゲーム制作をしているメンバーが複数人いるので、 もし、頒布物としてゲームを作成する機会があればぜひ参考にしたいです。 C94以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
 ・Hibernation　様
-  今回初めてごあいさつに伺いました。 ハード・ソフト両方に関する非常に詳しい記事が載せられている他、 仮想通貨に関する記事もあり、とても興味深いものでした。 C94以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
+今回初めてごあいさつに伺いました。 ハード・ソフト両方に関する非常に詳しい記事が載せられている他、 仮想通貨に関する記事もあり、とても興味深いものでした。 C94以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
 終わりに、今回も部誌の購入をしていただいた多くの皆様、本当にありがとうございました。 会場で読んでもらい、記事に関する感想をいただきました。確かに、私たちが次に記事を書く際の 糧になっています。
-C94で再びお越しいただきましたら、よろしくお願いいたします。 ありがとうございました！</description>
-    </item>
-    
-    <item>
-      <title>来年度のコアメンバーが決まりました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2018/01-05/</link>
-      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2018/01-05/</guid>
-      <description>来年度のIGGGのコアメンバーが決まりました！
+C94で再びお越しいただきましたら、よろしくお願いいたします。 ありがとうございました！</description></item><item><title>来年度のコアメンバーが決まりました！</title><link>https://iggg.github.io/new.iggg.org/news/2018/01-05/</link><pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2018/01-05/</guid><description>来年度のIGGGのコアメンバーが決まりました！
 部長 atpons&amp;rdquo;) 副部長 inomaty&amp;rdquo;) 会計 Ziyuu&amp;rdquo;) 広報 shallow&amp;rdquo;) 庶務 kani2425&amp;rdquo;)
-来年度も宜しくお願い致しますm(__)m</description>
-    </item>
-    
-    <item>
-      <title>SECCON2017に参加しました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/12-31-1/</link>
-      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/12-31-1/</guid>
-      <description>SECCON2017に参加しました！ SECCONは国内最大規模のCTF大会です．
+来年度も宜しくお願い致しますm(__)m</description></item><item><title>SECCON2017に参加しました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/12-31-1/</link><pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/12-31-1/</guid><description>SECCON2017に参加しました！ SECCONは国内最大規模のCTF大会です．
 参加した方はお疲れ様でした．
-より詳細を知りたい方はこちら．</description>
-    </item>
-    
-    <item>
-      <title>あけましておめでとうございます！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/12-31-2/</link>
-      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/12-31-2/</guid>
-      <description>あけましておめでとうございます！ 昨年は大変お世話になりました． 本年も群馬大学電子計算機研究会(IGGG)を宜しくお願い致します！
-皆さんにとって本年がいい一年でありますように&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>幾つかの勉強会を(に)開催(参加)しました．</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/12-31/</link>
-      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/12-31/</guid>
-      <description>以下の三つの勉強会を開催しました．
- FPGAで自作CPUを作る会 計算理論ゼミ 朝CTF会  また，以下の外部の勉強会に参加させていただきました． 参加した方はお疲れ様でした．
- セキュリティ・キャンプ全国大会 2017 セキュリティ・ミニキャンプ in やまなし 2017 PyCon JP 2017  各勉強会の詳細は各リンク先をご覧ください．</description>
-    </item>
-    
-    <item>
-      <title>IGGG Briefing #2018-Janを開催致します！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/12-28/</link>
-      <pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/12-28/</guid>
-      <description>来年の1月の第2週のどこかで、IGGG Briefing #2018-Janを開催致します(詳細な日時は参加登録サイトやslackでご連絡いたします)。
+より詳細を知りたい方はこちら．</description></item><item><title>あけましておめでとうございます！</title><link>https://iggg.github.io/new.iggg.org/news/2017/12-31-2/</link><pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/12-31-2/</guid><description>あけましておめでとうございます！ 昨年は大変お世話になりました． 本年も群馬大学電子計算機研究会(IGGG)を宜しくお願い致します！
+皆さんにとって本年がいい一年でありますように&amp;hellip;</description></item><item><title>幾つかの勉強会を(に)開催(参加)しました．</title><link>https://iggg.github.io/new.iggg.org/news/2017/12-31/</link><pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/12-31/</guid><description>以下の三つの勉強会を開催しました．
+FPGAで自作CPUを作る会 計算理論ゼミ 朝CTF会 また，以下の外部の勉強会に参加させていただきました． 参加した方はお疲れ様でした．
+セキュリティ・キャンプ全国大会 2017 セキュリティ・ミニキャンプ in やまなし 2017 PyCon JP 2017 各勉強会の詳細は各リンク先をご覧ください．</description></item><item><title>IGGG Briefing #2018-Janを開催致します！</title><link>https://iggg.github.io/new.iggg.org/news/2017/12-28/</link><pubDate>Thu, 28 Dec 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/12-28/</guid><description>来年の1月の第2週のどこかで、IGGG Briefing #2018-Janを開催致します(詳細な日時は参加登録サイトやslackでご連絡いたします)。
 IGGG Briefingは、IGGGの部員の最近の活動を報告＆発表する勉強会です。 IGGG meetupのゆるいバージョンだと思ってくれれば大丈夫です。
 勿論、発表するテーマは自由です。例えば、
- Meetupに向けた活動の進捗 自主活動のまとめ 最近読んだ本の紹介 大学の課題 こんなことやりたい!意見求む!! etc…  このようなテーマについて、LT形式で発表し、皆で議論したり、意見交換したりします。
+Meetupに向けた活動の進捗 自主活動のまとめ 最近読んだ本の紹介 大学の課題 こんなことやりたい!意見求む!! etc… このようなテーマについて、LT形式で発表し、皆で議論したり、意見交換したりします。
 IGGG Briefingは、IGGG以外の方もご自由に参加いただけます。 途中の入退室なども自由ですし、発表を聴くだけでも大丈夫です！ また、初めての方も大歓迎なので、興味がある方は是非参加をお願いします！
-参加登録は こちら からどうぞ！</description>
-    </item>
-    
-    <item>
-      <title>C93に出展します！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/12-27/</link>
-      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/12-27/</guid>
-      <description>IGGGは，コミックマーケット93（C93）に参加いたします！ 配置場所は， 12月29日 金曜日 東地区 “ク”－31a となります．
-頒布物 群馬大学電子計算機研究会 会誌「Lollipop Vol.7」￥500    目　次
- LINE Messaging APIでロボットを動かす(atpons) The concepts related to symmetric submodular function (Gon) ロボット(おもちゃ?)入門 (ziyuu) Verilogでババ抜き回路を作ってみたよ (ふじむら) Neo4j事始め (t.y) Haskellの不思議な関数(ひげ)  また，C90, C91, C92で頒布した Lollipop vol.4, vol.5, vol.6も 500円で再頒布します！
+参加登録は こちら からどうぞ！</description></item><item><title>C93に出展します！</title><link>https://iggg.github.io/new.iggg.org/news/2017/12-27/</link><pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/12-27/</guid><description>IGGGは，コミックマーケット93（C93）に参加いたします！ 配置場所は， 12月29日 金曜日 東地区 “ク”－31a となります．
+頒布物 群馬大学電子計算機研究会 会誌「Lollipop Vol.7」￥500 目　次
+LINE Messaging APIでロボットを動かす(atpons) The concepts related to symmetric submodular function (Gon) ロボット(おもちゃ?)入門 (ziyuu) Verilogでババ抜き回路を作ってみたよ (ふじむら) Neo4j事始め (t.y) Haskellの不思議な関数(ひげ) また，C90, C91, C92で頒布した Lollipop vol.4, vol.5, vol.6も 500円で再頒布します！
 過去の部誌の記事は以下でご覧になることが出来ます．
- C92に参加します! C91に参加します! C90に参加します!  ローグライクゲーム　「Leadable Code (β版)」￥100   当部活のOBの Sakuragi, bacon, GIF, さらに有志のメンバ1人が作成したローグライクゲームです． 現在は, 急須という4人のチームで開発を進めており, 開発の途中ではありますが, 今回のコミケでは, β版という形で頒布します.
+C92に参加します! C91に参加します! C90に参加します! ローグライクゲーム　「Leadable Code (β版)」￥100 当部活のOBの Sakuragi, bacon, GIF, さらに有志のメンバ1人が作成したローグライクゲームです． 現在は, 急須という4人のチームで開発を進めており, 開発の途中ではありますが, 今回のコミケでは, β版という形で頒布します.
 なお，今回のコミケのまとめサイトは以下で閲覧できます．
- まとめサイト  当日のお越しを心からお待ちしております！ よろしくお願い致します！</description>
-    </item>
-    
-    <item>
-      <title>アドベントカレンダーをやってました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/12-27-1/</link>
-      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/12-27-1/</guid>
-      <description>https://twitter.com/IGGGorg/status/936597354223886337
+まとめサイト 当日のお越しを心からお待ちしております！ よろしくお願い致します！</description></item><item><title>アドベントカレンダーをやってました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/12-27-1/</link><pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/12-27-1/</guid><description>https://twitter.com/IGGGorg/status/936597354223886337
 というわけで，今年もアドベントカレンダーをやっていました． Advent Calendarは12月1日からクリスマス(12月25日)までのカウントダウンをしながら，1日1人適当な記事を投稿していくという企画です．
 記事を執筆した部員の皆様はお疲れ様でした． そして，ありがとうございました．
 まとめサイトは以下で見れます．
- まとめサイト  </description>
-    </item>
-    
-    <item>
-      <title>IGGG Briefing #2017-Nov を開催します</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/10-20-1/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/10-20-1/</guid>
-      <description>10月31日(火) 18:00にIGGG Briefing #2017-Nov を開催致します。 IGGG Briefingは、IGGGの部員の最近の活動を報告＆発表する勉強会です。 IGGG meetupのゆるいバージョンだと思ってくれれば大丈夫です。
+まとめサイト</description></item><item><title>IGGG Briefing #2017-Nov を開催します</title><link>https://iggg.github.io/new.iggg.org/news/2017/10-20-1/</link><pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/10-20-1/</guid><description>10月31日(火) 18:00にIGGG Briefing #2017-Nov を開催致します。 IGGG Briefingは、IGGGの部員の最近の活動を報告＆発表する勉強会です。 IGGG meetupのゆるいバージョンだと思ってくれれば大丈夫です。
 勿論、発表するテーマは自由です。例えば、
- Meetupに向けた活動の進捗 自主活動のまとめ 最近読んだ本の紹介 大学の課題 こんなことやりたい!意見求む!! etc…  このようなテーマについて、LT形式で発表し、皆で議論したり、意見交換したりします。
+Meetupに向けた活動の進捗 自主活動のまとめ 最近読んだ本の紹介 大学の課題 こんなことやりたい!意見求む!! etc… このようなテーマについて、LT形式で発表し、皆で議論したり、意見交換したりします。
 IGGG Briefingは、IGGG以外の方もご自由に参加いただけます。 途中の入退室なども自由ですし、発表を聴くだけでも大丈夫です！ また、初めての方も大歓迎なので、興味がある方は是非参加をお願いします！
-参加登録は こちら からどうぞ！</description>
-    </item>
-    
-    <item>
-      <title>今年も群桐祭 テクノドリームツアーに出展します！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/10-20/</link>
-      <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/10-20/</guid>
-      <description>子供向け科学体験イベント「テクノドリームツアー」に今年も出展します！ 群馬大学理工学部の桐生キャンパスで毎年催される大学祭 「群桐祭」 群桐祭中に開催されるイベントの一つがテクノドリームツアーです。 詳しくは、群桐祭のHP か こちら を御覧ください。
+参加登録は こちら からどうぞ！</description></item><item><title>今年も群桐祭 テクノドリームツアーに出展します！</title><link>https://iggg.github.io/new.iggg.org/news/2017/10-20/</link><pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/10-20/</guid><description>子供向け科学体験イベント「テクノドリームツアー」に今年も出展します！ 群馬大学理工学部の桐生キャンパスで毎年催される大学祭 「群桐祭」 群桐祭中に開催されるイベントの一つがテクノドリームツアーです。 詳しくは、群桐祭のHP か こちら を御覧ください。
 出展日は10月21日(土) (報告が遅くなりすいません)です。 また，場所は群馬大学の総合研究棟402号室の奥の方です。 子供向けなので退屈かもしれませんが、もし興味があればいらしてください！
 我々のブースではIGGGメンバーが作成、ないしは借りてきたソフトウェアの展示を行います。 いつも企画している Meetup の実物版といった感じです(ただし対象年齢は小学生低学年ぐらい)。 ブースの詳細が知りたい方は こちら をご覧ください。
-良い報告ができるように、残り短いですが頑張りたいと思います！ 宜しくお願い致します！</description>
-    </item>
-    
-    <item>
-      <title>【御礼】IGGG Meetup 2017 Summer ご参加ありがとうございました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/09-28/</link>
-      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/09-28/</guid>
-      <description>IGGG Meetup 2017 Summerにご参加いただいた皆様、誠にありがとうございました。 祝日での開催にもかかわらず、お集りいただき感謝申し上げます。
+良い報告ができるように、残り短いですが頑張りたいと思います！ 宜しくお願い致します！</description></item><item><title>【御礼】IGGG Meetup 2017 Summer ご参加ありがとうございました</title><link>https://iggg.github.io/new.iggg.org/news/2017/09-28/</link><pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/09-28/</guid><description>IGGG Meetup 2017 Summerにご参加いただいた皆様、誠にありがとうございました。 祝日での開催にもかかわらず、お集りいただき感謝申し上げます。
 今回の発表では、Webアプリケーション作成などの他に グラフ理論についてなど広い分野での発表が行われました。
 今後ともぜひ、IGGG Meetupへの参加、そして発表をよろしくお願いします。 IGGG Meetup 2017 Summerのまとめサイトがありますので、よろしければご覧ください。
-IGGG Meetup 2017 Summerまとめ</description>
-    </item>
-    
-    <item>
-      <title>IGGG Meetup 2017 Summer のタイムスケジュールを公開しました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/09-22/</link>
-      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/09-22/</guid>
-      <description>今回のMeetupのタイムスケジュールが決まりました！
+IGGG Meetup 2017 Summerまとめ</description></item><item><title>IGGG Meetup 2017 Summer のタイムスケジュールを公開しました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/09-22/</link><pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/09-22/</guid><description>今回のMeetupのタイムスケジュールが決まりました！
 午前中に予定されている発表が全て終了した後、午後からはLT大会となります。 当日に発表する予定の無かった人も、「発表を聞いていたら自分も発表したくなった&amp;hellip;」と思ったら是非その時に発表してください！
 今からでも参加しようかと迷っている人は&amp;hellip;
- 興味のある発表内容がある -&amp;gt; 参加 興味のある発表内容がない -&amp;gt; これをきっかけに興味をもつかもしれないのでとりあえず参加  また、当日の飛び入り参加もお待ちしております！ （その場合Meetup終了後、参加登録をお願いします）
+興味のある発表内容がある -&amp;gt; 参加 興味のある発表内容がない -&amp;gt; これをきっかけに興味をもつかもしれないのでとりあえず参加 また、当日の飛び入り参加もお待ちしております！ （その場合Meetup終了後、参加登録をお願いします）
 参加方法 IT勉強会・イベント支援サイト『connpass』より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！
-https://iggg.connpass.com/event/67299/</description>
-    </item>
-    
-    <item>
-      <title>夏だ! 山だ! Meetup 2017 Summerだ!!</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/09-17/</link>
-      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/09-17/</guid>
-      <description>「IGGG Meetup」は、群馬大学電子計算機研究会(通称IGGG)主催の勉強会＆交流会です。 Meetupは、主に情報分野のテクノロジー（ソフト/ハード/アルゴリズム、他）について語り合い、交流する機会を提供するため、定期的に開催されています。
+https://iggg.connpass.com/event/67299/</description></item><item><title>夏だ! 山だ! Meetup 2017 Summerだ!!</title><link>https://iggg.github.io/new.iggg.org/news/2017/09-17/</link><pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/09-17/</guid><description>「IGGG Meetup」は、群馬大学電子計算機研究会(通称IGGG)主催の勉強会＆交流会です。 Meetupは、主に情報分野のテクノロジー（ソフト/ハード/アルゴリズム、他）について語り合い、交流する機会を提供するため、定期的に開催されています。
 2013年の夏からIT Conference in グンマー（通称ITC）として過去3回の勉強会を実施し、さらに、平成26年度よりIGGG設立によって、ITCからIGGG Meetupに名前を変更して、8回開催しました。
 今回IGGG Meetupとしては9度目となるIGGG Meetup 2017 Summerの実施が決定いたしました！
 2017年夏も、皆さんが日頃から取り組んでいた成果や面白いアイディアをゆるゆる、ときにはアツく、プレゼン／ライトニングトークできる場を提供します！
 全ての発表のあと時間の許す限りほかの参加者・発表者の方とトークの時間を設けています。
 回を重ねるごとに新しいジャンルからの参加が増えているので、より幅広い情報が共有されるようになりました。興味のある分野の人々との交流を楽しみましょう。
 ■日時
- 2017年9月23日（土） 10:00開場、10:30開始。17:30 終了予定（途中入退場自由） お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べに行ったりできます。コンビニも徒歩3分。  ■場所  群馬大学桐生キャンパス 総合研究棟5階 502号室  ■目的  勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける  ■扱うテーマ 自由です！ 例えば… 自作アプリやゲーム、C、Java、Python、Lisp、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、デザイン、数学、化学、闇鍋 etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
+2017年9月23日（土） 10:00開場、10:30開始。17:30 終了予定（途中入退場自由） お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べに行ったりできます。コンビニも徒歩3分。 ■場所 群馬大学桐生キャンパス 総合研究棟5階 502号室 ■目的 勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける ■扱うテーマ 自由です！ 例えば… 自作アプリやゲーム、C、Java、Python、Lisp、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、デザイン、数学、化学、闇鍋 etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
 ■参加条件 発表、参加ともに設けていません。学内の方、学外の方、いずれも参加OKです。 途中の入退室も自由です。 もちろん発表を聴くだけでも大丈夫！ 初めての方も大歓迎です！興味がある方はぜひ参加してみてください！
 ■参加方法
 IT勉強会・イベント支援サイト「connpass」より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！
-https://iggg.connpass.com/event/67299/</description>
-    </item>
-    
-    <item>
-      <title>C92に参加してきました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/08-23/</link>
-      <pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/08-23/</guid>
-      <description>遅くなりましたが、C92の参加報告になります。
+https://iggg.connpass.com/event/67299/</description></item><item><title>C92に参加してきました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/08-23/</link><pubDate>Wed, 23 Aug 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/08-23/</guid><description>遅くなりましたが、C92の参加報告になります。
 C92では1日目に、新刊「Lollipop vol.6」と既刊「Lollipop vol.5」、「Lollipop vol.4」の頒布をしました。 加えて前回に引き続きいくつかのサークル様に、ごあいさつに伺いました。
 以下に、簡単ではありますが紹介いたします。
 ・Unity 部　様
-  C89からごあいさつに伺っております。 今回は、UNIBOOK8 Unity逆引き&amp;amp;Tips集電子版ダウンロードカードを頂きました。 IGGG内にUnityを使うメンバーが複数人いるので、参考にすべき部分が多いです。 ありがとうございました。
+C89からごあいさつに伺っております。 今回は、UNIBOOK8 Unity逆引き&amp;amp;Tips集電子版ダウンロードカードを頂きました。 IGGG内にUnityを使うメンバーが複数人いるので、参考にすべき部分が多いです。 ありがとうございました。
 ・千葉大学電子計算機研究会　様
-  C89からごあいさつに伺っております。 C92でも作品を交換させていただきました。 C93以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
+C89からごあいさつに伺っております。 C92でも作品を交換させていただきました。 C93以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
 ・東京都市大学コンピュータ技術研究会　様
-  C90からごあいさつに伺っております。 様々な分野での記事が多く、私たちの活動の参考にしたいものばかりです。 特に、デレマスのアイドルにおける話者認識の記事については興趣が尽きません。 ありがとうございました。
+C90からごあいさつに伺っております。 様々な分野での記事が多く、私たちの活動の参考にしたいものばかりです。 特に、デレマスのアイドルにおける話者認識の記事については興趣が尽きません。 ありがとうございました。
 ・筑波大学AmusementCreators　様
-  C90からごあいさつに伺っております。 冊子以外の作品を生み出しているところ、私たちも参考にしていきたいです。 C93以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
+C90からごあいさつに伺っております。 冊子以外の作品を生み出しているところ、私たちも参考にしていきたいです。 C93以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
 ・とよぎぃそふと　様
-  前回C91からごあいさつに伺っております。 作品を拝見したところ、どの記事も非常に丁寧に書かれていて、とてもわかりやすかったです。 C93以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
+前回C91からごあいさつに伺っております。 作品を拝見したところ、どの記事も非常に丁寧に書かれていて、とてもわかりやすかったです。 C93以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
 ・九州工業大学情報工学部C3(Composite Computer Club)　様
-  今回初めてごあいさつに伺いました。 ウェブサイトを拝見したところ、様々な言語に関する記事の他、ゲーム制作の記事もあり ゲーム制作をしているメンバーもいる私たちも参考にしていきたいと感じました。 C93以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
+今回初めてごあいさつに伺いました。 ウェブサイトを拝見したところ、様々な言語に関する記事の他、ゲーム制作の記事もあり ゲーム制作をしているメンバーもいる私たちも参考にしていきたいと感じました。 C93以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
 ・秋田大学プログラミングサークルTNP　様
-  今回初めてごあいさつに伺いました。 作品の完成度が高く、ゲーム制作をしているメンバーが複数人いるので、 もし、頒布物としてゲームを作成する機会があればぜひ参考にしたいです。 C93以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
-終わりになりますが、今回部誌の購入をしていただいた多くの方々、本当にありがとうございました。 会場で読んでもらい、記事に関する感想をいただきました。私たちが次に記事を書く際の 糧になっています。</description>
-    </item>
-    
-    <item>
-      <title>(今更感あるけど)第12回情報危機管理コンテストに参加しました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/08-10-2/</link>
-      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/08-10-2/</guid>
-      <description>4月～5月に第12回情報危機管理コンテストに参加しました． 第二次予選まで進みました． 参加した皆様はお疲れ様でした．
+今回初めてごあいさつに伺いました。 作品の完成度が高く、ゲーム制作をしているメンバーが複数人いるので、 もし、頒布物としてゲームを作成する機会があればぜひ参考にしたいです。 C93以降でもお目にかかることがありましたら、よろしくお願いします。 ありがとうございました。
+終わりになりますが、今回部誌の購入をしていただいた多くの方々、本当にありがとうございました。 会場で読んでもらい、記事に関する感想をいただきました。私たちが次に記事を書く際の 糧になっています。</description></item><item><title>(今更感あるけど)第12回情報危機管理コンテストに参加しました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/08-10-2/</link><pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/08-10-2/</guid><description>4月～5月に第12回情報危機管理コンテストに参加しました． 第二次予選まで進みました． 参加した皆様はお疲れ様でした．
 第一次予選:4/13～4/16 第二次予選:4/29～5/7
-詳細は以下のまとめサイトをご覧ください． 危機管理コンテストまとめサイト</description>
-    </item>
-    
-    <item>
-      <title>C92に参加します!</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/08-10-1/</link>
-      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/08-10-1/</guid>
-      <description>新刊出します！   IGGGは、コミックマーケット92（C92）に参加いたします！ 配置場所は、8月11日 金曜日 東地区 “す”－35a となります．
+詳細は以下のまとめサイトをご覧ください． 危機管理コンテストまとめサイト</description></item><item><title>C92に参加します!</title><link>https://iggg.github.io/new.iggg.org/news/2017/08-10-1/</link><pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/08-10-1/</guid><description>新刊出します！ IGGGは、コミックマーケット92（C92）に参加いたします！ 配置場所は、8月11日 金曜日 東地区 “す”－35a となります．
 頒布物 群馬大学電子計算機研究会 会誌「Lollipop Vol.6」￥500 目　次
- Rubyでオラクル付きSATソルバ(atpons) An Introduction of Matroid, Ideal and Filter (Gon) 最強の拡張可能レコードを読む (ひげ) ドローンシミュレータとマッピング (ふじむら) 10分で挑む光学文字認識 (消火器) Intersection graph and L(h,k)-labeling(Gon)  Lollipop Vol.6の概要はこちらのページに記載されています. https://iggg.github.io/lollipop/2017/08/lollipop-vol6/
+Rubyでオラクル付きSATソルバ(atpons) An Introduction of Matroid, Ideal and Filter (Gon) 最強の拡張可能レコードを読む (ひげ) ドローンシミュレータとマッピング (ふじむら) 10分で挑む光学文字認識 (消火器) Intersection graph and L(h,k)-labeling(Gon) Lollipop Vol.6の概要はこちらのページに記載されています. https://iggg.github.io/lollipop/2017/08/lollipop-vol6/
 また, 右のバナーに, 今までのLollipopについてまとめられたページがあります. そちらからでも, Lollipop Vol.6 について確認することができます.
 また、C90で頒布した Lollipop vol.4, vol.5 も 500円で再頒布します！
 過去の部誌の記事は以下でみることが出来ます．
- C91に参加します! C90に参加します!  また，今回のコミケのまとめサイトは以下で閲覧できます．
- まとめサイト  よろしくお願い致します．</description>
-    </item>
-    
-    <item>
-      <title>ちょこっとPythonを開催しました(します)！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/08-10/</link>
-      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/08-10/</guid>
-      <description>ちょこっとPythonというイベントを三回開催しました． ちょこっとPythonとは，不定期で大学構内で集まってPythonを使ったプログラミングを行う会です．
+C91に参加します! C90に参加します! また，今回のコミケのまとめサイトは以下で閲覧できます．
+まとめサイト よろしくお願い致します．</description></item><item><title>ちょこっとPythonを開催しました(します)！</title><link>https://iggg.github.io/new.iggg.org/news/2017/08-10/</link><pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/08-10/</guid><description>ちょこっとPythonというイベントを三回開催しました． ちょこっとPythonとは，不定期で大学構内で集まってPythonを使ったプログラミングを行う会です．
 第１回: ６月２３日（金曜日） 第２回: ６月３０日（金曜日） 第３回: ７月７日（金曜日）
 ちょこっとPythonは今後も開催していく予定なので，宜しくお願い致します．
-詳細は以下のまとめサイトをご覧ください． ちょこっとPythonまとめサイト</description>
-    </item>
-    
-    <item>
-      <title>Ruby でつくる静的＆動的 Web サイト 勉強会(第一回)を行いました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/07-09/</link>
-      <pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/07-09/</guid>
-      <description>2017年7月2日(日) の午前中に「Ruby でつくる静的＆動的 Web サイト 勉強会(第一回)」という勉強会を行いました． この勉強会は「Rubyという言語と様々な便利ツールを用いて，静的サイトと動的サイトを作ってみる」というコンセプトで開催されました．
+詳細は以下のまとめサイトをご覧ください． ちょこっとPythonまとめサイト</description></item><item><title>Ruby でつくる静的＆動的 Web サイト 勉強会(第一回)を行いました</title><link>https://iggg.github.io/new.iggg.org/news/2017/07-09/</link><pubDate>Sun, 09 Jul 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/07-09/</guid><description>2017年7月2日(日) の午前中に「Ruby でつくる静的＆動的 Web サイト 勉強会(第一回)」という勉強会を行いました． この勉強会は「Rubyという言語と様々な便利ツールを用いて，静的サイトと動的サイトを作ってみる」というコンセプトで開催されました．
 今回の勉強会には七名の部員の方が参加しました． 参加者の部員の皆様は朝早くから参加ありがとうございました． また，主催者の方はお忙しい中の準備，本当にお疲れ様でした．そして，ありがとうございました． 今後とも勉強会は随時開いていく予定ですので，その際は宜しくお願い致します．
-まとめサイトは以下のリンクからご覧になれます． まとめサイト</description>
-    </item>
-    
-    <item>
-      <title>IGGG Briefing #2017-Julyにご参加ありがとうございました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/07-03/</link>
-      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/07-03/</guid>
-      <description>[embed]https://twitter.com/IGGGorg/status/881831037134790656[/embed]
+まとめサイトは以下のリンクからご覧になれます． まとめサイト</description></item><item><title>IGGG Briefing #2017-Julyにご参加ありがとうございました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/07-03/</link><pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/07-03/</guid><description>[embed]https://twitter.com/IGGGorg/status/881831037134790656[/embed]
 本日，IGGG Briefing #2017-Julyを無事開催することが出来ました．
 今回のIGGG Briefingにご参加いただいた皆様，誠にありがとうございました． IGGG Briefing #2017-Julyには10人程度の方にお越しいただきました．
 今回参加してくださった皆様は勿論のこと，今回参加出来なかった皆様も 次回以降のIGGG Briefingへの参加や発表をよろしくお願い致します．
-IGGG Briefing #2017-Julyのまとめサイトがありますので、よろしければご覧ください。 IGGG Briefing #2017-July まとめサイト</description>
-    </item>
-    
-    <item>
-      <title>IGGG Briefing #2017-July を開催します</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/06-25/</link>
-      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/06-25/</guid>
-      <description>7月3日(月) 18:00にIGGG Briefing #2017-July を開催致します。 IGGG Briefingは、IGGGの部員の最近の活動を報告＆発表する勉強会です。 IGGG meetupのゆるいバージョンだと思ってくれれば大丈夫です。
+IGGG Briefing #2017-Julyのまとめサイトがありますので、よろしければご覧ください。 IGGG Briefing #2017-July まとめサイト</description></item><item><title>IGGG Briefing #2017-July を開催します</title><link>https://iggg.github.io/new.iggg.org/news/2017/06-25/</link><pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/06-25/</guid><description>7月3日(月) 18:00にIGGG Briefing #2017-July を開催致します。 IGGG Briefingは、IGGGの部員の最近の活動を報告＆発表する勉強会です。 IGGG meetupのゆるいバージョンだと思ってくれれば大丈夫です。
 勿論、発表するテーマは自由です。例えば、
- Meetupに向けた活動の進捗 自主活動のまとめ 最近読んだ本の紹介 大学の課題 こんなことやりたい!意見求む!! etc&amp;hellip;  このようなテーマについて、LT形式で発表し、皆で議論したり、意見交換したりします。
+Meetupに向けた活動の進捗 自主活動のまとめ 最近読んだ本の紹介 大学の課題 こんなことやりたい!意見求む!! etc&amp;hellip; このようなテーマについて、LT形式で発表し、皆で議論したり、意見交換したりします。
 IGGG Briefingは、IGGG以外の方もご自由に参加いただけます。 途中の入退室なども自由ですし、発表を聴くだけでも大丈夫です！ また、初めての方も大歓迎なので、興味がある方は是非参加をお願いします！
-参加登録は こちら からどうぞ！</description>
-    </item>
-    
-    <item>
-      <title>C92の当落発表がありました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/06-18/</link>
-      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/06-18/</guid>
-      <description>先日，C92(コミックマーケット92)の当落発表がありました．
+参加登録は こちら からどうぞ！</description></item><item><title>C92の当落発表がありました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/06-18/</link><pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/06-18/</guid><description>先日，C92(コミックマーケット92)の当落発表がありました．
 https://twitter.com/IGGGorg/status/873097832101691392
 無事当選しました．今回も部誌を頒布する予定です． 宜しくお願い致します！
-C92(コミックマーケット92)のまとめサイトが以下にありますので，よろしければご覧ください． コミックマーケット92 まとめ</description>
-    </item>
-    
-    <item>
-      <title>広報用のtwitterアカウントを作成しました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/06-18-1/</link>
-      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/06-18-1/</guid>
-      <description>先日，IGGGの広報用のtwitterアカウントを作成しました． 当団体の各部員の個別の活動を報告するためのアカウントです．
+C92(コミックマーケット92)のまとめサイトが以下にありますので，よろしければご覧ください． コミックマーケット92 まとめ</description></item><item><title>広報用のtwitterアカウントを作成しました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/06-18-1/</link><pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/06-18-1/</guid><description>先日，IGGGの広報用のtwitterアカウントを作成しました． 当団体の各部員の個別の活動を報告するためのアカウントです．
 https://twitter.com/IGGGorg_PR/status/869575730060869632
 宜しければフォローをお願い致します． なお，従来のIGGGのアカウント(@IGGGorg)では基本的には(複数人が参加するような)イベントの告知・活動報告などを行っていきます．
-※関連リンク Slack から特定のアカウントでツイートする Bot を作った</description>
-    </item>
-    
-    <item>
-      <title>今年度のコアメンバー(運営)が決まりました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/05-20/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/05-20/</guid>
-      <description>今年度のIGGGのコアメンバー(運営)が決まりました！ 以下のメンバーで運営していきます．
+※関連リンク Slack から特定のアカウントでツイートする Bot を作った</description></item><item><title>今年度のコアメンバー(運営)が決まりました</title><link>https://iggg.github.io/new.iggg.org/news/2017/05-20/</link><pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/05-20/</guid><description>今年度のIGGGのコアメンバー(運営)が決まりました！ 以下のメンバーで運営していきます．
 代表　Gon 副代表　t.y 会計　arthur63 広報　kobo 庶務　nori 庶務　ryo_t
-これから一年間宜しくお願いします！</description>
-    </item>
-    
-    <item>
-      <title>【御礼】IGGG Meetup 2017 Spring ご参加ありがとうございました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/05-07/</link>
-      <pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/05-07/</guid>
-      <description>IGGG Meetup 2017 Springにご参加いただいた皆様、誠にありがとうございました。
+これから一年間宜しくお願いします！</description></item><item><title>【御礼】IGGG Meetup 2017 Spring ご参加ありがとうございました</title><link>https://iggg.github.io/new.iggg.org/news/2017/05-07/</link><pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/05-07/</guid><description>IGGG Meetup 2017 Springにご参加いただいた皆様、誠にありがとうございました。
 学内・学外合わせて、今回のIGGG Meetupには20人以上の方にお越しいただきました。
 重ねて感謝申し上げます、ありがとうございました。
 今回の発表も学生のみならず、OBの方や社会人の方にも発表していただきました。
 今後ともぜひ、IGGG Meetupへの参加、そして発表をよろしくお願いします。
 IGGG Meetup 2017 Springのまとめサイトがありますので、よろしければご覧ください。
-IGGG Meetup 2017 Spring まとめ</description>
-    </item>
-    
-    <item>
-      <title>IGGG Meetup 2017 Spring のタイムスケジュールを公開しました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/05-05/</link>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/05-05/</guid>
-      <description>タイムスケジュールが完成しました!!
+IGGG Meetup 2017 Spring まとめ</description></item><item><title>IGGG Meetup 2017 Spring のタイムスケジュールを公開しました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/05-05/</link><pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/05-05/</guid><description>タイムスケジュールが完成しました!!
 予定された発表がすべて終了した後、LT大会が開かれます!! 当日発表する予定がなかった人も発表を聞いて話したいと思ったら、ぜひその時に発表をしてみてください! 今でも参加するか迷っている人がいるなら….
- 興味ある発表内容がある -&amp;gt; 参加 興味ある発表内容がない -&amp;gt; 興味を持つきっかけになるかもしれないのでとりあえず参加  また、当日の飛び入り参加もOKです。 （その場合は後でいいので登録していただけると助かります。）
+興味ある発表内容がある -&amp;gt; 参加 興味ある発表内容がない -&amp;gt; 興味を持つきっかけになるかもしれないのでとりあえず参加 また、当日の飛び入り参加もOKです。 （その場合は後でいいので登録していただけると助かります。）
 参加方法 IT勉強会・イベント支援サイト『connpass』より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！
-http://iggg.connpass.com/event/55708</description>
-    </item>
-    
-    <item>
-      <title>新年度Meetup、新体制初のMeetup！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/04-22/</link>
-      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/04-22/</guid>
-      <description>日増しに春めいてきてまいりましたが、いかがお過ごしでしょうか。
+http://iggg.connpass.com/event/55708</description></item><item><title>新年度Meetup、新体制初のMeetup！</title><link>https://iggg.github.io/new.iggg.org/news/2017/04-22/</link><pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/04-22/</guid><description>日増しに春めいてきてまいりましたが、いかがお過ごしでしょうか。
 「IGGG Meetup」は、群馬大学電子計算機研究会(通称IGGG)主催の勉強会＆交流会です。 Meetupは、主に情報分野のテクノロジー（ソフト/ハード/アルゴリズム、他）について語り合い、交流する機会を提供するため、定期的に開催されています。
 2013年の夏からIT Conference in グンマー（通称ITC）として過去3回の勉強会を実施し、さらに、平成26年度よりIGGG設立によって、ITCからIGGG Meetupに名前を変更して、7回開催しました。
 今回IGGG Meetupとしては8度目となるIGGG Meetup 2017 Springの実施が決定いたしました！
@@ -403,114 +132,51 @@ http://iggg.connpass.com/event/55708</description>
 全ての発表のあと時間の許す限りほかの参加者・発表者の方とトークの時間を設けています。
 回を重ねるごとに新しいジャンルからの参加が増えているので、より幅広い情報が共有されるようになりました。興味のある分野の人々との交流を楽しみましょう。
 ■日時
- 2017年5月6日（土） 9:30開場、10:00開始。17:30 終了予定（途中入退場自由） お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べに行ったりできます。コンビニも徒歩3分。  ■場所  群馬大学桐生キャンパス 総合研究棟5階 502号室  ■目的  勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける  ■扱うテーマ 自由です！ 例えば… 自作アプリやゲーム、C、Java、Python、Lisp、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、デザイン、数学、化学、闇鍋 etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
+2017年5月6日（土） 9:30開場、10:00開始。17:30 終了予定（途中入退場自由） お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べに行ったりできます。コンビニも徒歩3分。 ■場所 群馬大学桐生キャンパス 総合研究棟5階 502号室 ■目的 勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける ■扱うテーマ 自由です！ 例えば… 自作アプリやゲーム、C、Java、Python、Lisp、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、デザイン、数学、化学、闇鍋 etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
 ■参加条件 発表、参加ともに設けていません。学内の方、学外の方、いずれも参加OKです。 途中の入退室も自由です。 もちろん発表を聴くだけでも大丈夫！ 初めての方も大歓迎です！興味がある方はぜひ参加してみてください！
 ■参加方法
 IT勉強会・イベント支援サイト「connpass」より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！
-https://iggg.connpass.com/event/55708/</description>
-    </item>
-    
-    <item>
-      <title>情報科学コース新2年生に勧誘LTを行いました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/04-17/</link>
-      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/04-17/</guid>
-      <description>IGGG勧誘スライド2017 from IGGGorg
+https://iggg.connpass.com/event/55708/</description></item><item><title>情報科学コース新2年生に勧誘LTを行いました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/04-17/</link><pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/04-17/</guid><description>IGGG勧誘スライド2017 from IGGGorg
 新年度に入りましたので、新しい部員を募集します！ 本年度も情報科学コースの新2年生を対象として、 LT(ライトニングトーク)を行いました。 こちらのスライドは、発表時のスライドをweb版に修正したものです。
-加入お待ちしております！</description>
-    </item>
-    
-    <item>
-      <title>C91に参加してきました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2017/01-17/</link>
-      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2017/01-17/</guid>
-      <description>C91の参加報告をします.(遅れて申し訳ありません&amp;hellip;)
+加入お待ちしております！</description></item><item><title>C91に参加してきました！</title><link>https://iggg.github.io/new.iggg.org/news/2017/01-17/</link><pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2017/01-17/</guid><description>C91の参加報告をします.(遅れて申し訳ありません&amp;hellip;)
 今回は, 「Lollipop vol.4」と新刊「Lollipop vol.5」の頒布でした. 今回もたくさんのサークル様とご挨拶させていただきました. それらを紹介させていただきたいと思います.
 「にくじゃがソフトウェア　様」
-  前々回からのお付き合いをさせていただいております. 今回は年賀状詰め合わせセットを頂きました. 非常に可愛らしいイラスト, ありがとうございます. 次回もよろしくお願いいたします.
+前々回からのお付き合いをさせていただいております. 今回は年賀状詰め合わせセットを頂きました. 非常に可愛らしいイラスト, ありがとうございます. 次回もよろしくお願いいたします.
 「Unity 部　様」
-  前々回からのお付き合いになります. 今回は, みんなで閲覧できるチケットを頂きました. unityを使用しているメンバもいるので, 活用させていただきたいと思います. 今後とも宜しくお願いいたします.
+前々回からのお付き合いになります. 今回は, みんなで閲覧できるチケットを頂きました. unityを使用しているメンバもいるので, 活用させていただきたいと思います. 今後とも宜しくお願いいたします.
 「千葉大学電子計算機研究会　様」
-  前々回からのお付き合いになります. 前回, 前々回同様に作品を交換させていただきました. 今後もどうぞよろしくお願いいたします.
+前々回からのお付き合いになります. 前回, 前々回同様に作品を交換させていただきました. 今後もどうぞよろしくお願いいたします.
 「東京都市大学コンピュータ技術研究会　様」
-  こちらもお隣で出店させていただいたサークルです. 前回からのお付き合いになります. たくさんの内容が詰まっており, 非常に興味深く, 勉強になりました. 時間の合間にお話等もできて, 楽しかったです. 今後とも宜しくお願いいたします.
+こちらもお隣で出店させていただいたサークルです. 前回からのお付き合いになります. たくさんの内容が詰まっており, 非常に興味深く, 勉強になりました. 時間の合間にお話等もできて, 楽しかったです. 今後とも宜しくお願いいたします.
 「筑波大学AmusementCreators　様」
-  前回からのお付き合いになります. 製作物を作っているところを私達IGGGもぜひ見習っていきたいです. 次回もよろしくお願いいたします.
+前回からのお付き合いになります. 製作物を作っているところを私達IGGGもぜひ見習っていきたいです. 次回もよろしくお願いいたします.
 「東京電機大学SoftwareResearchClub　様」
-  前回からのお付き合いになります. たくさんの作品を製作し, モデリングのクオリティが高いので, 驚きました. 今後ともよろしくお願いいたします.
+前回からのお付き合いになります. たくさんの作品を製作し, モデリングのクオリティが高いので, 驚きました. 今後ともよろしくお願いいたします.
 「とよぎぃそふと　様」
-  今回お隣で出店させていただいたサークルです. 売り子の方から表紙のフォントについてお話を伺って, 非常に興味深かったです. 次回もよろしくお願いいたします.</description>
-    </item>
-    
-    <item>
-      <title>C91に参加します!</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2016/12-28/</link>
-      <pubDate>Wed, 28 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2016/12-28/</guid>
-      <description>新刊出します！   IGGGは、コミックマーケット91（C91）に参加いたします！ 配置場所は、12月29日 木曜日 西地区 &amp;ldquo;ま&amp;rdquo;－07b となります。
+今回お隣で出店させていただいたサークルです. 売り子の方から表紙のフォントについてお話を伺って, 非常に興味深かったです. 次回もよろしくお願いいたします.</description></item><item><title>C91に参加します!</title><link>https://iggg.github.io/new.iggg.org/news/2016/12-28/</link><pubDate>Wed, 28 Dec 2016 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2016/12-28/</guid><description>新刊出します！ IGGGは、コミックマーケット91（C91）に参加いたします！ 配置場所は、12月29日 木曜日 西地区 &amp;ldquo;ま&amp;rdquo;－07b となります。
 WEBカタログ： https://webcatalog-free.circle.ms/Circle/13013189
 頒布物 群馬大学電子計算機研究会 会誌「Lollipop Vol.5」￥500 目　次　
- RubyとDocker Remote APIで遊ぶ (atpons) OCaml と Module と Haskell と (ひげ) 受けてわかった新TOEICリスニング&amp;amp;リーディングへの対策と戦略 (すぱさん) 情報?系人間が旅に出るときに考えていること (風土) Lollipop ができるまで (ひげ)  Lollipop Vol.5の概要はこちらのページに記載されています. https://iggg.github.io/lollipop/2016/12/lollipop-vol5/
+RubyとDocker Remote APIで遊ぶ (atpons) OCaml と Module と Haskell と (ひげ) 受けてわかった新TOEICリスニング&amp;amp;リーディングへの対策と戦略 (すぱさん) 情報?系人間が旅に出るときに考えていること (風土) Lollipop ができるまで (ひげ) Lollipop Vol.5の概要はこちらのページに記載されています. https://iggg.github.io/lollipop/2016/12/lollipop-vol5/
 また, 右のバナーに, 今までのLollipopについてまとめられたページがあります. そちらからでも, Lollipop Vol.5 について確認することができます.
 また、C90で頒布した Lollipop vol.4 も 500円で再頒布します！
-よろしくお願いいたいします.</description>
-    </item>
-    
-    <item>
-      <title>テクノドリームツアーに今年も入賞しました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2016/10-20/</link>
-      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2016/10-20/</guid>
-      <description>&amp;ldquo;群桐祭のテクノドリームツアーで今年も入賞しました！！&amp;rdquo; 前の記事で広告した群桐祭のテクノドリームツアーにて IGGG も出展した結果、無事に入賞することができました！！ (群桐祭やテクノドリームツアーが何なのかについては前の記事を参照してください)
-  今年は去年と異なり、一般来場者と教員の二組による評価がありました(優待者は何故か無くなった)。 IGGG は17団体中
- 一般来場者：6位 教員：10位  でまたもや 総合7位 でした！
+よろしくお願いいたいします.</description></item><item><title>テクノドリームツアーに今年も入賞しました！</title><link>https://iggg.github.io/new.iggg.org/news/2016/10-20/</link><pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2016/10-20/</guid><description>&amp;ldquo;群桐祭のテクノドリームツアーで今年も入賞しました！！&amp;rdquo; 前の記事で広告した群桐祭のテクノドリームツアーにて IGGG も出展した結果、無事に入賞することができました！！ (群桐祭やテクノドリームツアーが何なのかについては前の記事を参照してください)
+今年は去年と異なり、一般来場者と教員の二組による評価がありました(優待者は何故か無くなった)。 IGGG は17団体中
+一般来場者：6位 教員：10位 でまたもや 総合7位 でした！
 無事フラグを回収できてよかったです。 しかし、去年と同じ順位ですが、一般来場者、教員ともに下がってしまいました。 それもそのはずで、準備が全然足りず、寧ろよく入賞できたなといった感じです。
 それでも入賞できたのは当日に協力してもらったIGGGメンバのおかげです。 翌日に試験だったのにもかかわらず&amp;hellip;.
 来年もやるかどうかは分かりませんが、 するしないに関わらずしっかりと反省して今後に生かしたいと思います。
 協力していただいた方々、遊んでくれた方々、ありがとうございました！
-ちなみに、作ったアプリの記事は IGGG の GitHub Pages にて公開しました！</description>
-    </item>
-    
-    <item>
-      <title>群桐祭 テクノドリームツアーに出展します！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2016/10-12/</link>
-      <pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2016/10-12/</guid>
-      <description>子供向け科学体験イベント「テクノドリームツアー」に今年も出展します！ 群馬大学理工学部の桐生キャンパスで毎年催される大学祭 「群桐祭」 群桐祭中に開催されるイベントの一つがテクノドリームツアーです。 詳しくは、群桐祭のHP か我々の wiki を見てください。
+ちなみに、作ったアプリの記事は IGGG の GitHub Pages にて公開しました！</description></item><item><title>群桐祭 テクノドリームツアーに出展します！</title><link>https://iggg.github.io/new.iggg.org/news/2016/10-12/</link><pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2016/10-12/</guid><description>子供向け科学体験イベント「テクノドリームツアー」に今年も出展します！ 群馬大学理工学部の桐生キャンパスで毎年催される大学祭 「群桐祭」 群桐祭中に開催されるイベントの一つがテクノドリームツアーです。 詳しくは、群桐祭のHP か我々の wiki を見てください。
 IGGGは昨年度も参加し、部活がこのイベントに参加するのは我々が初めてだった(たぶん)中、 なんと、総合7位で入賞することができました。
 甘い汁の味を知った我々は、全然準備が進まないにも関わらず、 今年も入賞目指して参加します！(ダメフラグ)
 出展日は今週末の10月15日(土) (報告が遅くなりすいません) 場所は総合研究棟502号室です。 子供向けなので退屈かもしれませんが、もし興味があればいらしてください！ (※ 群桐祭自体は10月15,16,17日 の計3日間やってます)
 出展内容 我々のブースではIGGGメンバーが作成、ないしは借りてきたソフトウェアの展示を行います。 いつも企画している Meetup の実物版といった感じです(ただし対象年齢は小学生低学年ぐらい)。
 ブース内で用意したソフトウェアは6つあって次のようなのがあります。
- Android パズルゲーム「AnaQRam」:  IGGG メンバで作成 散らばったQRコードをスキャンして文字(パズルのピース)を集め 並び替え(アナグラム)て正しい文字列を作る という宝探し＋パズルゲームです 大人の事情(？)で Java で書かれてます GitHubで公開中  写真の場所を当てる「Where is This ??」:  IGGGメンバで作成 ただ単純にジオタグを解析して写真の場所を特定するというクイズ(？) 画像には位置情報が含まれるから外部にアップロードするときは気を付けましょうというコンセプト Rubyの Sinatra で作成し Heroku に置いている GitHub で公開中  ソート学習ゲーム「ならべてソート」:  研究室のIGGGメンバー+研究室の学生で開発したのを借用 小学生・低学年を対象としたソート学習ゲーム レベル別に箱の中身が見れる個数が変わっていく Developed from Flash to Android Then suddenly changed to Unity (不満)ゲーム出力で画面サイズ・アスペクト比が固定できない (不満?</description>
-    </item>
-    
-    <item>
-      <title>IGGG Meetup 2016 Summer のタイムスケジュールを公開しました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2016/09-23/</link>
-      <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2016/09-23/</guid>
-      <description>タイムスケジュールが完成しました!!
+Android パズルゲーム「AnaQRam」: IGGG メンバで作成 散らばったQRコードをスキャンして文字(パズルのピース)を集め 並び替え(アナグラム)て正しい文字列を作る という宝探し＋パズルゲームです 大人の事情(？)で Java で書かれてます GitHubで公開中 写真の場所を当てる「Where is This ??」: IGGGメンバで作成 ただ単純にジオタグを解析して写真の場所を特定するというクイズ(？) 画像には位置情報が含まれるから外部にアップロードするときは気を付けましょうというコンセプト Rubyの Sinatra で作成し Heroku に置いている GitHub で公開中 ソート学習ゲーム「ならべてソート」: 研究室のIGGGメンバー+研究室の学生で開発したのを借用 小学生・低学年を対象としたソート学習ゲーム レベル別に箱の中身が見れる個数が変わっていく Developed from Flash to Android Then suddenly changed to Unity (不満)ゲーム出力で画面サイズ・アスペクト比が固定できない (不満?</description></item><item><title>IGGG Meetup 2016 Summer のタイムスケジュールを公開しました！</title><link>https://iggg.github.io/new.iggg.org/news/2016/09-23/</link><pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2016/09-23/</guid><description>タイムスケジュールが完成しました!!
 予定された発表がすべて終了した後、LT大会が開かれます!! (今回は、LTの時間がたくさんありますよ) 当日発表する予定がなかった人も発表を聞いて話したいと思ったら、ぜひその時に発表をしてみてください! 今でも参加するか迷っている人がいるなら….
- 興味ある発表内容がある -&amp;gt; 参加 興味ある発表内容がない -&amp;gt; 興味を持つきっかけになるかもしれないのでとりあえず参加  また、当日の飛び入り参加もOKです。 （その場合は後でいいので登録していただけると助かります）
+興味ある発表内容がある -&amp;gt; 参加 興味ある発表内容がない -&amp;gt; 興味を持つきっかけになるかもしれないのでとりあえず参加 また、当日の飛び入り参加もOKです。 （その場合は後でいいので登録していただけると助かります）
 参加お待ちしております!
-参加方法 IT勉強会・イベント支援サイト『connpass』より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/38618</description>
-    </item>
-    
-    <item>
-      <title>夏だ! 山だ! Meetupだ!!</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2016/08-28/</link>
-      <pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2016/08-28/</guid>
-      <description>残暑見舞い申し上げます。
+参加方法 IT勉強会・イベント支援サイト『connpass』より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/38618</description></item><item><title>夏だ! 山だ! Meetupだ!!</title><link>https://iggg.github.io/new.iggg.org/news/2016/08-28/</link><pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2016/08-28/</guid><description>残暑見舞い申し上げます。
 「IGGG Meetup」は、群馬大学電子計算機研究会(通称IGGG)主催の勉強会＆交流会です。 Meetupは、主に情報分野のテクノロジー（ソフト/ハード/アルゴリズム、他）について語り合い、交流する機会を提供するため、定期的に開催されています。
 2013年の夏からIT Conference in グンマー（通称ITC）として過去3回の勉強会を実施し、さらに、平成26年度よりIGGG設立によって、ITCからIGGG Meetupに名前を変更して、6回開催しました。
 今回IGGG Meetupとしては7度目となるIGGG Meetup 2016 Springの実施が決定いたしました！
@@ -518,550 +184,202 @@ IGGGは昨年度も参加し、部活がこのイベントに参加するのは�
 全ての発表のあと時間の許す限りほかの参加者・発表者の方とトークの時間を設けています。
 回を重ねるごとに新しいジャンルからの参加が増えているので、より幅広い情報が共有されるようになりました。興味のある分野の人々との交流を楽しみましょう。
 ■日時
- 2016年9月25日（日曜日） 9:30開場、10:00開始。18:00 終了予定（途中入退場自由） お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べに行ったりできます。コンビニも徒歩3分。  ■場所  群馬大学桐生キャンパス 総合研究棟5階 502号室  ■目的  勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける  ■扱うテーマ 自由です！ 例えば… 自作アプリやゲーム、C、Java、Python、Lisp、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、デザイン、数学、化学、闇鍋 etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
+2016年9月25日（日曜日） 9:30開場、10:00開始。18:00 終了予定（途中入退場自由） お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べに行ったりできます。コンビニも徒歩3分。 ■場所 群馬大学桐生キャンパス 総合研究棟5階 502号室 ■目的 勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける ■扱うテーマ 自由です！ 例えば… 自作アプリやゲーム、C、Java、Python、Lisp、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、デザイン、数学、化学、闇鍋 etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
 ■参加条件 発表、参加ともに設けていません。学内の方、学外の方、いずれも参加OKです。 途中の入退室も自由です。 もちろん発表を聴くだけでも大丈夫！ 初めての方も大歓迎です！興味がある方はぜひ参加してみてください！
 ■参加方法
-IT勉強会・イベント支援サイト「connpass」より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/38618/</description>
-    </item>
-    
-    <item>
-      <title>C90に参加してきました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2016/08-16/</link>
-      <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2016/08-16/</guid>
-      <description>C90に参加してきました！ ism67chが参加報告をさせて頂きますm(・・)m
+IT勉強会・イベント支援サイト「connpass」より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/38618/</description></item><item><title>C90に参加してきました！</title><link>https://iggg.github.io/new.iggg.org/news/2016/08-16/</link><pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2016/08-16/</guid><description>C90に参加してきました！ ism67chが参加報告をさせて頂きますm(・・)m
 今回もやってきました、ビッグサイト〜！！！！！ 今回はism67ch, taira, buu, t.y, 消化器の５名で現地に乗り込みました！ 今年の夏コミは例年よりも涼しかったですね！
 今回のブースです！！！！！
-  今回は前回の「Lollipop vol.3」と新刊「Lollipop vol.4」の頒布になります！
+今回は前回の「Lollipop vol.3」と新刊「Lollipop vol.4」の頒布になります！
 巻数も結構増えましたねw
 「Lollipop vol.3」はお陰様で完売致しました！！！ 買っていただいた方，誠に有難うございました(^^)
 「Lollipop vol.4」の方はまだ若干あまりが御座います． ９月に開催予定の「meetup」，「C91」等で購入することができますので， 売り切れてしまう前にどぞー〜
 今回もたくさんのサークル様とご挨拶させて頂きましたので， そちらの方をご紹介させて頂きます．
 「にくじゃがソフトウェア　様」
-  前回お隣になってからお付き合いさせて頂いています． 今回もクラウディアさんコースターや新刊，販売POP（サイン付き）を頂いちゃいました！ 今後ともどうぞ宜しくお願い致します！
+前回お隣になってからお付き合いさせて頂いています． 今回もクラウディアさんコースターや新刊，販売POP（サイン付き）を頂いちゃいました！ 今後ともどうぞ宜しくお願い致します！
 「Unity 部　様」
-  こちらも前回お隣になってからのお付き合いです． 「unibook6」を頂戴致しました． 毎回内容が濃くて実用性がかなり高いですね！ IGGGの部誌もこれぐらい内容盛りだくさんにしていきたいです。 今後もどうぞ宜しくお願い致します．
+こちらも前回お隣になってからのお付き合いです． 「unibook6」を頂戴致しました． 毎回内容が濃くて実用性がかなり高いですね！ IGGGの部誌もこれぐらい内容盛りだくさんにしていきたいです。 今後もどうぞ宜しくお願い致します．
 「千葉大学電子計算機研究会　様」
-  前回からのお付き合いになります． 前回同様お互いの作品を交換させて頂きました． 同じ大学サークルとしての参加なので，毎回良い刺激になってます！ 今後もどうぞ宜しくお願い致します．
+前回からのお付き合いになります． 前回同様お互いの作品を交換させて頂きました． 同じ大学サークルとしての参加なので，毎回良い刺激になってます！ 今後もどうぞ宜しくお願い致します．
 「東京都市大学コンピュータ技術研究会　様」
-  今回お隣で出店させていただいたサークルです． 売り子の方が面白いお面をかぶっていたのがかなり印象的でした！ 次回も宜しくお願い致します！
+今回お隣で出店させていただいたサークルです． 売り子の方が面白いお面をかぶっていたのがかなり印象的でした！ 次回も宜しくお願い致します！
 「筑波大学AmusementCreators　様」
-  こちらも今回お隣で出店させていただいたサークルです． AmusementCreators…かっこいいですね！！！ 筑波大学はこういったサークルが沢山あるみたいでいいですね！ IGGGもクリエイター集団になれるように勉強させて頂きます！ 次回も宜しくお願い致します．
+こちらも今回お隣で出店させていただいたサークルです． AmusementCreators…かっこいいですね！！！ 筑波大学はこういったサークルが沢山あるみたいでいいですね！ IGGGもクリエイター集団になれるように勉強させて頂きます！ 次回も宜しくお願い致します．
 「東京電機大学SoftwareResearchClub　様」
-  ２つお隣のサークルさんです！ 沢山の作品と交換して頂き誠に有難う御座います． １つ１つの作品がクオリティが高かったのでびっくりしました！ 今後もどうぞ宜しくお願い致します！</description>
-    </item>
-    
-    <item>
-      <title>C90に参加します!</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2016/08-14/</link>
-      <pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2016/08-14/</guid>
-      <description>新刊出します！   3日目になって参加報告を記事で書かせていただきます。IGGGは、コミックマーケット90（C90）に参加いたします！ 配置場所は、8月14日 日曜日 西地区 e－04a となります。
+２つお隣のサークルさんです！ 沢山の作品と交換して頂き誠に有難う御座います． １つ１つの作品がクオリティが高かったのでびっくりしました！ 今後もどうぞ宜しくお願い致します！</description></item><item><title>C90に参加します!</title><link>https://iggg.github.io/new.iggg.org/news/2016/08-14/</link><pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2016/08-14/</guid><description>新刊出します！ 3日目になって参加報告を記事で書かせていただきます。IGGGは、コミックマーケット90（C90）に参加いたします！ 配置場所は、8月14日 日曜日 西地区 e－04a となります。
 WEBカタログ： https://webcatalog-free.circle.ms/Circle/12327003
 頒布物 群馬大学電子計算機研究会 会誌「Lollipop Vol.4」￥500 今回の表紙もオライリー本リスペクトです！価格は￥500です。
 目　次　
- パケット目grep入門 （atpons） Monadic Parserから感じるモナド （ひげ） word2vecを用いた9人の女神(μ&amp;rsquo;s)相関図の描写 （ism67ch） ハーフブリッジドライバIRS2108を使用したブラシ付きDCモータドライバの製作（ふじむら トム） TweetDeck専用ブラウザを作ろうとした(一応作った)話 (Zakky) SAT ソルバーを知る (Sakuragi) Py : ゼロから始める競プロ生活 (消火器) 三幕からなる漆黒の闇鍋で今日も 1 日がんばルビィ⌒° ( ・ω・)°⌒ (大宮・テイラー) ステップでつくってみる!Node.js と Bluemix でかんたん Web アプリ on クラウド!! (buu)  また、C89で頒布した Lollipop vol.3 も 500円で再頒布します！
+パケット目grep入門 （atpons） Monadic Parserから感じるモナド （ひげ） word2vecを用いた9人の女神(μ&amp;rsquo;s)相関図の描写 （ism67ch） ハーフブリッジドライバIRS2108を使用したブラシ付きDCモータドライバの製作（ふじむら トム） TweetDeck専用ブラウザを作ろうとした(一応作った)話 (Zakky) SAT ソルバーを知る (Sakuragi) Py : ゼロから始める競プロ生活 (消火器) 三幕からなる漆黒の闇鍋で今日も 1 日がんばルビィ⌒° ( ・ω・)°⌒ (大宮・テイラー) ステップでつくってみる!Node.js と Bluemix でかんたん Web アプリ on クラウド!! (buu) また、C89で頒布した Lollipop vol.3 も 500円で再頒布します！
 ちなみに、C87で頒布した vol.1 は売り切ってしまったためPDFデータをWEB公開しました。 ぜひ見てみてください！ Lollipop vol.1 PDFデータ
 それでは、ビックサイトでお会いしましょう！
-追記 さらに、本日からC88で頒布した vol.</description>
-    </item>
-    
-    <item>
-      <title>GitHub Pages はじめました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2016/06-09/</link>
-      <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2016/06-09/</guid>
-      <description>2週間ほど前の5月28日をもって、IGGG は創立2周年を迎えました！ それに伴い、新しいことを始めようと、GitHub Pages を始めることにしました！
+追記 さらに、本日からC88で頒布した vol.</description></item><item><title>GitHub Pages はじめました</title><link>https://iggg.github.io/new.iggg.org/news/2016/06-09/</link><pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2016/06-09/</guid><description>2週間ほど前の5月28日をもって、IGGG は創立2周年を迎えました！ それに伴い、新しいことを始めようと、GitHub Pages を始めることにしました！
 こちらがそのサイトです。
 GitHub Pages とは GitHub のリポジトリを静的サイトとして公開してくれるサービスのことです。 詳しくは公式サイトで。
 IGGG には既に、www.iggg.org の公式サイトと wiki があります。 にもかかわらず、いったい何に利用するのかというと、
- 公式サイトではイベントやプロジェクトの情報とその活動結果の報告を wiki ではイベントやプロジェクトのまとめ記事を GitHub Pages では技術寄りな話題や小さな活動の様子なんかを  書いていこうかな、と考えてます。 本音を言うと、思いつきで始めたので、明確な境界線はありません(笑) 適宜、書きやすさやなんかを考慮して決めたいと思います。
-3年目の IGGG も、何卒よろしくお願いします m(_ _)m</description>
-    </item>
-    
-    <item>
-      <title>IGGG Meetup 2016 Spring のタイムスケジュールを公開しました！（やっと）</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2016/05-04/</link>
-      <pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2016/05-04/</guid>
-      <description>公開がだいぶ遅くなってすみません! 無事にタイムスケジュールが完成しました!!
+公式サイトではイベントやプロジェクトの情報とその活動結果の報告を wiki ではイベントやプロジェクトのまとめ記事を GitHub Pages では技術寄りな話題や小さな活動の様子なんかを 書いていこうかな、と考えてます。 本音を言うと、思いつきで始めたので、明確な境界線はありません(笑) 適宜、書きやすさやなんかを考慮して決めたいと思います。
+3年目の IGGG も、何卒よろしくお願いします m(_ _)m</description></item><item><title>IGGG Meetup 2016 Spring のタイムスケジュールを公開しました！（やっと）</title><link>https://iggg.github.io/new.iggg.org/news/2016/05-04/</link><pubDate>Wed, 04 May 2016 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2016/05-04/</guid><description>公開がだいぶ遅くなってすみません! 無事にタイムスケジュールが完成しました!!
 予定された発表がすべて終了した後、前回と同様にLT大会が開かれます! 当日発表する予定がなかった人も発表を聞いて話したいと思ったら、ぜひその時に発表をしてみてください! 今でも参加するか迷っている人がいるなら….
- 興味ある発表内容がある -&amp;gt; 参加 興味ある発表内容がない -&amp;gt; けど興味を持つきっかけになるかもしれないのでとりあえず参加  という感じに参加するかどうかを決めてよいと思います!
+興味ある発表内容がある -&amp;gt; 参加 興味ある発表内容がない -&amp;gt; けど興味を持つきっかけになるかもしれないのでとりあえず参加 という感じに参加するかどうかを決めてよいと思います!
 また、当日の飛び入り参加も構いません！ （その場合は後でいいので登録していただけると助かります） 参加お待ちしております!
-参加方法 IT勉強会・イベント支援サイト『connpass』より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/29633/</description>
-    </item>
-    
-    <item>
-      <title>情報科学コース新2年生に勧誘LTを行いました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2016/04-06/</link>
-      <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2016/04-06/</guid>
-      <description>IGGG勧誘スライド from IGGGorg新年度に入り、新しい部員を募集します！ そこで、今年度部長になった私Sakuragiが、情報科学コースの新2年生を対象として、 LT(ライトニングトーク)を行いました。 こちらのスライドは、発表時のスライドをweb版に修正したものです。</description>
-    </item>
-    
-    <item>
-      <title>新年度！新体制が送る次なるMeetup!</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2016/04-02/</link>
-      <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2016/04-02/</guid>
-      <description>「IGGG Meetup」は、IT関連のテクノロジー（ソフト/ハード/アルゴリズム、他）について語り合い交流する時間をぜひ定期的に！！という趣旨で群馬大学電子計算機研究会(通称IGGG)が開催しているイベント。つまり所属不問の勉強会＆交流会です。
+参加方法 IT勉強会・イベント支援サイト『connpass』より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/29633/</description></item><item><title>情報科学コース新2年生に勧誘LTを行いました！</title><link>https://iggg.github.io/new.iggg.org/news/2016/04-06/</link><pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2016/04-06/</guid><description>IGGG勧誘スライド from IGGGorg新年度に入り、新しい部員を募集します！ そこで、今年度部長になった私Sakuragiが、情報科学コースの新2年生を対象として、 LT(ライトニングトーク)を行いました。 こちらのスライドは、発表時のスライドをweb版に修正したものです。</description></item><item><title>新年度！新体制が送る次なるMeetup!</title><link>https://iggg.github.io/new.iggg.org/news/2016/04-02/</link><pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2016/04-02/</guid><description>「IGGG Meetup」は、IT関連のテクノロジー（ソフト/ハード/アルゴリズム、他）について語り合い交流する時間をぜひ定期的に！！という趣旨で群馬大学電子計算機研究会(通称IGGG)が開催しているイベント。つまり所属不問の勉強会＆交流会です。
 2013年の夏よりIT Conference in グンマー（通称ITC）と して過去3回の勉強会を実施。さらに、昨年度よりIGGG設立によってITCからIGGG Meetupに名前を変更して5回開催しました。それに続き、今回IGGG Meetupとしては6度目となるIGGG Meetup 2016 Springの実施が決定いたしました！
 会場がIGGG Meetup 2015 Spring まで使用していた場所から変更になりました。 IGGG Meetup 2015 Summerから総合研究棟（桐生キャンパスで一番高い建物の一室）が会場となりましたので間違えのないようお気を付けください。
 2016年春も、引き続き皆さんが日頃から取り組んでいた成果や面白いアイディアをゆるゆる、ときにはアツく、プレゼン／ライトニングトークできる場を提供します。 全ての発表のあと時間の許す限りほかの参加者・発表者の方とトークの時間を設けています。また昼休憩の時間に食事をとりながら意見を交わすのも恒例となっています。 回を重ねるごとに新しいジャンルからの参加が増えているので、より幅広い情報が共有されるようになりました。興味のある分野の人々との交流を楽しみましょう。
 また、今年から桐生キャンパスに来た学生の方々も、見るだけでも参加していただければ、いい刺激を得られると思うのでどんどん参加しましょう！
-■日時  2016年5月5日（木曜日） 9:30開場、10:00開始。17:00 終了予定（途中入退場自由） お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べに行ったりできます。コンビニも徒歩3分。  ■場所  群馬大学桐生キャンパス 総合研究棟5階 502号室  ■目的  勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける  ■扱うテーマ 自由です！ 例えば… 自作アプリやゲーム、C、Java、Python、Lisp、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、デザイン、数学、化学、闇鍋 etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
+■日時 2016年5月5日（木曜日） 9:30開場、10:00開始。17:00 終了予定（途中入退場自由） お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べに行ったりできます。コンビニも徒歩3分。 ■場所 群馬大学桐生キャンパス 総合研究棟5階 502号室 ■目的 勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける ■扱うテーマ 自由です！ 例えば… 自作アプリやゲーム、C、Java、Python、Lisp、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、デザイン、数学、化学、闇鍋 etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
 ■参加条件 発表、参加ともに設けていません。学内の方、学外の方、いずれも参加OKです。 途中の入退室も自由です。 もちろん発表を聴くだけでも大丈夫！ 初めての方も大歓迎です！興味がある方はぜひ参加してみてください！
 ■参加方法
-IT勉強会・イベント支援サイト「connpass」より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/29633/</description>
-    </item>
-    
-    <item>
-      <title>IGGG Meetup 2016 Winter のタイムスケジュールを公開しました！（やっと）</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2016/01-23/</link>
-      <pubDate>Sat, 23 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2016/01-23/</guid>
-      <description>結構、前の記事で紹介した &amp;ldquo;IGGG Meetup 2016 Winter&amp;rdquo; のタイムスケジュールを公開します！
-IGGG Meetup 2016 Winter のタイムスケジュール  実は、明日開催です！ 公開が遅くなってすいません！！ しかし、今回は新しい取り組みを2つ考えてます！！！
+IT勉強会・イベント支援サイト「connpass」より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/29633/</description></item><item><title>IGGG Meetup 2016 Winter のタイムスケジュールを公開しました！（やっと）</title><link>https://iggg.github.io/new.iggg.org/news/2016/01-23/</link><pubDate>Sat, 23 Jan 2016 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2016/01-23/</guid><description>結構、前の記事で紹介した &amp;ldquo;IGGG Meetup 2016 Winter&amp;rdquo; のタイムスケジュールを公開します！
+IGGG Meetup 2016 Winter のタイムスケジュール 実は、明日開催です！ 公開が遅くなってすいません！！ しかし、今回は新しい取り組みを2つ考えてます！！！
 1つ目は、後半を飛び入りLT大会に割り当てたことです。 正直言うと、発表者が少なかったからです（笑） なので、何人かが2本目を発表しちゃおうという話をしていたのですが、 だったらいっそのこと飛び入りLT大会にしちゃえばいいや、という感じです。
 2つ目は、学外者用の無線LANパスコードの配布です。 予てから何とかしたいと考えていた無線LAN環境を用意してみました。 もし、利用したい方がいましたら当日受付のほうに相談してください！
 ちなみに、明日に開催日が迫っていますが、 今でも参加するか迷っていた人がいたら&amp;hellip;.
- 興味ある発表内容がある -&amp;gt; 参加 興味ある発表内容がない -&amp;gt; けど興味を持つきっかけになるかもしれないのでとりあえず参加  という感じに決めてください！ （発表内容少ないですが&amp;hellip;orz）
+興味ある発表内容がある -&amp;gt; 参加 興味ある発表内容がない -&amp;gt; けど興味を持つきっかけになるかもしれないのでとりあえず参加 という感じに決めてください！ （発表内容少ないですが&amp;hellip;orz）
 前述したとおり、発表者枠にはまだ余裕があります。 また、当日の飛び入り参加/発表も構いません！ （その場合は後でいいので登録していただけると助かります） 参加お待ちしております！
-参加方法 IT勉強会・イベント支援サイト『connpass』より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/24435/</description>
-    </item>
-    
-    <item>
-      <title>にくじゃがソフトウェア 様 ありがとうございます！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2016/01-13/</link>
-      <pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2016/01-13/</guid>
-      <description>クラウディアさんPOPを部室の棚に飾っていたら…
-  IGGGの部室に謎の封筒が届きました！
-  差出人は〜にくじゃがソフトウェア 様！？ 中にお手紙が入ってました！
-  要約すると… 私，ism67chが売り子の際にお隣の新刊を買いたいと言っていたところ， コミケ終わる頃には気付いたら売り切れてしまい，買えずじまい… しかし，設営時間の際にちょろっと口にしてたことを覚えていて下さり， ご丁寧にも新刊だけでなく，既刊含めた素晴らしいものをたくさん送って下さったみたいです！
+参加方法 IT勉強会・イベント支援サイト『connpass』より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/24435/</description></item><item><title>にくじゃがソフトウェア 様 ありがとうございます！</title><link>https://iggg.github.io/new.iggg.org/news/2016/01-13/</link><pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2016/01-13/</guid><description>クラウディアさんPOPを部室の棚に飾っていたら…
+IGGGの部室に謎の封筒が届きました！
+差出人は〜にくじゃがソフトウェア 様！？ 中にお手紙が入ってました！
+要約すると… 私，ism67chが売り子の際にお隣の新刊を買いたいと言っていたところ， コミケ終わる頃には気付いたら売り切れてしまい，買えずじまい… しかし，設営時間の際にちょろっと口にしてたことを覚えていて下さり， ご丁寧にも新刊だけでなく，既刊含めた素晴らしいものをたくさん送って下さったみたいです！
 神かっ！！！！（めっちゃテンション↑↑↑↑↑↑）
 折角ですので，ご紹介させていただきます！
-  で〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ん！！
+で〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ん！！
 クラウディア さん本に御影けい さん本，ステッカーまで入ってました！ とっても嬉しいです･゜ﾟ･:.｡..｡.:*･&amp;rsquo;(ﾟ▽ﾟ)&amp;lsquo;･*:.｡. .｡.:･゜ﾟ･ 次回は売り切れないうちに買いに行きます！！！
 にくじゃがソフトウェア 様，
 この度はこのような素敵な物を送って頂き， 誠にありがとうございました！ 辺境の地グンマーの拙いサークルですが， これからもどうか末永く宜しくお願い致します．
-IGGG 一同．</description>
-    </item>
-    
-    <item>
-      <title>C89に参加してきました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2016/01-03/</link>
-      <pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2016/01-03/</guid>
-      <description> 沢山の方々、ブースにお越し頂き有難う御座いました！   先日投稿があったように、コミックマーケット89（C89 に参加してきました！今回はその報告をしたいと思います！！！
+IGGG 一同．</description></item><item><title>C89に参加してきました！</title><link>https://iggg.github.io/new.iggg.org/news/2016/01-03/</link><pubDate>Sun, 03 Jan 2016 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2016/01-03/</guid><description> 沢山の方々、ブースにお越し頂き有難う御座いました！ 先日投稿があったように、コミックマーケット89（C89 に参加してきました！今回はその報告をしたいと思います！！！
 現地へはbuu、大宮、ism67chの3人で行きました。 朝弱い3人なので、前日はbuu邸にてお泊まり！ ラブライブ鑑賞会をしながら、やっぱり鍋だよねってことで、 オルニチンたっぷりのシジミ鍋を食べて英気を養いました！
-  翌朝、なんとか起床ε-(´∀; ) ティッピーも叩き起こし いざビックサイトへレッツゴー！ 今回このティッピーはism67chの記事で取り上げたので、 一緒に売り子してもらいました！ 販売中、「これは非売品ですか？」と何度も訊ねられましたw
-  そして、遂に…
+翌朝、なんとか起床ε-(´∀; ) ティッピーも叩き起こし いざビックサイトへレッツゴー！ 今回このティッピーはism67chの記事で取り上げたので、 一緒に売り子してもらいました！ 販売中、「これは非売品ですか？」と何度も訊ねられましたw
+そして、遂に…
 ついたぁああああああああああ〜！！！！！！
-  早速会場に侵入 まだそんなに集まってなく、割と早くついた模様。 ブースの設営開始です！！！
-  ブース完成！！！東ム-41a！！！ 赤い方がC88でも販売したvol.2、 緑の方が今回の新刊、vol.3です！
+早速会場に侵入 まだそんなに集まってなく、割と早くついた模様。 ブースの設営開始です！！！
+ブース完成！！！東ム-41a！！！ 赤い方がC88でも販売したvol.2、 緑の方が今回の新刊、vol.3です！
 実 施 報 告 1（売上） 今回のC89では、vol.2とvol.3合わせて105冊の売上がありました。 購入して下さった方、誠に有難う御座いましたm(__)m 今回は寄稿者が少なく冊子の厚みが心許ない感じがありましたが、 次回の夏コミ、通った際には中身もグレードアップして参ります。 是非とも再びIGGGのブースに足を運んで頂ければ幸いです。
 実 施 報 告 2（サークル間交流） IGGGのブースの両サイドは、にくじゃがソフトウェア様 と Unity部様 でした。 なんかすごいサークルに挟まれましたねw にくじゃがソフトウェア様はあのクラウディアさんのサークルです！ 僕たちの新刊と交換でこんな素敵な物もらっちゃいました！＞＜ 大したもの返せなくてスミマセンm(__)m
 左の2つは にくじゃがソフトウェア様 から、年賀状・特製チョコ・クラウディアさんPOP。 チョコとっても美味しかったです！
 右上のは 千葉大学電子計算機研究会様 から、作品集。 次はこちらからご挨拶伺いますね！
 右下のは Unity部様 から、部誌。 内容盛りだくさんで、僕らも頑張って厚み出せるように頑張ります！
-まだまだ弱小サークルですが末永くよろしくお願い致します！
-         </description>
-    </item>
-    
-    <item>
-      <title>C89に参加します</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/12-28/</link>
-      <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/12-28/</guid>
-      <description>新刊出します！   明日から冬コミ！というところでご報告いたします。 今更ですが、コミックマーケット89（C89）に参加いたします！ 配置場所は、12月31日 木曜日 東地区 ム－41a となります。
+まだまだ弱小サークルですが末永くよろしくお願い致します！</description></item><item><title>C89に参加します</title><link>https://iggg.github.io/new.iggg.org/news/2015/12-28/</link><pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/12-28/</guid><description>新刊出します！ 明日から冬コミ！というところでご報告いたします。 今更ですが、コミックマーケット89（C89）に参加いたします！ 配置場所は、12月31日 木曜日 東地区 ム－41a となります。
 WEBカタログ： https://webcatalog-free.circle.ms/Circle/12327003
 もう頒布予定の冊子も完成しているのでその詳細についても告知させていただきます！
 頒布物 群馬大学電子計算機研究会 会誌「Lollipop Vol.3」￥500 今回の表紙もオライリー本リスペクトです！価格は ￥500 です。
 目　次　
- Haskellによるアルゴリズム入門 （ひげ） あぁ^~心がぴょんぴょんするんじゃぁ^~な人のための ティッピー合成マシンとこころぴょんぴょんクラスタリング （ism67ch） うますぎる闇鍋の作り方 （大宮） “動く” 半導体、MEMSデバイスの話 （れぽ） ROS(Robot Operationg System) を勉強し始めたよ （トム） もしAviUtlユーザーがMMDerになったら （風土） 寝坊しない目覚まし時計 （UTSUTSUKU） ぶうまんが Vol.1 （buu）  また、C88で頒布した Lollipop vol.2 も 500円で再頒布します！ ちなみに、C87で頒布した vol.1 は売り切ってしまったためPDFデータをWEB公開しました。 ぜひ見てみてください！ Lollipop vol.1 PDFデータ
-それでは、ビックサイトでお会いしましょう！</description>
-    </item>
-    
-    <item>
-      <title>IGGG Meetup 2016 Winter の開催が決定！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/12-22/</link>
-      <pubDate>Tue, 22 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/12-22/</guid>
-      <description>&amp;ldquo;新年Meetup 今年度の集大成！&amp;rdquo; 2013年の夏よりIT Conference in グンマー（通称ITC）として過去3回の勉強会を実施。さらに、昨年度よりIGGG設立によってITCからIGGG Meetupに名前を変更して4回開催しました。それに続き、今回IGGG Meetupとしては5度目となるIGGG Meetup 2016 Winterの実施が決定いたしました！
+Haskellによるアルゴリズム入門 （ひげ） あぁ^~心がぴょんぴょんするんじゃぁ^~な人のための ティッピー合成マシンとこころぴょんぴょんクラスタリング （ism67ch） うますぎる闇鍋の作り方 （大宮） “動く” 半導体、MEMSデバイスの話 （れぽ） ROS(Robot Operationg System) を勉強し始めたよ （トム） もしAviUtlユーザーがMMDerになったら （風土） 寝坊しない目覚まし時計 （UTSUTSUKU） ぶうまんが Vol.1 （buu） また、C88で頒布した Lollipop vol.2 も 500円で再頒布します！ ちなみに、C87で頒布した vol.1 は売り切ってしまったためPDFデータをWEB公開しました。 ぜひ見てみてください！ Lollipop vol.1 PDFデータ
+それでは、ビックサイトでお会いしましょう！</description></item><item><title>IGGG Meetup 2016 Winter の開催が決定！</title><link>https://iggg.github.io/new.iggg.org/news/2015/12-22/</link><pubDate>Tue, 22 Dec 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/12-22/</guid><description>&amp;ldquo;新年Meetup 今年度の集大成！&amp;rdquo; 2013年の夏よりIT Conference in グンマー（通称ITC）として過去3回の勉強会を実施。さらに、昨年度よりIGGG設立によってITCからIGGG Meetupに名前を変更して4回開催しました。それに続き、今回IGGG Meetupとしては5度目となるIGGG Meetup 2016 Winterの実施が決定いたしました！
 会場がIGGG Meetup 2015 Spring まで使用していた場所から変更になりました。 IGGG Meetup 2015 Summerから桐生キャンパスで一番高い建物の一室が会場となりましたので間違えのないようお気を付けください。
 2016年冬も、引き続き皆さんが日頃から取り組んでいた成果や面白いアイディアをゆるゆる、ときにはアツく、プレゼン／ライトニングトークできる場を提供します。 全ての発表のあと時間の許す限りほかの参加者・発表者の方とトークの時間を設けています。また昼休憩の時間に食事をとりながら意見を交わすのも恒例となっています。 回を重ねるごとに新しいジャンルからの参加が増えているので、より幅広い情報が共有されるようになりました。興味のある分野の人々との交流を楽しみましょう。
 ■日時
- 2016年1月24日（日曜日） 9:30開場、10:00開始。17:00 終了予定（途中入退場自由） お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べに行ったりできます。コンビニも徒歩3分。  ■場所  群馬大学桐生キャンパス 総合研究棟5階 502号室(前回までとは会場が違うので間違えのないよう、お気をつけください）  ■目的  勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける  ■扱うテーマ 自由です！ 例えば&amp;hellip; 自作アプリやゲーム、C、Java、Python、Lisp、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、デザイン、数学、化学、闇鍋 etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
+2016年1月24日（日曜日） 9:30開場、10:00開始。17:00 終了予定（途中入退場自由） お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べに行ったりできます。コンビニも徒歩3分。 ■場所 群馬大学桐生キャンパス 総合研究棟5階 502号室(前回までとは会場が違うので間違えのないよう、お気をつけください） ■目的 勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける ■扱うテーマ 自由です！ 例えば&amp;hellip; 自作アプリやゲーム、C、Java、Python、Lisp、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、デザイン、数学、化学、闇鍋 etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
 ■参加条件 発表、参加ともに設けていません。学内の方、学外の方、いずれも参加OKです。 途中の入退室も自由です。 もちろん発表を聴くだけでも大丈夫！ 初めての方も大歓迎です！興味がある方はぜひ参加してみてください！
 ■参加方法
-IT勉強会・イベント支援サイト「connpass」より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/24435/</description>
-    </item>
-    
-    <item>
-      <title>SECCON 2015 Online CTF に参加しました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/12-08/</link>
-      <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/12-08/</guid>
-      <description>「SECCON 2015」というOnlineのCTF(Capture The Flag)大会に参加しました。 詳しくはコチラの公式ページへ
+IT勉強会・イベント支援サイト「connpass」より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/24435/</description></item><item><title>SECCON 2015 Online CTF に参加しました</title><link>https://iggg.github.io/new.iggg.org/news/2015/12-08/</link><pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/12-08/</guid><description>「SECCON 2015」というOnlineのCTF(Capture The Flag)大会に参加しました。 詳しくはコチラの公式ページへ
 参加者は、ひげ、擬音(@gion)、消火器の3人。
 結果は以下の通り
-  昨年は98位だったので今年も100位を切りたかったです&amp;hellip; (少しだけ言い訳をすると、昨年は擬音、すぱさん、消火器とおまけでひげがフルにやったのに対し、今年フルで参加したのはひげだけで、擬音と消火器は半分ぐらいずつでした&amp;hellip;)
+昨年は98位だったので今年も100位を切りたかったです&amp;hellip; (少しだけ言い訳をすると、昨年は擬音、すぱさん、消火器とおまけでひげがフルにやったのに対し、今年フルで参加したのはひげだけで、擬音と消火器は半分ぐらいずつでした&amp;hellip;)
 また、解けた問題は以下の通り
-  各自で各々が解いた問題のWriteupを書いたので見てみてください。
- ひげ 擬音 消火器  実は、昨年のSECCONが初のCTFだったんですよ。 だから、1年の成果を！と言うつもりで意気込んでいたのですが、なかなか皆の都合が合わなく、昨年みたいに皆でわいわいやることが出来なかったです。 結果は残念でしたが、それ以上に久々にみんなで楽しみながら集まってやりたいです。</description>
-    </item>
-    
-    <item>
-      <title>IGGG Advent Calendar 2015 を行います！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/11-25/</link>
-      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/11-25/</guid>
-      <description>&amp;ldquo;IGGG Advent Calendar 2015&amp;rdquo; Advent Calendar とは12月1日からクリスマス(12月25日)までのカウントダウンをしながら、1日1人適当な記事を投稿していくという企画です(本来はキリストの生誕を祝うもの)。
+各自で各々が解いた問題のWriteupを書いたので見てみてください。
+ひげ 擬音 消火器 実は、昨年のSECCONが初のCTFだったんですよ。 だから、1年の成果を！と言うつもりで意気込んでいたのですが、なかなか皆の都合が合わなく、昨年みたいに皆でわいわいやることが出来なかったです。 結果は残念でしたが、それ以上に久々にみんなで楽しみながら集まってやりたいです。</description></item><item><title>IGGG Advent Calendar 2015 を行います！</title><link>https://iggg.github.io/new.iggg.org/news/2015/11-25/</link><pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/11-25/</guid><description>&amp;ldquo;IGGG Advent Calendar 2015&amp;rdquo; Advent Calendar とは12月1日からクリスマス(12月25日)までのカウントダウンをしながら、1日1人適当な記事を投稿していくという企画です(本来はキリストの生誕を祝うもの)。
 何年か前より、IT系のコミュニティで話題を絞り行っていくのが流行ってますが、今年は我々IGGGも行ってみることにしました！
 記事の内容は絞らず、個性豊かなIGGG部員たちが (自分勝手に) 投稿していきます。 ぜひご覧になってください。
-詳しくはコチラのwikiにまとめています。 Advent Calendar はコチラです。</description>
-    </item>
-    
-    <item>
-      <title>群桐祭のテクノドリームツアーで入賞しました！！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/10-19/</link>
-      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/10-19/</guid>
-      <description>&amp;ldquo;群桐祭のテクノドリームツアーに参加しました！&amp;rdquo;   &amp;ldquo;群桐祭&amp;rdquo;とは群馬大学桐生キャンパスで毎年行っている学園祭のことです。 今回、我々IGGGはテクノドリームツアーとステージに参加しました。 詳しくはコチラのwikiにまとめています。
+詳しくはコチラのwikiにまとめています。 Advent Calendar はコチラです。</description></item><item><title>群桐祭のテクノドリームツアーで入賞しました！！</title><link>https://iggg.github.io/new.iggg.org/news/2015/10-19/</link><pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/10-19/</guid><description>&amp;ldquo;群桐祭のテクノドリームツアーに参加しました！&amp;rdquo; &amp;ldquo;群桐祭&amp;rdquo;とは群馬大学桐生キャンパスで毎年行っている学園祭のことです。 今回、我々IGGGはテクノドリームツアーとステージに参加しました。 詳しくはコチラのwikiにまとめています。
 テクノドリームツアーでは、一般来場者・優待者・教員による評価での順位付けがあります。 我々のブースは17団体中
- 一般来場者：5位 優待者：9位 教員：2位  で総合7位になり、入賞することが出来ました（8位まで入賞）。 初参加＋ステージにも参加であったにも関わらず入賞できたので、かなり良い結果だったと思います。 来年以降も続けるかどうかは分かりませんが、もし参加するなら次はもっと良い成績を残したいです。
-部員以外にも多くの人達に協力してもらいました。 このような結果を残せたのはその人たちの協力があってこそです。 本当にありがとうございました！</description>
-    </item>
-    
-    <item>
-      <title>ETロボコン2015北関東大会 走行1位/総合3位 !!</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/10-14/</link>
-      <pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/10-14/</guid>
-      <description>&amp;ldquo;ETロボコン2015北関東大会に参加しました&amp;rdquo; 「ETロボコン」は、組み込み技術 (Embeded Technology) を競い合う大会です。 詳しくはコチラの公式ページへどうぞ。
+一般来場者：5位 優待者：9位 教員：2位 で総合7位になり、入賞することが出来ました（8位まで入賞）。 初参加＋ステージにも参加であったにも関わらず入賞できたので、かなり良い結果だったと思います。 来年以降も続けるかどうかは分かりませんが、もし参加するなら次はもっと良い成績を残したいです。
+部員以外にも多くの人達に協力してもらいました。 このような結果を残せたのはその人たちの協力があってこそです。 本当にありがとうございました！</description></item><item><title>ETロボコン2015北関東大会 走行1位/総合3位 !!</title><link>https://iggg.github.io/new.iggg.org/news/2015/10-14/</link><pubDate>Wed, 14 Oct 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/10-14/</guid><description>&amp;ldquo;ETロボコン2015北関東大会に参加しました&amp;rdquo; 「ETロボコン」は、組み込み技術 (Embeded Technology) を競い合う大会です。 詳しくはコチラの公式ページへどうぞ。
 IGGGはデベロッパー部門プライマリークラスにチーム名「RoboOhta++」として6名が参加し、10月11日に行われたETロボコン2015北関東大会にて走行部門1位、総合部門3位を獲得しました！ ちなみに走行タイムは全国で見ても14位の成績になります！（コチラでランキングが見れます）
-  活動を始めたのは今年の4月頃でした。初めはうまく行かないことばかりでしたが、先輩方のサポートのもと、みんなで助け合い少しずつ成長してきました。大会では見事走行部門で優勝することができ、嬉しく思います。ただ総合優勝できなかったことは非常に悔しかったので、この悔しさをバネに、これからも頑張っていこうと思います。</description>
-    </item>
-    
-    <item>
-      <title>【御礼】IGGG Meetup 2015 Summer 参加ありがとうございました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/10-01/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/10-01/</guid>
-      <description>IGGG Meetup 2015 Summerに参加していただいた方がありがとうございました！
+活動を始めたのは今年の4月頃でした。初めはうまく行かないことばかりでしたが、先輩方のサポートのもと、みんなで助け合い少しずつ成長してきました。大会では見事走行部門で優勝することができ、嬉しく思います。ただ総合優勝できなかったことは非常に悔しかったので、この悔しさをバネに、これからも頑張っていこうと思います。</description></item><item><title>【御礼】IGGG Meetup 2015 Summer 参加ありがとうございました</title><link>https://iggg.github.io/new.iggg.org/news/2015/10-01/</link><pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/10-01/</guid><description>IGGG Meetup 2015 Summerに参加していただいた方がありがとうございました！
 前回同様、今回のIGGG Meetupも30人強の方々に参加していただきました。
 改めて、感謝申し上げます！ありがとうございました！
 今回も発表は、学内学生のみならず、社会人の方にも発表していただきました！ 学生主体で企画をしておりますが、社会人の発表もOKです！
 今後とも、IGGG Meetupへの参加・発表の登録、よろしくお願いします！
 IGGG Meetup 2015 Summerのまとめサイトがありますので、ぜひ御覧ください。
-IGGG Meetup 2015 Summerのまとめ</description>
-    </item>
-    
-    <item>
-      <title>IGGG Meetup 2015 Summer のタイムスケジュールを公開</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/09-21/</link>
-      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/09-21/</guid>
-      <description>何回か前の記事で紹介した &amp;ldquo;IGGG Meetup 2015 Summer&amp;rdquo; のタイムスケジュールを公開します！
-IGGG Meetup 2015 Summer タイムスケジュール  もし参加するか迷っていた人がいたら、発表内容を参考にして決めてください。
- 興味ある発表内容がある -&amp;gt; 参加 興味ある発表内容がない -&amp;gt; けど興味を持つきっかけになるかもしれないのでとりあえず参加  発表者枠にはまだ余裕があります。また、当日の飛び入り参加/発表も構いません！ 参加お待ちしております。
-参加方法 IT勉強会・イベント支援サイト『connpass』より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/19112/</description>
-    </item>
-    
-    <item>
-      <title>MMA CTF 1st 2015 に参加しました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/09-07/</link>
-      <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/09-07/</guid>
-      <description>「MMA CTF 1st 2015」というOnlineのCTF(Capture The Flag)大会に参加しました。 （IGGG Wikiに簡単なルールをまとめました）
+IGGG Meetup 2015 Summerのまとめ</description></item><item><title>IGGG Meetup 2015 Summer のタイムスケジュールを公開</title><link>https://iggg.github.io/new.iggg.org/news/2015/09-21/</link><pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/09-21/</guid><description>何回か前の記事で紹介した &amp;ldquo;IGGG Meetup 2015 Summer&amp;rdquo; のタイムスケジュールを公開します！
+IGGG Meetup 2015 Summer タイムスケジュール もし参加するか迷っていた人がいたら、発表内容を参考にして決めてください。
+興味ある発表内容がある -&amp;gt; 参加 興味ある発表内容がない -&amp;gt; けど興味を持つきっかけになるかもしれないのでとりあえず参加 発表者枠にはまだ余裕があります。また、当日の飛び入り参加/発表も構いません！ 参加お待ちしております。
+参加方法 IT勉強会・イベント支援サイト『connpass』より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/19112/</description></item><item><title>MMA CTF 1st 2015 に参加しました</title><link>https://iggg.github.io/new.iggg.org/news/2015/09-07/</link><pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/09-07/</guid><description>「MMA CTF 1st 2015」というOnlineのCTF(Capture The Flag)大会に参加しました。 （IGGG Wikiに簡単なルールをまとめました）
 参加者は、ひげ、擬音(@gion)、消火器です。 擬音は5日に消火器は6日にひげ両日頑張りました。
 問題にはWarmupがあり、簡単なはずなのですがそれらをすべて解くことすらできませんでした。 次回は点数の低い問題ぐらいはすべて解きたいですね。
 結果は以下の通り
-  参加人数の割に順位はそこそこですが&amp;hellip;もう少し解きたかったですね。
+参加人数の割に順位はそこそこですが&amp;hellip;もう少し解きたかったですね。
 解けた問題はコチラ
-  擬音が「Login as admin!」と「Solitted」と「This program cannot be run in DOS mode」を、ひげが「Pattern Lock」と「Smart Cipher System」と「Signer and Verifier」と「MQAAAA」を、消火器が「Nagoya Castle」を解きました。 今回は力を合わせたというよりは各々得意な問題を解いた感じですね。 ただしもっと精進して得意のレベルを上げたいです。
-9月はOnline参加できるCTFが毎週あるので可能な限り実戦経験しとこうかと考えてます。 できればメンバで復習や勉強会したいけど&amp;hellip;なかなか集まれないですね。 （ちなみに、今度こそwriteup書きます！）</description>
-    </item>
-    
-    <item>
-      <title>IGGG Meetup 2015 Summer の開催が決定！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/08-20/</link>
-      <pubDate>Thu, 20 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/08-20/</guid>
-      <description>&amp;ldquo;4度目過去最大規模のMeetup!&amp;rdquo; 「IGGG Meetup」は、IT関連のテクノロジー（ソフト/ハード/アルゴリズム、他）について語り合い交流する時間をぜひ定期的に！！という趣旨で群馬大学電子計算機研究会(IGGG)が開催しているイベント。つまり所属不問の勉強会＆交流会です。
+擬音が「Login as admin!」と「Solitted」と「This program cannot be run in DOS mode」を、ひげが「Pattern Lock」と「Smart Cipher System」と「Signer and Verifier」と「MQAAAA」を、消火器が「Nagoya Castle」を解きました。 今回は力を合わせたというよりは各々得意な問題を解いた感じですね。 ただしもっと精進して得意のレベルを上げたいです。
+9月はOnline参加できるCTFが毎週あるので可能な限り実戦経験しとこうかと考えてます。 できればメンバで復習や勉強会したいけど&amp;hellip;なかなか集まれないですね。 （ちなみに、今度こそwriteup書きます！）</description></item><item><title>IGGG Meetup 2015 Summer の開催が決定！</title><link>https://iggg.github.io/new.iggg.org/news/2015/08-20/</link><pubDate>Thu, 20 Aug 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/08-20/</guid><description>&amp;ldquo;4度目過去最大規模のMeetup!&amp;rdquo; 「IGGG Meetup」は、IT関連のテクノロジー（ソフト/ハード/アルゴリズム、他）について語り合い交流する時間をぜひ定期的に！！という趣旨で群馬大学電子計算機研究会(IGGG)が開催しているイベント。つまり所属不問の勉強会＆交流会です。
 2013年の夏よりIT Conference in グンマー（通称ITC）として過去3回の勉強会を実施。さらに、昨年度よりIGGG設立によってITCからIGGG Meetupに名前を変更して3回開催しました。それに続き、今回IGGG Meetupとしては4度目となるIGGG Meetup 2015 Summerの実施が決定いたしました！
 今回より、会場を変更し、より広い会場に変更になりました！皆さんが日頃から取り組んでいた成果や面白いアイディアをゆるゆる、ときにはアツく、プレゼン／ライトニングトークできる場を提供します。
-■日時  2015年9月23日（水曜日）(秋分の日) 9:30開場、10:00開始。17:00 終了予定（途中入退場自由） お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べにいったりできます。コンビニも徒歩3分。  ■場所  群馬大学桐生キャンパス 総合研究棟5階 502号室(前回までとは会場が違うので間違えのないよう、お気をつけください）  ■目的  勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける  ■扱うテーマ 自由です。IT関連、ぶっちゃけ楽しければなんでもOK！ 例えば: 自作アプリやゲーム、C、Java、Python、Lisp、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
+■日時 2015年9月23日（水曜日）(秋分の日) 9:30開場、10:00開始。17:00 終了予定（途中入退場自由） お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べにいったりできます。コンビニも徒歩3分。 ■場所 群馬大学桐生キャンパス 総合研究棟5階 502号室(前回までとは会場が違うので間違えのないよう、お気をつけください） ■目的 勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける ■扱うテーマ 自由です。IT関連、ぶっちゃけ楽しければなんでもOK！ 例えば: 自作アプリやゲーム、C、Java、Python、Lisp、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
 ■参加条件 発表、参加ともに設けていません。学内の方、学外の方、いずれも参加OKです。 途中の入退室も自由です。 もちろん発表を聴くだけでも大丈夫！ 初めての方も大歓迎です！興味がある方はぜひ参加してみてください！ IGGG Meetupは全てを受け入れるのよ。
-■参加方法 IT勉強会・イベント支援サイト「connpass」より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！http://iggg.connpass.com/event/19112/</description>
-    </item>
-    
-    <item>
-      <title>C88に参加します</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/08-10/</link>
-      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/08-10/</guid>
-      <description>新刊出します！ 今回は表紙にいい紙使ってます  夏コミまであと4日というところでご報告いたします。 コミックマーケット88（C88）に参加いたします！ 配置場所は、8月16日 日曜日 東地区 O－47b となります。 WEBカタログ： https://webcatalog-free.circle.ms/Circle/11927826
+■参加方法 IT勉強会・イベント支援サイト「connpass」より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！http://iggg.connpass.com/event/19112/</description></item><item><title>C88に参加します</title><link>https://iggg.github.io/new.iggg.org/news/2015/08-10/</link><pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/08-10/</guid><description>新刊出します！ 今回は表紙にいい紙使ってます 夏コミまであと4日というところでご報告いたします。 コミックマーケット88（C88）に参加いたします！ 配置場所は、8月16日 日曜日 東地区 O－47b となります。 WEBカタログ： https://webcatalog-free.circle.ms/Circle/11927826
 もう頒布予定の冊子も完成しているのでその詳細についても告知させていただきます！
 頒布物 群馬大学電子計算機研究会 会誌「Lollipop Vol.2」￥500 今回の表紙もオライリー本リスペクトです！価格は￥500です。
 目　次　
- Ctfのためのruby入門 （ひげ） コンピュータビジョンのためのSVMを用いた絶対領域検出 （ism67ch） 初心者が必死で伝えるプログラミング言語「なでしこ」の魅力 （Zakky） 電動パワーステアリングシステムのためのモデリング （トム） AviUtlWorkShop ～AviUtlをつかった動画編集講座の記録～ （風土） ジャンク修理歴5年のプロが教えるジャンク修理 （桐生川(kuriuzu)） 闇鍋といえば… イエローだよー！ もう何も怖くない黄色鍋でティロフィナーレ！！ （大宮） たのしいThinkPad 初心者編 （buu）  2015/08/16追記： 前回、C87で配布した「Lollipop vol.1」をWeb公開します！ Lollipop vol.1は既に在庫がほとんどありません。 重版は今の所予定はありませんが（希望があるようなら考えます）代わりにWeb上に公開します。 ぜひ見てみてください！ Lollipop vol.1 PDFデータ
-それでは、ビックサイトでお会いしましょう！</description>
-    </item>
-    
-    <item>
-      <title>CTF for ビギナーズ 2015 長野 に参加してきました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/07-13/</link>
-      <pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/07-13/</guid>
-      <description>「CTF for ビギナーズ」（以下CTF4B）とは、CTF (Capture The Flag) の初心者を対象とした勉強会です。 私達は7月5日にあった「CTF4B 2015 長野」に参加してきました。 部員からはひげ、擬音(@gion)、すぱさん(@hirontweet)、消火器の4名、また部外の有志1名の計5人で参加させてもらいました。（CTF4Bは非常に人気で、長野では募集を開始したその日に定員になってしまいました。にもかかわらず、4+1枠も消費してしまい申し訳ないです。）
+Ctfのためのruby入門 （ひげ） コンピュータビジョンのためのSVMを用いた絶対領域検出 （ism67ch） 初心者が必死で伝えるプログラミング言語「なでしこ」の魅力 （Zakky） 電動パワーステアリングシステムのためのモデリング （トム） AviUtlWorkShop ～AviUtlをつかった動画編集講座の記録～ （風土） ジャンク修理歴5年のプロが教えるジャンク修理 （桐生川(kuriuzu)） 闇鍋といえば… イエローだよー！ もう何も怖くない黄色鍋でティロフィナーレ！！ （大宮） たのしいThinkPad 初心者編 （buu） 2015/08/16追記： 前回、C87で配布した「Lollipop vol.1」をWeb公開します！ Lollipop vol.1は既に在庫がほとんどありません。 重版は今の所予定はありませんが（希望があるようなら考えます）代わりにWeb上に公開します。 ぜひ見てみてください！ Lollipop vol.1 PDFデータ
+それでは、ビックサイトでお会いしましょう！</description></item><item><title>CTF for ビギナーズ 2015 長野 に参加してきました！</title><link>https://iggg.github.io/new.iggg.org/news/2015/07-13/</link><pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/07-13/</guid><description>「CTF for ビギナーズ」（以下CTF4B）とは、CTF (Capture The Flag) の初心者を対象とした勉強会です。 私達は7月5日にあった「CTF4B 2015 長野」に参加してきました。 部員からはひげ、擬音(@gion)、すぱさん(@hirontweet)、消火器の4名、また部外の有志1名の計5人で参加させてもらいました。（CTF4Bは非常に人気で、長野では募集を開始したその日に定員になってしまいました。にもかかわらず、4+1枠も消費してしまい申し訳ないです。）
 群馬からなので、当日は朝7時半より車を乗り合わせて行きました。 長野でおいしいそばをいただき、勉強会に参加。 前半の勉強会は非常にわかりやすかったです。特に、問題に対しどのように攻め始めたら良いのかという定石を知ることができたのは初心者として大きかったです。 後半のCTFはとても楽しく熱中してしまいました。60人中、擬音が5位でひげが10位になれました。
 長野駅でお土産を買い、夕飯を食べて群馬に帰ったので、着いたのが23時半。なかなかの長旅で疲れました(笑)
 実は昨年度、割と付け焼き刃で「SECCON 2014 オンライン予選」に参加しています。今年はしっかり勉強して参加しようということで、CTF4Bに参加することになりました。 そのため、完全な初心者ではないような気もしますが、それでも非常に勉強になり楽しめました。
 CTFはITの総合力を競う（学ぶ）コンテストです。 そのため、IT系の部活として、今回勉強した内容は自分たちの中でしっかりと力にしたうえで、部内にも広めていきたいと考えています。
 ちなみに、自分たちの復習とMemoも兼ねてWriteupを書いていきたいと考えています。
-2015/7/13 追記：CTF4Bの復習・情報共有をする勉強会を行いました。詳しくはIGGG wikiにまとめました。</description>
-    </item>
-    
-    <item>
-      <title>PoliCTF 2015に参加しました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/07-13-1/</link>
-      <pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/07-13-1/</guid>
-      <description>「PoliCTF」というOnlineのCTF(Capture The Flag)大会に参加しました。 （IGGG Wikiに簡単なルールをまとめました）
+2015/7/13 追記：CTF4Bの復習・情報共有をする勉強会を行いました。詳しくはIGGG wikiにまとめました。</description></item><item><title>PoliCTF 2015に参加しました</title><link>https://iggg.github.io/new.iggg.org/news/2015/07-13-1/</link><pubDate>Mon, 13 Jul 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/07-13-1/</guid><description>「PoliCTF」というOnlineのCTF(Capture The Flag)大会に参加しました。 （IGGG Wikiに簡単なルールをまとめました）
 参加者は、前回CTF4Bに参加した、ひげ、擬音(@gion)、すぱさん(@hirontweet)、消火器、また部外の有志1名です（途中からだったり、適当に寝に帰ったりして、ずっと一緒というわけではないです）。
 7月9日にやった部内のCTFの勉強会で「PoliCTF 2015」の存在を知り、勉強がてらということで勢いで参加を決めました。「先週参加したCTF4Bの成果を見せるぞー！」と意気込んでいた……のですが…… 実はPoliCTF 2015は「CTFtime.org」によると昨年のSECCONオンライン予選よりも難易度が高いようです（Rating Weightが SECCON 2014: 25.00、PoliCTF: 30.00）。
 7月11日(金) の18時より部室に集まって、48時間後の13日(日) の18時まで（割とのんびりしながら）戦いました（もちろん、適宜帰ってますよ！部室での宿泊は禁止なので！）。 1番ポイントの低い50pt問題でさえすんなりと解けず、とても苦戦しました。
 結果は以下の通り
-  100位を切りたかったですが、勢いで出た割に良い成績でした。
+100位を切りたかったですが、勢いで出た割に良い成績でした。
 また、解けた問題はコチラ
-  初日に擬音がPwnableの50を、すぱさんがReversingの100を解きました。二日目に擬音がReversingの200を2問解き、最終日に半ば全員で力を合わせる形でGrabBugの50とWebの100を解きました。 特に最後の力を合わせてる間は非常に盛り上がって楽しかったです。
+初日に擬音がPwnableの50を、すぱさんがReversingの100を解きました。二日目に擬音がReversingの200を2問解き、最終日に半ば全員で力を合わせる形でGrabBugの50とWebの100を解きました。 特に最後の力を合わせてる間は非常に盛り上がって楽しかったです。
 CTF4Bで得た力だけでは全然足りないような気がしましたが、なかなか良い結果を残せたのはCTF4Bの影響もあるでしょう。（半分以上は擬音パワーですが(笑)）
 今回は難しすぎたので、いきなり難易度が下がる上に（たぶん）個人戦ですが 「Whitehat Contest 2015」 に出て成長を実感してみようと考えています。
-また、CTF4B同様、復習とMemoを兼ねてWriteupを書く予定です。（IRCの会話から自分達が解けなかった問題もまとめるかも）</description>
-    </item>
-    
-    <item>
-      <title>栃木高校SSHに参加</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/07-07/</link>
-      <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/07-07/</guid>
-      <description>2015年6月6日、7月4日の両日、群馬大学理工学部で行われた栃木高校のSSH(Super Science Highschool)にIGGGメンバーが山崎研究室のヘルプとして高校生のプログラミングの補助をしました。
+また、CTF4B同様、復習とMemoを兼ねてWriteupを書く予定です。（IRCの会話から自分達が解けなかった問題もまとめるかも）</description></item><item><title>栃木高校SSHに参加</title><link>https://iggg.github.io/new.iggg.org/news/2015/07-07/</link><pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/07-07/</guid><description>2015年6月6日、7月4日の両日、群馬大学理工学部で行われた栃木高校のSSH(Super Science Highschool)にIGGGメンバーが山崎研究室のヘルプとして高校生のプログラミングの補助をしました。
 今回のSSHはAdobe Flashを用いてトーラスパズルを作成してみよう、というのが今回のテーマでした。
 はじめに、プログラミングの基本を教えてプログラムの動作を確認を行いました。数学記号の取り扱いが数学とプログラミングでは違うことに慣れてもらったら、変数値の交換、繰り返し文などトーラスパズルを作成するために必要な知識を学んでもらいました。
-トーラスパズルを作成するにあたり、最初から関数が用意されていて、生徒は正しいところに箱とボタンを配置するということをしました。 繰り返し文の応用が重要だったのですが、中には、25個関数を呼び出すやり方をする子もいたり。 最終的には、繰り返し文の方が楽だということが理解できていました。
-         </description>
-    </item>
-    
-    <item>
-      <title>【御礼】IGGG Meetup 2015 Spring参加ありがとうございました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/05-10/</link>
-      <pubDate>Sun, 10 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/05-10/</guid>
-      <description>IGGG Meetup 2015 Springに参加していただいた方がありがとうございました！
+トーラスパズルを作成するにあたり、最初から関数が用意されていて、生徒は正しいところに箱とボタンを配置するということをしました。 繰り返し文の応用が重要だったのですが、中には、25個関数を呼び出すやり方をする子もいたり。 最終的には、繰り返し文の方が楽だということが理解できていました。</description></item><item><title>【御礼】IGGG Meetup 2015 Spring参加ありがとうございました</title><link>https://iggg.github.io/new.iggg.org/news/2015/05-10/</link><pubDate>Sun, 10 May 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/05-10/</guid><description>IGGG Meetup 2015 Springに参加していただいた方がありがとうございました！
 今回のIGGG Meetupはconnpassでの参加登録が34人(史上最多)に加え、当日観覧の方を合わせて30人強の方々に参加していただきました。
 改めて、感謝申し上げます！ありがとうございました！
 発表は、学内学生のみならず、社会人の方にも発表していただきました！学生主体で企画をしておりますが、社会人の発表もOKです！
 今後とも、IGGG Meetupへの参加・発表の登録、よろしくお願いします！
 IGGG Meetup 2015 Springのまとめサイトがありますので、ぜひ御覧ください。
-IGGG Meetup 2015 Springのまとめ</description>
-    </item>
-    
-    <item>
-      <title>IGGG Meetup 2015 Spring のタイムスケジュールを公開</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/05-01/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/05-01/</guid>
-      <description>前回の記事で紹介した &amp;ldquo;IGGG Meetup 2015 Spring&amp;rdquo; のタイムスケジュールを公開します！
-IGGG Meetup 2015 Spring タイムスケジュール  もし参加するか迷っていた人がいたら、発表内容を参考にして決めてください。
- 興味ある発表内容がある -&amp;gt; 参加 興味ある発表内容がない -&amp;gt; けど興味を持つきっかけになるかもしれないのでとりあえず参加  発表者枠にはまだ余裕があります。また、当日の飛び入り参加/発表も構いません！ 参加お待ちしております。
-参加方法 IT勉強会・イベント支援サイト『connpass』より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/14100/</description>
-    </item>
-    
-    <item>
-      <title>IGGG Meetup 2015 Springの開催が決定！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/04-10/</link>
-      <pubDate>Fri, 10 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/04-10/</guid>
-      <description>「IGGG Meetup」は、IT関連のテクノロジー（ソフト/ハード/アルゴリズム、他）について語り合い交流する時間をぜひ定期的に！！という趣旨で群馬大学電子計算機研究会(IGGG)が開催しているイベント。つまり所属不問の勉強会＆交流会です。
+IGGG Meetup 2015 Springのまとめ</description></item><item><title>IGGG Meetup 2015 Spring のタイムスケジュールを公開</title><link>https://iggg.github.io/new.iggg.org/news/2015/05-01/</link><pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/05-01/</guid><description>前回の記事で紹介した &amp;ldquo;IGGG Meetup 2015 Spring&amp;rdquo; のタイムスケジュールを公開します！
+IGGG Meetup 2015 Spring タイムスケジュール もし参加するか迷っていた人がいたら、発表内容を参考にして決めてください。
+興味ある発表内容がある -&amp;gt; 参加 興味ある発表内容がない -&amp;gt; けど興味を持つきっかけになるかもしれないのでとりあえず参加 発表者枠にはまだ余裕があります。また、当日の飛び入り参加/発表も構いません！ 参加お待ちしております。
+参加方法 IT勉強会・イベント支援サイト『connpass』より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/14100/</description></item><item><title>IGGG Meetup 2015 Springの開催が決定！</title><link>https://iggg.github.io/new.iggg.org/news/2015/04-10/</link><pubDate>Fri, 10 Apr 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/04-10/</guid><description>「IGGG Meetup」は、IT関連のテクノロジー（ソフト/ハード/アルゴリズム、他）について語り合い交流する時間をぜひ定期的に！！という趣旨で群馬大学電子計算機研究会(IGGG)が開催しているイベント。つまり所属不問の勉強会＆交流会です。
 2013年の夏よりIT Conference in グンマー（通称ITC）として過去3回の勉強会を実施。さらに、昨年度よりIGGG設立によってITCからIGGG Meetupに名前を変更して2回開催しました。それに続き、今回IGGG Meetupとしては3度目となるIGGG Meetup 2015 Springの実施が決定いたしました！
 2015年度も、引き続き皆さんが日頃から取り組んでいた成果や面白いアイディアをゆるゆる、ときにはアツく、プレゼン／ライトニングトークできる場を提供します。
-■日時  2015年5月3日（日曜日） 9:30開場、10:00開始。17:00 終了予定（途中入退場自由） お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べにいったりできます。コンビニも徒歩3分。  ■場所  群馬大学桐生キャンパス プロジェクト棟2階 P203  ■目的  勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける  ■扱うテーマ 自由です。IT関連、ぶっちゃけ楽しければなんでもOK！ 例えば: 自作アプリやゲーム、C、Java、Python、Lisp、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
+■日時 2015年5月3日（日曜日） 9:30開場、10:00開始。17:00 終了予定（途中入退場自由） お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べにいったりできます。コンビニも徒歩3分。 ■場所 群馬大学桐生キャンパス プロジェクト棟2階 P203 ■目的 勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける ■扱うテーマ 自由です。IT関連、ぶっちゃけ楽しければなんでもOK！ 例えば: 自作アプリやゲーム、C、Java、Python、Lisp、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
 ■参加条件 発表、参加ともに設けていません。学外の方、学外の方、いずれも参加OKです。 途中の入退室も自由です。 もちろん発表を聴くだけでも大丈夫！ ぜひ、初めての方も参加してつかーさい！
-■参加方法 IT勉強会・イベント支援サイト「connpass」より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！http://iggg.connpass.com/event/14100/</description>
-    </item>
-    
-    <item>
-      <title>情報工学科新2年生向けに勧誘LTを行いました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2015/04-06/</link>
-      <pubDate>Mon, 06 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2015/04-06/</guid>
-      <description>IGGG勧誘スライド from IGGGorg年度も新しくなり、新体制になりました。 ということでまず、新しい部員を募集します！ そのために、新IGGGエバンジェリスト（？）のSAKURAGIが、情報工学科の新2年生を対象としたLT（ライトニングトーク）を行いました。</description>
-    </item>
-    
-    <item>
-      <title>C87おしながき</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2014/12-26/</link>
-      <pubDate>Fri, 26 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2014/12-26/</guid>
-      <description>無事、本になりました！！  どさっと100冊  どさっと100冊
+■参加方法 IT勉強会・イベント支援サイト「connpass」より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！http://iggg.connpass.com/event/14100/</description></item><item><title>情報工学科新2年生向けに勧誘LTを行いました</title><link>https://iggg.github.io/new.iggg.org/news/2015/04-06/</link><pubDate>Mon, 06 Apr 2015 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2015/04-06/</guid><description>IGGG勧誘スライド from IGGGorg年度も新しくなり、新体制になりました。 ということでまず、新しい部員を募集します！ そのために、新IGGGエバンジェリスト（？）のSAKURAGIが、情報工学科の新2年生を対象としたLT（ライトニングトーク）を行いました。</description></item><item><title>C87おしながき</title><link>https://iggg.github.io/new.iggg.org/news/2014/12-26/</link><pubDate>Fri, 26 Dec 2014 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2014/12-26/</guid><description>無事、本になりました！！ どさっと100冊 どさっと100冊
 こんにちは。 進捗どうですか？ダメです。Buuです。 クリスマスとかいう自宅警備(or ラボで研究しながら一夜を明かす)イベントも終わって、もう来週が冬コミなんですね…早い…
 さて、@IGGGorgでも既にツイートしておりますが、12月30日にコミックマーケット87で頒布予定の冊子が完成いたしました。 本日は、その詳細について告知をさせていただきます！
 頒布物 群馬大学電子計算機研究会 会誌（部誌？）「Lollipop Vol.1」￥500 メインはこの本です。会員たちのなかなか個性的な記事が集まりました。記念すべきVol.1の表紙はオライリー本リスペクト！価格は￥500です。タイトルの由来は会長が知っているとか…？
- Lollipop Vol.1  Lollipop Vol.1
+Lollipop Vol.1 Lollipop Vol.1
 目　次　
- Conoha VPS にGentoo を入れた （擬音） C言語ポインタを理解するための第一歩 （Sakuragi Yuuto） HOG特徴を用いた乳首修正パッチシステム （ism67ch） 有機電界効果トランジスタの特徴と構造 （Y.S） 1個300円のArduinoで生活を便利にする話 （レポート用紙） Raspberry Piでドライブレコーダ作ってみた （Zakky） SCADE SuiteによるArduino入門 （michele_lap） 日本語音声合成エンジンとしての初音ミクを使用した研究・開発の紹介 （michele_lap） 人間と酔い （風土） iModelaであそんでみる （桐生川）  その他 無料配布物として、「Lollipop Vol.1」1冊のご購入につき1部づつ、IGGG会員が作成した何か（印刷物）をお渡しいたします。鋭意製作中（かも！）
+Conoha VPS にGentoo を入れた （擬音） C言語ポインタを理解するための第一歩 （Sakuragi Yuuto） HOG特徴を用いた乳首修正パッチシステム （ism67ch） 有機電界効果トランジスタの特徴と構造 （Y.S） 1個300円のArduinoで生活を便利にする話 （レポート用紙） Raspberry Piでドライブレコーダ作ってみた （Zakky） SCADE SuiteによるArduino入門 （michele_lap） 日本語音声合成エンジンとしての初音ミクを使用した研究・開発の紹介 （michele_lap） 人間と酔い （風土） iModelaであそんでみる （桐生川） その他 無料配布物として、「Lollipop Vol.1」1冊のご購入につき1部づつ、IGGG会員が作成した何か（印刷物）をお渡しいたします。鋭意製作中（かも！）
 2015/01/09追記： 無料配布物を公開します！
- IGGGプロモーションビデオ C87版 （風土）（当日はQRコードにより配布）  Kinect v2 × Visual Gesture Builderでファイトだよっ！ （Buu） C87で無料頒布したKinect v2 + Visual Gesture Builderのお話をかいた原稿、印刷部数少なくて当日思ったよりすぐ終わっちゃったのでPDFで置いとく(・ω&amp;lt;) http://t.</description>
-    </item>
-    
-    <item>
-      <title>IGGG Meetup 2015 Winterの開催が決定！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2014/12-25/</link>
-      <pubDate>Thu, 25 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2014/12-25/</guid>
-      <description>&amp;ldquo;The Second Impact from Kiryu&amp;rdquo; 「IGGG Meetup」は、IT関連のテクノロジー（ソフト/ハード/アルゴリズム、他）について語り合い交流する時間をぜひ定期的に！！という趣旨で群馬大学電子計算機研究会(IGGG)が開催しているイベント。つまり所属不問の勉強会＆交流会です。
+IGGGプロモーションビデオ C87版 （風土）（当日はQRコードにより配布） Kinect v2 × Visual Gesture Builderでファイトだよっ！ （Buu） C87で無料頒布したKinect v2 + Visual Gesture Builderのお話をかいた原稿、印刷部数少なくて当日思ったよりすぐ終わっちゃったのでPDFで置いとく(・ω&amp;lt;) http://t.</description></item><item><title>IGGG Meetup 2015 Winterの開催が決定！</title><link>https://iggg.github.io/new.iggg.org/news/2014/12-25/</link><pubDate>Thu, 25 Dec 2014 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2014/12-25/</guid><description>&amp;ldquo;The Second Impact from Kiryu&amp;rdquo; 「IGGG Meetup」は、IT関連のテクノロジー（ソフト/ハード/アルゴリズム、他）について語り合い交流する時間をぜひ定期的に！！という趣旨で群馬大学電子計算機研究会(IGGG)が開催しているイベント。つまり所属不問の勉強会＆交流会です。
 2013年の夏よりIT Conference in グンマー（通称ITC）として過去3回の勉強会を実施。さらに、IGGG設立によってITCからIGGG Meetupに名前変更して開催した4回目のIGGG Meetup 2014 Summer。それに続き、今回IGGG Meetupとしては2度目となるIGGG Meetup 2015 Winterの実施が決定いたしました！
 2015年新春も、引き続き皆さんが日頃から取り組んでいた成果や面白いアイディアをゆるゆる、ときにはアツく、プレゼン／ライトニングトークできる場を提供します。
-■日時  2015年1月14日（土曜日） 10:00開場、10:30開始。17:30終了予定。途中入退場自由です。 お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べにいったりできます。コンビニも徒歩3分。  ■場所  群馬大学桐生キャンパス プロジェクト棟2階 P203  ■目的  勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける  ■扱うテーマ 自由です。IT関連、ぶっちゃけ楽しければなんでもOK！ 例えば: 自作アプリやゲーム、C、Java、Python、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
+■日時 2015年1月14日（土曜日） 10:00開場、10:30開始。17:30終了予定。途中入退場自由です。 お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べにいったりできます。コンビニも徒歩3分。 ■場所 群馬大学桐生キャンパス プロジェクト棟2階 P203 ■目的 勉強したことの成果やまとめを発表（プレゼン/LT）する 自分の好きな技術をみんなに広める 仲間を作って交流の機会を増やす 周りから刺激を受け、技術に磨きをかける ■扱うテーマ 自由です。IT関連、ぶっちゃけ楽しければなんでもOK！ 例えば: 自作アプリやゲーム、C、Java、Python、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
 ■参加条件 発表、参加ともに設けていません。学外の方、学外の方、いずれも参加OKです。 もちろん発表を聴くだけでも大丈夫！ とくに、初めての参加はハラショーよ。
-■参加方法 IT勉強会・イベント支援サイト「connpass」より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/10855/</description>
-    </item>
-    
-    <item>
-      <title>サイトのホスト先をConoHa VPSに移行しました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2014/12-21/</link>
-      <pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2014/12-21/</guid>
-      <description>擬音(@gion_U)です。
+■参加方法 IT勉強会・イベント支援サイト「connpass」より参加登録が行えます。 参加を希望される方は、以下のリンクよりご登録をお願いいたします！ http://iggg.connpass.com/event/10855/</description></item><item><title>サイトのホスト先をConoHa VPSに移行しました</title><link>https://iggg.github.io/new.iggg.org/news/2014/12-21/</link><pubDate>Sun, 21 Dec 2014 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2014/12-21/</guid><description>擬音(@gion_U)です。
 www.iggg.org は当初わたしのVPSを間借りさせて運用していましたが、くりうずさんの提案により、ConoHaさんの支援プログラムに申し込ませていただくことにしました。
 申し込みの手順自体は別段難しいことはなく、申し込みフォームに必要事項を記入して送信し、2日後に担当者のかたからメールを頂きました。そのメールで指示通りに法人アカウントを作成し、作成したアカウントのIDを返信すると、次の日にはアカウントにクーポンを付与して頂けました。ConoHaさん、ありがとうございます！
 このサイトのホスティングのためにどのインスタンスを利用すればよいか迷いましたが、ConoHaはひと月未満の利用は日割で計算してもらえるので、もし必要になったらそのとき臨時でインスタンス立ち上げればよいだろう、ということに。
 というわけで1GBインスタンスを1つ立ち上げ、Ubuntu Server 14.04 LTSをインストールし、Nginx + PHP-FPMでWordPress, PukiWikiが動作するように適宜パッケージをインストールしました。設定ファイルの変更点なども含めてAnsibleのPlaybookも書いてみましたが、これが日の目を見ることはあるのだろうか……
-その後、元のサーバーからWWWルート以下のファイルを転送して移転が完了しました。まだ『同様に動作する』程度にしか設定を整えていないので、キャッシュ設定などを追加して高速化を試みたいと考えています。</description>
-    </item>
-    
-    <item>
-      <title>C87への参加が決定しました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2014/11-10/</link>
-      <pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2014/11-10/</guid>
-      <description>C87IGGG  IGGGがコミックマーケット87（C87）に当選いたしました！ 配置場所は、12月30日 火曜日 西地区 く－14a となります。
+その後、元のサーバーからWWWルート以下のファイルを転送して移転が完了しました。まだ『同様に動作する』程度にしか設定を整えていないので、キャッシュ設定などを追加して高速化を試みたいと考えています。</description></item><item><title>C87への参加が決定しました</title><link>https://iggg.github.io/new.iggg.org/news/2014/11-10/</link><pubDate>Mon, 10 Nov 2014 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2014/11-10/</guid><description>C87IGGG IGGGがコミックマーケット87（C87）に当選いたしました！ 配置場所は、12月30日 火曜日 西地区 く－14a となります。
 プログラミングやソフトウェア製作が中心の部誌を頒布する予定です。 WEBカタログ： https://webcatalog-free.circle.ms/Circle/11621917
-IGGG会員たちの進捗にご期待ください♪</description>
-    </item>
-    
-    <item>
-      <title>IGGG Meetup 2014 Summer (旧ITC) の開催が決定！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2014/08-12/</link>
-      <pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2014/08-12/</guid>
-      <description>あのITCが、IGGGになって帰ってきた…！？ 「IGGG Meetup」は、IT関連のテクノロジー（ソフト/ハード/アルゴリズム、他）について語り合い交流する時間をぜひ定期的に！！という有志によるイベント。つまり所属不問の勉強会＆交流会です。
+IGGG会員たちの進捗にご期待ください♪</description></item><item><title>IGGG Meetup 2014 Summer (旧ITC) の開催が決定！</title><link>https://iggg.github.io/new.iggg.org/news/2014/08-12/</link><pubDate>Tue, 12 Aug 2014 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2014/08-12/</guid><description>あのITCが、IGGGになって帰ってきた…！？ 「IGGG Meetup」は、IT関連のテクノロジー（ソフト/ハード/アルゴリズム、他）について語り合い交流する時間をぜひ定期的に！！という有志によるイベント。つまり所属不問の勉強会＆交流会です。
 昨年の夏より「IT Conference in グンマー（通称ITC）」として過去3回勉強会を開催。そして、その運営メンバーによってIGGGが設立されて初めての、ITC後継イベントの開催となります。ITCからIGGG Meetupに名前変更しましたが…名前は変わってもクオリティは変わらず、前回に続き皆さんが日頃から取り組んでいた成果や面白いアイディアをゆるゆる、ときにはアツく、プレゼン／ライトニングトークできる場を提供します。
 この夏、IGGG Meetupで、新たな知識・技術・人々と出会いましょう。
 こちらより、参加登録が可能です。
-日時  2014年9月23日（秋分の日） 10:00開場、10:30開始。17:30終了予定。途中入退場自由です。 お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べにいったりできます。コンビニも徒歩3分。  場所  群馬大学桐生キャンパス プロジェクト棟2階 P203  目的  みなさんが勉強したことの成果やまとめを発表（プレゼン）する機会に 仲間を作って交流の機会を増やす/技術に磨きをかける  扱うテーマ 自由です。IT関連、ぶっちゃけ楽しければなんでもOK！ 例えば: 自作アプリやゲーム、C、Java、Python、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
-参加条件 発表、参加ともに設けていません。学外の方、学外の方、いずれも参加OKです。 発表者大歓迎！ 少しでも気になったら、今すぐ参加登録をお願いします！</description>
-    </item>
-    
-    <item>
-      <title>太田キャンパス学園祭に出展しました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2014/07-20/</link>
-      <pubDate>Sun, 20 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2014/07-20/</guid>
-      <description>白石研究室（群馬大学生産システム工学科）と共同で、7月20日に実施された群馬大学太田キャンパスの学園祭「MEIA」に出展しました。
+日時 2014年9月23日（秋分の日） 10:00開場、10:30開始。17:30終了予定。途中入退場自由です。 お昼休憩あり。近くのパン屋さん、定食屋さんにみんなで食べにいったりできます。コンビニも徒歩3分。 場所 群馬大学桐生キャンパス プロジェクト棟2階 P203 目的 みなさんが勉強したことの成果やまとめを発表（プレゼン）する機会に 仲間を作って交流の機会を増やす/技術に磨きをかける 扱うテーマ 自由です。IT関連、ぶっちゃけ楽しければなんでもOK！ 例えば: 自作アプリやゲーム、C、Java、Python、Android、iOS、Arduino、KINECT、FPGA、ネット関連、電子回路、自作ガジェット、自作PC、etc… どんなことについて語ってもらっても構いません。 具体的には前回までの実施報告を見ていただければわかると思います。
+参加条件 発表、参加ともに設けていません。学外の方、学外の方、いずれも参加OKです。 発表者大歓迎！ 少しでも気になったら、今すぐ参加登録をお願いします！</description></item><item><title>太田キャンパス学園祭に出展しました</title><link>https://iggg.github.io/new.iggg.org/news/2014/07-20/</link><pubDate>Sun, 20 Jul 2014 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2014/07-20/</guid><description>白石研究室（群馬大学生産システム工学科）と共同で、7月20日に実施された群馬大学太田キャンパスの学園祭「MEIA」に出展しました。
 MEIAのメイン企画である科学体験イベント「ダヴィンチ工房」。 そこで、子どもから大人まで楽しめる最新のテクノロジーを体験してもらうのが今回の目的です！
 IGGGが企画・準備に携わったブースは以下の3つ。 内容を簡単にご紹介します。
-Kinect v2でおえかきしよう！ Kinect v2でおえかき  7月15日に日本でオープンβ版が出荷開始したマイクロソフトの「Kinect for Windows v2 センサー」。その出荷開始からわずか5日後、学園祭の展示では日本初（？）のKinect v2体験ブースでした。Kinectで骨格位置を取得して表示させ、v2からSDKでサポートされた「グー」「チョキ」「パー」の簡易判定も活用して、まるで画面のなかに入ったように自由自在にお絵かきできる仕様。子どもたちの芸術性あふれる作品がたくさん誕生していました。
-いないのに、いる…？ARでミクさんに会おう！ ARミクさん  スマートフォンのカメラを学園祭のパンフレットに向けると、画面に映るパンフレットの上にミクさんが現れて踊りだす！今もっともアツい3DゲームエンジンUnityと、ARライブラリを活用しています。「ミクちゃんだ！」と反応してくれる子どもたちも多く、ミクさんの知名度の高さに圧倒されました。
-ぐんまちゃんとあそぼう！ LeapぐんまちゃんMotion  画面のなかのぐんまちゃんをなでるように手をかざすと、ぐんまちゃんが動いて話しかけてくれるのがこのブース。これもKinectと同様に体を使って直感的な操作が行える、今流行りのナチュラルUIデバイス「Leap Motion」を活用しました。手をかざすと反応してくれるぐんまちゃんに、みんな興味津々な様子でした。</description>
-    </item>
-    
-    <item>
-      <title>全体会議を実施します</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2014/06-22/</link>
-      <pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2014/06-22/</guid>
-      <description>23日21時から、IGGG活動拠点にて IGGGの全体会議を実施します。
+Kinect v2でおえかきしよう！ Kinect v2でおえかき 7月15日に日本でオープンβ版が出荷開始したマイクロソフトの「Kinect for Windows v2 センサー」。その出荷開始からわずか5日後、学園祭の展示では日本初（？）のKinect v2体験ブースでした。Kinectで骨格位置を取得して表示させ、v2からSDKでサポートされた「グー」「チョキ」「パー」の簡易判定も活用して、まるで画面のなかに入ったように自由自在にお絵かきできる仕様。子どもたちの芸術性あふれる作品がたくさん誕生していました。
+いないのに、いる…？ARでミクさんに会おう！ ARミクさん スマートフォンのカメラを学園祭のパンフレットに向けると、画面に映るパンフレットの上にミクさんが現れて踊りだす！今もっともアツい3DゲームエンジンUnityと、ARライブラリを活用しています。「ミクちゃんだ！」と反応してくれる子どもたちも多く、ミクさんの知名度の高さに圧倒されました。
+ぐんまちゃんとあそぼう！ LeapぐんまちゃんMotion 画面のなかのぐんまちゃんをなでるように手をかざすと、ぐんまちゃんが動いて話しかけてくれるのがこのブース。これもKinectと同様に体を使って直感的な操作が行える、今流行りのナチュラルUIデバイス「Leap Motion」を活用しました。手をかざすと反応してくれるぐんまちゃんに、みんな興味津々な様子でした。</description></item><item><title>全体会議を実施します</title><link>https://iggg.github.io/new.iggg.org/news/2014/06-22/</link><pubDate>Sun, 22 Jun 2014 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2014/06-22/</guid><description>23日21時から、IGGG活動拠点にて IGGGの全体会議を実施します。
 まだ入会していないけど、興味がある…という方も、ぜひご参加ください。
 議事録等は、こちらにupしていく予定です。 全体会議 20140623 (IGGG wiki)
-部室の様子をちょっと公開 深夜の様子  昼間の様子  机は少し小さいですが、液晶モニタも複数使用でき、ラップトップを1台持ってくれば快適にコーディングできそうですね。 電子レンジと電気ケトルも設置され、放課後てぃーたいむにも最適♪ 今週末あたりに大幅リフォーム予定。さらに快適に作業できるようになるかも？？</description>
-    </item>
-    
-    <item>
-      <title>本会の活動拠点が決定しました！</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2014/06-16/</link>
-      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2014/06-16/</guid>
-      <description>場所は…？ 群馬大学桐生キャンパス 総合研究棟10階 1007 情報工学科ゼミ室Gとなります！
+部室の様子をちょっと公開 深夜の様子 昼間の様子 机は少し小さいですが、液晶モニタも複数使用でき、ラップトップを1台持ってくれば快適にコーディングできそうですね。 電子レンジと電気ケトルも設置され、放課後てぃーたいむにも最適♪ 今週末あたりに大幅リフォーム予定。さらに快適に作業できるようになるかも？？</description></item><item><title>本会の活動拠点が決定しました！</title><link>https://iggg.github.io/new.iggg.org/news/2014/06-16/</link><pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2014/06-16/</guid><description>場所は…？ 群馬大学桐生キャンパス 総合研究棟10階 1007 情報工学科ゼミ室Gとなります！
 とても見晴らしが良さそうで、コーディングなどいろいろと捗りそうですね。
 会議をします（予定） まだ日程は決まっていませんが、現時点の会員を全員集めて会議を行う予定です。 決まり次第告知いたします。
-会員も引き続き募集中☆（ゝω・）v</description>
-    </item>
-    
-    <item>
-      <title>情報工学科3年生向けに勧誘LTを行いました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2014/06-13/</link>
-      <pubDate>Fri, 13 Jun 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2014/06-13/</guid>
-      <description>**[IGGG勧誘スライド](https://www.slideshare.net/IGGGorg/iggg &#34;IGGG勧誘スライド&#34;)**from **[IGGGorg](http://www.slideshare.net/IGGGorg)** IGGGエバンジェリストのすぱさんが、情報工学科の3年生を対象としたLT（ライトニングトーク）を行いました。</description>
-    </item>
-    
-    <item>
-      <title>IGGG設立の書類が受理されました</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2014/05-28/</link>
-      <pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2014/05-28/</guid>
-      <description>活動拠点の確保や書類作成など紆余曲折ありましたが、無事に申請書類を大学側に提出完了です！ これで、めでたく正式に本会設立となります。
-というわけで 拠点を設けることに関しては一度は無理かと思われる状況にも直面し、共用施設棟で使用されていない帰宅部部室（2m x 1m くらいの空間）の全面リフォームも考えたりしましたが… これから外交官と協力してどうにか設定していきます！</description>
-    </item>
-    
-    <item>
-      <title>Hello IGGG!</title>
-      <link>https://iggg.github.io/new.iggg.org/news/2014/05-17/</link>
-      <pubDate>Sat, 17 May 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://iggg.github.io/new.iggg.org/news/2014/05-17/</guid>
-      <description>ITC運営チームは、新しい組織として群馬大学電子計算機研究会（IGGG: Information technology researching society of the Gunmer, by the Gunmer, for the Gunmer）を発足予定！</description>
-    </item>
-    
-  </channel>
-</rss>
+会員も引き続き募集中☆（ゝω・）v</description></item><item><title>情報工学科3年生向けに勧誘LTを行いました</title><link>https://iggg.github.io/new.iggg.org/news/2014/06-13/</link><pubDate>Fri, 13 Jun 2014 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2014/06-13/</guid><description>**[IGGG勧誘スライド](https://www.slideshare.net/IGGGorg/iggg &#34;IGGG勧誘スライド&#34;)**from **[IGGGorg](http://www.slideshare.net/IGGGorg)** IGGGエバンジェリストのすぱさんが、情報工学科の3年生を対象としたLT（ライトニングトーク）を行いました。</description></item><item><title>IGGG設立の書類が受理されました</title><link>https://iggg.github.io/new.iggg.org/news/2014/05-28/</link><pubDate>Wed, 28 May 2014 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2014/05-28/</guid><description>活動拠点の確保や書類作成など紆余曲折ありましたが、無事に申請書類を大学側に提出完了です！ これで、めでたく正式に本会設立となります。
+というわけで 拠点を設けることに関しては一度は無理かと思われる状況にも直面し、共用施設棟で使用されていない帰宅部部室（2m x 1m くらいの空間）の全面リフォームも考えたりしましたが… これから外交官と協力してどうにか設定していきます！</description></item><item><title>Hello IGGG!</title><link>https://iggg.github.io/new.iggg.org/news/2014/05-17/</link><pubDate>Sat, 17 May 2014 00:00:00 +0000</pubDate><guid>https://iggg.github.io/new.iggg.org/news/2014/05-17/</guid><description>ITC運営チームは、新しい組織として群馬大学電子計算機研究会（IGGG: Information technology researching society of the Gunmer, by the Gunmer, for the Gunmer）を発足予定！</description></item></channel></rss>
