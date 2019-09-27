@@ -25,4 +25,6 @@ jobs:
         DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
         GIT_NAME: Bot
         GIT_EMAIL: example@example.com
-      run: bash .github/scripts/deploy.bash
+      with:
+        entrypoint: /bin/bash
+        args: .github/scripts/deploy.bash
