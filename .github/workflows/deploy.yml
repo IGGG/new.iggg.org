@@ -25,6 +25,7 @@ jobs:
         DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
         GIT_NAME: Bot
         GIT_EMAIL: example@example.com
+        TARGET_BRANCH: master
       with:
         entrypoint: /bin/bash
         args: .github/scripts/deploy.bash

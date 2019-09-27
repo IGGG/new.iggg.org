@@ -18,4 +18,6 @@ jobs:
       run: hugo --gc --cleanDestinationDir --minify --config config-prod.toml
     - name: display status
       uses: docker://buildpack-deps:18.04-scm
-      run: git status
+      with:
+        entrypoint: /bin/bash
+        args: git status

@@ -17,4 +17,4 @@ git remote set-url origin git@github.com:${GITHUB_REPOSITORY}.git
 git status
 git add docs
 git diff --staged --quiet || git commit -m "Update docs by GitHub Actions"
-git push origin ${GITHUB_REF}
+git push origin ${TARGET_BRANCH}
