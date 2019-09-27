@@ -1,6 +1,9 @@
 name: GitHub Pages CD
 
-on: push
+on:
+  push:
+    paths:
+    - '*'
 
 jobs:
   build:
