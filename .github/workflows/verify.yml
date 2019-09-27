@@ -19,5 +19,5 @@ jobs:
     - name: display status
       uses: docker://buildpack-deps:18.04-scm
       with:
-        entrypoint: /bin/bash
-        args: git status
+        entrypoint: git
+        args: status
