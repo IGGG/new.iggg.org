@@ -1,6 +1,9 @@
-name: GitHub Pages CD
+name: Deploy GitHub Pages
 
-on: push
+on:
+  push:
+    branches:
+    - master
 
 jobs:
   build:
@@ -23,7 +26,3 @@ jobs:
         GIT_NAME: Bot
         GIT_EMAIL: example@example.com
       run: bash .github/scripts/deploy.bash
-      on:
-        push:
-          branches:
-          - master

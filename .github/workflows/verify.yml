@@ -1,0 +1,21 @@
+name: Verify PR
+
+on: pull_request
+
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        fetch-depth: 1
+        submodules: true
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2.2.1
+      with:
+        hugo-version: '0.58.3'
+    - name: Build
+      run: hugo --gc --cleanDestinationDir --minify --config config-prod.toml
+    - name: display status
+      uses: docker://buildpack-deps:18.04-scm
+      run: git status
