@@ -1,6 +1,7 @@
 languageCode = "en-ja"
 title = "群馬大学電子計算機研究会 IGGG"
 baseURL = "https://iggg.github.io/new.iggg.org/"
+canonifyURLs = true
 theme = "dopetrope"
 publishdir = "docs"
 
