@@ -45,7 +45,7 @@ theme = "dopetrope"
 
 [params.pages.wiki]
     title = "Wiki"
-    link  = "https://www.iggg.org/wiki/?FrontPage"
+    link  = "https://scrapbox.io/iggg"
     internal = false
     order = 5
 

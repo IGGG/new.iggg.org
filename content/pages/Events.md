@@ -24,7 +24,7 @@ Coming soon...
 重ねて、今回参加していただいた皆様ありがとうございました！
 次回も開催を予定していますので、今後もよろしくお願い申し上げます。
 
-[まとめサイトはこちら](https://www.iggg.org/wiki/?IGGG%20Meetup%202017%20Spring)
+[まとめサイトはこちら](https://scrapbox.io/iggg/IGGG_Meetup_2017_Spring)
 
 ### IGGG Meetup 2016 Summer
 
@@ -41,7 +41,7 @@ Coming soon...
 
 ぜひ次回もご参加ください。
 
-[まとめサイトはコチラ](//www.iggg.org/wiki/?IGGG%20Meetup%202016%20Summer)
+[まとめサイトはコチラ](https://scrapbox.io/iggg/IGGG_Meetup_2016_Summer)
 
 ### IGGG Meetup 2016 Spring
 
@@ -56,7 +56,7 @@ Coming soon...
 今回、参加していただいた皆さん、ありがとうございました。
 ぜひ次回もご参加ください。
 
-[まとめサイトはコチラ](//www.iggg.org/wiki/?IGGG%20Meetup%202016%20Spring)
+[まとめサイトはコチラ](https://scrapbox.io/iggg/IGGG_Meetup_2016_Spring)
 
 ### IGGG Meetup 2016 Winter
 
@@ -72,7 +72,7 @@ Coming soon...
 今回、参加していただいた皆さん、ありがとうございました。
 ぜひ次回もご参加ください。
 
-[まとめサイトはこちら](//www.iggg.org/wiki/?IGGG%20Meetup%202016%20Winter "IGGG Meetup 2015 Spring | IGGG Wiki")
+[まとめサイトはこちら](https://scrapbox.io/iggg/IGGG_Meetup_2016_Winter)
 
 
 ### IGGG Meetup 2015 Summer
@@ -87,7 +87,7 @@ Coming soon...
 
 今回も前回同様、たくさんのご来場ありがとうございました！
 ぜひ次回もご参加ください。
-[まとめサイトはこちら](//www.iggg.org/wiki/?IGGG%20Meetup%202015%20Summer "IGGG Meetup 2015 Spring | IGGG Wiki")
+[まとめサイトはこちら](https://scrapbox.io/iggg/IGGG_Meetup_2015_Summer)
 
 
 ### IGGG Meetup 2015 Spring
@@ -104,7 +104,7 @@ IGGG Meetupは様々な機会を提供します。
 
 30名以上（うち15名が発表者）も参加していただき、歴代最高規模のMeetupとなりました！
 ぜひ次もご参加ください。
-[まとめサイトはこちら](//www.iggg.org/wiki/?IGGG%20Meetup%202015%20Spring "IGGG Meetup 2015 Spring | IGGG Wiki")
+[まとめサイトはこちら](https://scrapbox.io/iggg/IGGG_Meetup_2015_Spring)
 
 ### IGGG Meetup 2015 Winter
 
@@ -117,7 +117,7 @@ IGGGがあなたに贈る、2度目の衝撃。2度目のIGGG Meetupが無事開
 
 IGGG Meetupは初めて…というあなたも、この新年、新たな知識・技術・人々と出会いましょう。
 
-[まとめサイトはこちら](//www.iggg.org/wiki/?IGGG%20Meetup%202015%20Winter "IGGG Meetup 2015 Winter | IGGG Wiki")
+[まとめサイトはこちら](https://scrapbox.io/iggg/IGGG_Meetup_2015_Winter)
 
 ### IGGG Meetup 2014 Summer
 
@@ -132,7 +132,7 @@ IGGG Meetupは初めて…というあなたも、この新年、新たな知識
 
 **今回もご参加ありがとうございました。**
 
-[まとめサイトはこちら](//www.iggg.org/wiki/?IGGG%20Meetup%202014%20Summer "IGGG Meetup 2014 Summer | IGGG Wiki")
+[まとめサイトはこちら](https://scrapbox.io/iggg/IGGG_Meetup_2014_Summer)
 
 ### ITCFes 2014 春の陣
 
